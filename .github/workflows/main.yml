@@ -21,23 +21,23 @@ jobs:
           folder_name="xml-NHK_${current_week}"
           mkdir -p $folder_name
           sleep 3
-          curl -o "${folder_name}/nhk_main_${current_time}.xml" https://www.nhk.or.jp//www.nhk.or.jp/rss/news/cat0.xml
+          curl -o "${folder_name}/nhk_main_${current_time}.xml" https://www.nhk.or.jp/rss/news/cat0.xml
           sleep 3
-          curl -o "${folder_name}/nhk_domestic_${current_time}.xml" https://www.nhk.or.jp//www.nhk.or.jp/rss/news/cat1.xml
+          curl -o "${folder_name}/nhk_domestic_${current_time}.xml" https://www.nhk.or.jp/rss/news/cat1.xml
           sleep 3
-          curl -o "${folder_name}/nhk_science_${current_time}.xml" https://www.nhk.or.jp//www.nhk.or.jp/rss/news/cat3.xml
+          curl -o "${folder_name}/nhk_science_${current_time}.xml" https://www.nhk.or.jp/rss/news/cat3.xml
           sleep 3
-          curl -o "${folder_name}/nhk_politics_${current_time}.xml" https://www.nhk.or.jp//www.nhk.or.jp/rss/news/cat4.xml
+          curl -o "${folder_name}/nhk_politics_${current_time}.xml" https://www.nhk.or.jp/rss/news/cat4.xml
           sleep 3
-          curl -o "${folder_name}/nhk_economics_${current_time}.xml" https://www.nhk.or.jp//www.nhk.or.jp/rss/news/cat5.xml
+          curl -o "${folder_name}/nhk_economics_${current_time}.xml" https://www.nhk.or.jp/rss/news/cat5.xml
           sleep 3
-          curl -o "${folder_name}/nhk_world_${current_time}.xml" https://www.nhk.or.jp//www.nhk.or.jp/rss/news/cat6.xml
+          curl -o "${folder_name}/nhk_world_${current_time}.xml" https://www.nhk.or.jp/rss/news/cat6.xml
           sleep 3
-          curl -o "${folder_name}/nhk_sports_${current_time}.xml" https://www.nhk.or.jp//www.nhk.or.jp/rss/news/cat7.xml
+          curl -o "${folder_name}/nhk_sports_${current_time}.xml" https://www.nhk.or.jp/rss/news/cat7.xml
           sleep 3
-          curl -o "${folder_name}/nhk_bunka_${current_time}.xml" https://www.nhk.or.jp//www.nhk.or.jp/rss/news/cat2.xml
+          curl -o "${folder_name}/nhk_bunka_${current_time}.xml" https://www.nhk.or.jp/rss/news/cat2.xml
           sleep 3
-          curl -o "${folder_name}/nhk_live_${current_time}.xml" https://www.nhk.or.jp//www.nhk.or.jp/rss/news/cat-live.xml
+          curl -o "${folder_name}/nhk_live_${current_time}.xml" https://www.nhk.or.jp/rss/news/cat-live.xml
 
 
       - name: Set Git Config
