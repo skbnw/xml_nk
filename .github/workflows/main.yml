@@ -28,7 +28,7 @@ jobs:
           sleep 3
           curl -o "${folder_name}/nhk_politics_${current_time}.xml" https://www.nhk.or.jp//www.nhk.or.jp/rss/news/cat4.xml
           sleep 3
-          curl -o "${folder_name}/nhk_economics_${current_time}.xml" https://www.nhk.or.jp//www.nhk.or.jp/rss/news/cat5.xml)
+          curl -o "${folder_name}/nhk_economics_${current_time}.xml" https://www.nhk.or.jp//www.nhk.or.jp/rss/news/cat5.xml
           sleep 3
           curl -o "${folder_name}/nhk_world_${current_time}.xml" https://www.nhk.or.jp//www.nhk.or.jp/rss/news/cat6.xml
           sleep 3
