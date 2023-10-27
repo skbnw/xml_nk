@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sat, 28 Oct 2023 05:23:07 +0900</lastBuildDate>
+<item>
+<title>国連総会 ガザ人道的休戦の決議を採択 アメリカなどは反対</title>
+<link>http://www3.nhk.or.jp/news/html/20231028/k10014240221000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20231028/k10014240221000.html</guid>
+<pubDate>Sat, 28 Oct 2023 05:22:46 +0900</pubDate>
+<description>イスラエル軍とイスラム組織ハマスの軍事衝突をめぐり、国連総会の緊急特別会合では、27日、人道目的での休戦などを求める決議が賛成多数で採択されました。採決の結果、アラブ諸国やロシアや中国、フランスなど120か国が賛成しましたが、ハマスによる攻撃などを非難する内容が含まれていなかったことから、アメリカやイスラエルなど14か国が反対、日本やイギリスなど45か国が棄権しました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
