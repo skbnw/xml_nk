@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Thu, 02 Nov 2023 03:05:35 +0900</lastBuildDate>
+<item>
+<title>米FRB 2会合連続利上げ見送り 物価上昇落ち着く傾向など踏まえ</title>
+<link>http://www3.nhk.or.jp/news/html/20231102/k10014244951000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20231102/k10014244951000.html</guid>
+<pubDate>Thu, 02 Nov 2023 03:05:14 +0900</pubDate>
+<description>アメリカのFRB＝連邦準備制度理事会は金融政策を決める会合を開き、1日、利上げを見送り、政策金利を据え置くことを決定したと発表しました。FRBが利上げを見送るのは前回、9月に続き2会合連続です。物価の上昇は落ち着く傾向がみられ、インフレの要因となってきた人手不足も改善していることなどを踏まえ、利上げを見送ったものと見られます。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
