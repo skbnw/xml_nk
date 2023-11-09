@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Fri, 10 Nov 2023 01:01:58 +0900</lastBuildDate>
+<item>
+<title>米ホワイトハウス “イスラエルが1日4時間 戦闘の休止始める”</title>
+<link>http://www3.nhk.or.jp/news/html/20231110/k10014253241000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20231110/k10014253241000.html</guid>
+<pubDate>Fri, 10 Nov 2023 01:01:39 +0900</pubDate>
+<description>アメリカのホワイトハウスは、9日、イスラエルが地上侵攻を続けるガザ地区北部で、人道目的のため1日4時間の戦闘の休止を始めると発表しました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
