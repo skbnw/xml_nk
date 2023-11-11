@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sat, 11 Nov 2023 20:35:54 +0900</lastBuildDate>
+<item>
+<title>クレジットカード決済で全国的な障害 スーパーやコンビニなど</title>
+<link>http://www3.nhk.or.jp/news/html/20231111/k10014255371000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20231111/k10014255371000.html</guid>
+<pubDate>Sat, 11 Nov 2023 20:35:35 +0900</pubDate>
+<description>複数のクレジットカード会社によりますと、11日夕方から全国のスーパーやコンビニそれにJRの駅などでクレジットカードの決済ができないトラブルが起きているということです。カード会社によりますとクレジットカードの決済システムを運営している「日本カードネットワーク」のシステムに障害が発生しているということです。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
