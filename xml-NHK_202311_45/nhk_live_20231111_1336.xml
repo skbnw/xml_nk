@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sat, 11 Nov 2023 22:28:34 +0900</lastBuildDate>
+<item>
+<title>クレジットカード決済の障害解消 決済システム親会社のJCB発表</title>
+<link>http://www3.nhk.or.jp/news/html/20231111/k10014255441000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20231111/k10014255441000.html</guid>
+<pubDate>Sat, 11 Nov 2023 22:28:14 +0900</pubDate>
+<description>11日夕方から全国的に発生したクレジットカードの決済トラブルについてクレジットカード会社の「JCB」はトラブルが解消したことを明らかにしました。JCBの子会社で、クレジットカードの決済システムを運営している「日本カードネットワーク」の決済システムに障害が発生したということですが原因はわかっていないということです。この影響で全国のスーパーやコンビニ、それにJRの駅などでクレジットカードの決済ができないトラブルが起き、商品の購入などに影響が広がりました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>鹿児島県 中之島で震度４ 津波の心配なし</title>
+<link>http://www3.nhk.or.jp/news/html/20231111/k10014255421000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20231111/k10014255421000.html</guid>
+<pubDate>Sat, 11 Nov 2023 22:08:30 +0900</pubDate>
+<description>１１日午後１０時２分ごろ地震がありました。この地震による津波の心配はありません。震源地はトカラ列島近海で震源の深さは２０キロ、地震の規模を示すマグニチュードは４．２と推定されます。各市町村の震度は以下のとおりです。▼震度４が、鹿児島県中之島。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
