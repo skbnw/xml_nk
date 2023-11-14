@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Wed, 15 Nov 2023 07:09:49 +0900</lastBuildDate>
+<item>
+<title>北朝鮮“新型ミサイルエンジン 初の地上燃焼実験に成功”</title>
+<link>http://www3.nhk.or.jp/news/html/20231115/k10014258361000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20231115/k10014258361000.html</guid>
+<pubDate>Wed, 15 Nov 2023 07:04:21 +0900</pubDate>
+<description>北朝鮮は、新型の中距離弾道ミサイルに使用する大出力の固体燃料式エンジンの初めての地上燃焼実験を、今月11日と14日のあわせて2回実施して成功したと、15日、国営メディアを通じて発表しました。北朝鮮は過去に、液体燃料式の中距離弾道ミサイルの発射実験を、日本の上空を通過させる形などで繰り返してきた経緯があり、新たに制定した、今月18日の記念日「ミサイル工業節」を前にして関係国が警戒を強めています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
