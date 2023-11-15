@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Thu, 16 Nov 2023 05:52:03 +0900</lastBuildDate>
+<item>
+<title>国連安保理 戦闘休止求める決議採択 ガザ地区での軍事衝突後初</title>
+<link>http://www3.nhk.or.jp/news/html/20231116/k10014259551000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20231116/k10014259551000.html</guid>
+<pubDate>Thu, 16 Nov 2023 05:51:43 +0900</pubDate>
+<description>イスラエル軍とイスラム組織ハマスの軍事衝突をめぐり、国連の安全保障理事会では15日、日本時間の16日午前5時半すぎ、ガザ地区の子どもの人道状況を改善するための戦闘の休止を求める決議が、賛成多数で採択されました。安保理では一連の衝突が始まってからこの1か月あまりで、事態の打開を目指す決議案が4回にわたって否決されていて、決議が採択されたのはこれが初めてです。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
