@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Fri, 17 Nov 2023 17:52:09 +0900</lastBuildDate>
+<item>
+<title>フィリピン付近 M7.2地震 日本で潮位変化可能性も被害心配なし</title>
+<link>http://www3.nhk.or.jp/news/html/20231117/k10014261461000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20231117/k10014261461000.html</guid>
+<pubDate>Fri, 17 Nov 2023 17:51:37 +0900</pubDate>
+<description>ハワイにある太平洋津波警報センターから気象庁に入った連絡によりますと、日本時間の17日午後5時14分ごろ、フィリピンのミンダナオ島付近を震源とするマグニチュード7.2の大きな地震がありました。気象庁によりますと、この地震で日本では多少の潮位の変化があるかもしれませんが、被害の心配はないということです。気象庁は震源の近くで津波が発生するおそれがあるとして、周辺の各国に「北西太平洋津波情報」を発表しました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
