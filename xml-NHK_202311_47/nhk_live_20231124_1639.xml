@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sat, 25 Nov 2023 01:04:53 +0900</lastBuildDate>
+<item>
+<title>“イスラエルの人質13人解放” 戦闘休止合意受け 地元メディア</title>
+<link>http://www3.nhk.or.jp/news/html/20231125/k10014268571000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20231125/k10014268571000.html</guid>
+<pubDate>Sat, 25 Nov 2023 01:04:33 +0900</pubDate>
+<description>イスラエルの複数のメディアは24日、イスラム組織ハマスがガザ地区で拘束していた人質のうち、イスラエル人13人が解放されたと伝えました。ハマスはカタールなどの仲介でイスラエルと4日間の戦闘休止と引き換えに人質50人を解放することで合意していて、今回の解放はその第一陣とみられます。これに先立ち、タイ政府はハマスの人質となっていたタイ人12人も解放されたと発表していました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
