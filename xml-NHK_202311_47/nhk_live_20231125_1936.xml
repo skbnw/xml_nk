@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sun, 26 Nov 2023 04:24:56 +0900</lastBuildDate>
+<item>
+<title>カタール “障害取り除かれ人質は解放へ”と発表</title>
+<link>http://www3.nhk.or.jp/news/html/20231126/k10014269091000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20231126/k10014269091000.html</guid>
+<pubDate>Sun, 26 Nov 2023 04:24:37 +0900</pubDate>
+<description>イスラム組織ハマスが第2陣の人質の解放を遅らせるとしていたことについて仲介役を担ってきたカタール外務省の報道官は25日、SNSで「カタールとエジプトがイスラエルとハマス双方と連絡を取り合った結果、障害は取り除かれた。今夜39人のパレスチナ人が釈放され、ガザ地区から13人のイスラエル人の人質が解放される」と発表しました。さらに合意の枠組みとは別に外国籍の7人がガザ地区から解放されるとしています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
