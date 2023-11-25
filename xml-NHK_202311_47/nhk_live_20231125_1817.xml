@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sun, 26 Nov 2023 03:01:29 +0900</lastBuildDate>
+<item>
+<title>ハマス“第2陣の人質の解放は遅らせる”と声明</title>
+<link>http://www3.nhk.or.jp/news/html/20231126/k10014269001000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20231126/k10014269001000.html</guid>
+<pubDate>Sun, 26 Nov 2023 03:01:10 +0900</pubDate>
+<description>パレスチナのガザ地区を実効支配するイスラム組織ハマスは、25日、「第2陣の人質の解放はイスラエル側が支援物資をガザ地区北部に送る合意を順守するまで遅らせる」とする声明を発表しました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
