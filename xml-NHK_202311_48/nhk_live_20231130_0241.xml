@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Thu, 30 Nov 2023 11:33:07 +0900</lastBuildDate>
+<item>
+<title>ChatGPT開発 アルトマン氏 「オープンAI」CEOに復帰</title>
+<link>http://www3.nhk.or.jp/news/html/20231130/k10014273111000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20231130/k10014273111000.html</guid>
+<pubDate>Thu, 30 Nov 2023 11:32:45 +0900</pubDate>
+<description>生成AIのChatGPTを開発した「オープンAI」を一度は解任されたサム・アルトマン氏は29日、CEOに正式に復帰したと会社が発表しました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
