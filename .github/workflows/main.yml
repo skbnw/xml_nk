@@ -2,7 +2,7 @@ name: Fetch NHK RSS Feed
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # Run every 30 mins
+    - cron: '00 * * * *'  # Run every 1 hour
 
 jobs:
   fetch-rss:
