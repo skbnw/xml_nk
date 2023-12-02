@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sun, 03 Dec 2023 04:55:30 +0900</lastBuildDate>
+<item>
+<title>【速報中】八丈島で40cm 太平洋沿岸で津波観測 津波注意報継続</title>
+<link>http://www3.nhk.or.jp/news/html/20231203/k10014276181000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20231203/k10014276181000.html</guid>
+<pubDate>Sun, 03 Dec 2023 04:55:10 +0900</pubDate>
+<description>2日夜遅く、フィリピン付近を震源とする大地震があり、気象庁は宮古島・八重山地方や鹿児島県の奄美群島・トカラ列島九州から千葉県にかけての太平洋沿岸などに津波注意報を発表しました。3日明け方以降、奄美大島のほか九州から東海、伊豆諸島にかけての太平洋沿岸で最大40センチの津波を観測しました。津波注意報が出ている沿岸では、海岸や川の河口付近から離れ、近づかないで下さい。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
