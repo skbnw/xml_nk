@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Mon, 04 Dec 2023 03:09:05 +0900</lastBuildDate>
+<item>
+<title>インドネシアの火山で大規模噴火 日本への津波影響なし 気象庁</title>
+<link>http://www3.nhk.or.jp/news/html/20231203/k10014276811000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20231203/k10014276811000.html</guid>
+<pubDate>Mon, 04 Dec 2023 03:06:45 +0900</pubDate>
+<description>3日夕方、インドネシアの火山で発生した大規模な噴火について、気象庁は噴火による津波の有無を調べていましたが、4日午前3時、「日本への津波の影響はない」と発表しました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
