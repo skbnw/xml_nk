@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Mon, 04 Dec 2023 07:32:02 +0900</lastBuildDate>
+<item>
+<title>山陽新幹線 新大阪～岡山間の下り線で運転見合わせ</title>
+<link>http://www3.nhk.or.jp/news/html/20231204/k10014277141000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20231204/k10014277141000.html</guid>
+<pubDate>Mon, 04 Dec 2023 07:31:43 +0900</pubDate>
+<description>JR西日本によりますと、山陽新幹線は、車両に異常を知らせる表示が出て点検を行うため、新大阪駅と岡山駅の間の下り線で午前7時から運転を見合わせています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
