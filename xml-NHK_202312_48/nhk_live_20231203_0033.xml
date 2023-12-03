@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sun, 03 Dec 2023 09:20:24 +0900</lastBuildDate>
+<item>
+<title>津波注意報すべて解除 気象庁“多少の潮位変化続く可能性”</title>
+<link>http://www3.nhk.or.jp/news/html/20231203/k10014276181000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20231203/k10014276181000.html</guid>
+<pubDate>Sun, 03 Dec 2023 09:17:47 +0900</pubDate>
+<description>2日夜遅く、フィリピン付近を震源とする大地震があり、伊豆諸島の八丈島で40センチの津波を観測したほか九州から関東にかけての太平洋沿岸や奄美地方などにも津波が到達しました。気象庁は太平洋沿岸などの広い範囲に津波注意報を発表していましたが、さきほど午前9時にすべて解除しました。一方、このあと各地で満潮時刻を迎えるほか、1日程度は多少の潮位の変化が続く可能性があるため、気象庁は念のため海岸には近づかないよう呼びかけています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
