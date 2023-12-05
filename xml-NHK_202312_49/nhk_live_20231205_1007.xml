@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Tue, 05 Dec 2023 18:47:43 +0900</lastBuildDate>
+<item>
+<title>愛知 安城 溶接工場で火災 延焼中 逃げ遅れた人が1人の情報も</title>
+<link>http://www3.nhk.or.jp/news/html/20231205/k10014278901000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20231205/k10014278901000.html</guid>
+<pubDate>Tue, 05 Dec 2023 18:47:22 +0900</pubDate>
+<description>5日夕方、愛知県安城市の溶接工場で火災が発生しました。火は隣の住宅の一部にも燃え広がっているということで、消火活動が続けられています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
