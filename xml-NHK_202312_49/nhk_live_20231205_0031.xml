@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Tue, 05 Dec 2023 09:11:50 +0900</lastBuildDate>
+<item>
+<title>東京23区 11月の消費者物価指数 去年同月より2.3％上昇</title>
+<link>http://www3.nhk.or.jp/news/html/20231205/k10014278161000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20231205/k10014278161000.html</guid>
+<pubDate>Tue, 05 Dec 2023 09:11:32 +0900</pubDate>
+<description>東京23区の11月の消費者物価指数は、速報値で、天候による変動が大きい生鮮食品を除いた指数が去年の同じ月より2.3％上昇しました。上昇率は10月の2.7％から0.4ポイント下がり、4か月連続の2％台となりました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
