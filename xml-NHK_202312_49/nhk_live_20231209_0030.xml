@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sat, 09 Dec 2023 09:07:01 +0900</lastBuildDate>
+<item>
+<title>EU AI利用などの規制法案 大筋合意 委員長“世界で初めて”</title>
+<link>http://www3.nhk.or.jp/news/html/20231209/k10014283091000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20231209/k10014283091000.html</guid>
+<pubDate>Sat, 09 Dec 2023 09:06:41 +0900</pubDate>
+<description>EU＝ヨーロッパ連合は、AIの利用などについて定めた規制法案について大筋合意しました。今後、加盟国とヨーロッパ議会の承認を経て正式に成立します。ヨーロッパ委員会のフォンデアライエン委員長は、SNSに「EUのAI規制法は世界で初めてのものだ。信頼できるAIを開発するための唯一の法的枠組みで、人々の安全と基本的権利、それに企業を守るものでもある」と投稿し、合意を歓迎しました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
