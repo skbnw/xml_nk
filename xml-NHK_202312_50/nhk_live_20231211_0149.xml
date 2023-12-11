@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Mon, 11 Dec 2023 10:46:21 +0900</lastBuildDate>
+<item>
+<title>auなどKDDIの通信障害 音声通話は復旧 データは継続【速報中】</title>
+<link>http://www3.nhk.or.jp/news/html/20231211/k10014284381000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20231211/k10014284381000.html</guid>
+<pubDate>Mon, 11 Dec 2023 10:46:02 +0900</pubDate>
+<description>KDDIの携帯電話サービスで11日朝から西日本を中心に通信障害が発生し、auなどの音声通話やデータ通信が利用できなかったり、利用しづらくなったりしていましたが、会社は、音声通話などの障害については、午前9時50分までに復旧したと発表しました。一方データ通信については西日本を中心とした地域だけでなく、全国的に利用しづらい状況が発生しているということで、会社は復旧作業を急いでいます。KDDIは「お客様に多大なご迷惑をおかけし深くおわび申し上げます」とコメントしています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
