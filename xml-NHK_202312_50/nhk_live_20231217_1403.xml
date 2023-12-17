@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sun, 17 Dec 2023 22:58:33 +0900</lastBuildDate>
+<item>
+<title>北朝鮮が弾道ミサイルの可能性のあるもの発射 防衛省が発表</title>
+<link>http://www3.nhk.or.jp/news/html/20231217/k10014290961000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20231217/k10014290961000.html</guid>
+<pubDate>Sun, 17 Dec 2023 22:58:14 +0900</pubDate>
+<description>防衛省は北朝鮮から弾道ミサイルの可能性のあるものが発射されたと発表しました。防衛省は日本への影響がないか情報の収集を進めています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
