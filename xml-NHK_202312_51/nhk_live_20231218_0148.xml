@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Mon, 18 Dec 2023 10:43:44 +0900</lastBuildDate>
+<item>
+<title>【速報中】北朝鮮の弾道ミサイル可能性あるもの EEZ外に落下か</title>
+<link>http://www3.nhk.or.jp/news/html/20231218/k10014291071000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20231218/k10014291071000.html</guid>
+<pubDate>Mon, 18 Dec 2023 10:43:24 +0900</pubDate>
+<description>防衛省幹部によりますと、北朝鮮から発射された弾道ミサイルの可能性があるものは、18日午前9時37分ごろ、日本のEEZ＝排他的経済水域の外側に落下したと推定されるということです。また、ICBM＝大陸間弾道ミサイルである可能性があるということです。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
