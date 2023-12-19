@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Tue, 19 Dec 2023 11:59:06 +0900</lastBuildDate>
+<item>
+<title>【速報中】日銀 金融政策決定会合 大規模な金融緩和策を維持</title>
+<link>http://www3.nhk.or.jp/news/html/20231219/k10014291361000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20231219/k10014291361000.html</guid>
+<pubDate>Tue, 19 Dec 2023 11:53:09 +0900</pubDate>
+<description>日銀は、19日まで開いた金融政策決定会合で、大規模な金融緩和策を維持することを決めました。市場では、日銀が早期に金融政策の正常化に向けて動くのではないかという観測も出ていましたが、いまの金融緩和策を粘り強く続ける必要があると判断しました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
