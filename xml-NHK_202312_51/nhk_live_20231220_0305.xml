@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Wed, 20 Dec 2023 11:59:02 +0900</lastBuildDate>
+<item>
+<title>ダイハツ 国内外の全車種出荷停止へ 不正データで認証取得</title>
+<link>http://www3.nhk.or.jp/news/html/20231220/k10014293451000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20231220/k10014293451000.html</guid>
+<pubDate>Wed, 20 Dec 2023 11:45:46 +0900</pubDate>
+<description>自動車メーカーのダイハツ工業が必要な衝突試験を行わずに不正なデータを使って国の認証を取得していた問題で、第三者委員会によるその後の調査で新たな不正が見つかり、会社は、国内外のすべての車種で出荷を停止することがわかりました。すでに2つの車種で行っている生産の停止も拡大する見通しで、会社は20日、国土交通省に報告するとともに、その内容を公表することにしています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
