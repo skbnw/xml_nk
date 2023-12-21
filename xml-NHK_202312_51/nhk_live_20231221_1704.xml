@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Fri, 22 Dec 2023 01:25:20 +0900</lastBuildDate>
+<item>
+<title>富山県に「顕著な大雪に関する情報」大規模な交通障害など警戒</title>
+<link>http://www3.nhk.or.jp/news/html/20231222/k10014295811000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20231222/k10014295811000.html</guid>
+<pubDate>Fri, 22 Dec 2023 01:25:01 +0900</pubDate>
+<description>真冬並みの寒気や冬型の気圧配置の影響で、西日本から北日本の日本海側を中心に雪が強まり、気象庁は富山県で3時間に20センチの雪を観測したとして「顕著な大雪に関する気象情報」を発表しました。気象庁は大規模な交通障害の発生などに警戒を呼びかけています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
