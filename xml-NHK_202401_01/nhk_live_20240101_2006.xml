@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Tue, 02 Jan 2024 04:50:57 +0900</lastBuildDate>
+<item>
+<title>石川県 能登地方で震度4（4:42）</title>
+<link>http://www3.nhk.or.jp/news/html/20240102/k10014306631000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240102/k10014306631000.html</guid>
+<pubDate>Tue, 02 Jan 2024 04:50:36 +0900</pubDate>
+<description>２日午前４時４２分ごろ地震がありました。現在、震度４以上が観測されている地域は以下のとおりです。▼震度４が、石川県能登地方。今後の情報に注意してください。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
