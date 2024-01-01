@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Mon, 01 Jan 2024 23:48:10 +0900</lastBuildDate>
+<item>
+<title>石川 志賀町で震度4 地震（23:30）</title>
+<link>http://www3.nhk.or.jp/news/html/20240101/k10014306411000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240101/k10014306411000.html</guid>
+<pubDate>Mon, 01 Jan 2024 23:47:49 +0900</pubDate>
+<description>１日午後１１時３０分ごろ地震がありました。震源地は石川県能登地方で震源の深さは１０キロ、地震の規模を示すマグニチュードは４．３と推定されます。各市町村の震度は以下のとおりです。▼震度４が、石川県志賀町。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>気象庁 1日午後11時発表の“石川県能登地方で震度7”取り消し</title>
+<link>http://www3.nhk.or.jp/news/html/20240101/k10014306371000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240101/k10014306371000.html</guid>
+<pubDate>Mon, 01 Jan 2024 23:38:01 +0900</pubDate>
+<description>1日午後11時3分ごろ、気象庁は石川県能登地方を震源とする震度7の揺れを観測する地震が発生したと発表しましたが、誤りだったとして取り消し、実際に観測されたのは震度3だったと発表しました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
