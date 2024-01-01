@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Tue, 02 Jan 2024 02:36:47 +0900</lastBuildDate>
+<item>
+<title>福岡と佐賀 津波注意報を解除 気象庁</title>
+<link>http://www3.nhk.or.jp/news/html/20240102/k10014306551000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240102/k10014306551000.html</guid>
+<pubDate>Tue, 02 Jan 2024 02:36:28 +0900</pubDate>
+<description>気象庁は福岡県と佐賀県に発表していた津波注意報を2日午前2時半に解除しました。今後、若干の海面変動が予想されるものの、被害の心配はないとしています。一方、北海道から中国地方にかけての日本海沿岸などと長崎県の壱岐・対馬には引き続き津波注意報が発表されています。津波注意報が出ている沿岸では、海岸や川の河口付近から離れ、近づかないでください。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
