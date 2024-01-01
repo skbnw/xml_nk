@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Mon, 01 Jan 2024 22:05:16 +0900</lastBuildDate>
+<item>
+<title>【ライブ配信中】気象庁会見「津波警報解除まで安全な場所に」</title>
+<link>http://www3.nhk.or.jp/news/html/20240101/k10014306031000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240101/k10014306031000.html</guid>
+<pubDate>Mon, 01 Jan 2024 21:42:31 +0900</pubDate>
+<description>気象庁は1日午後9時半から再び会見を開き、能登半島で続く地震活動や津波の状況、警戒すべき点などについて説明しています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>【被害まとめ】“生き埋め6件の報告”輪島でビル倒壊の通報も</title>
+<link>http://www3.nhk.or.jp/news/html/20240101/k10014305271000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240101/k10014305271000.html</guid>
+<pubDate>Mon, 01 Jan 2024 21:57:47 +0900</pubDate>
+<description>1日午後4時すぎに能登地方で震度7の揺れを観測する地震が起き、一時、大津波警報が発表されました。林官房長官は、緊急の記者会見で「建物倒壊などによる生き埋めが6件、発生をしているという報告を受けている」と述べました。また石川県輪島市では「ビルが倒壊して隣の建物を押しつぶし、そこにいた2人が逃げ遅れて取り残されている」という通報があったということです。NHKが各地の消防や病院などに取材したところ、1日午後9時現在、石川県、新潟県、福井県、富山県、岐阜県の5つの県で複数の人がけがをしているほか、倒壊した家屋に逃げ遅れた住民が取り残されているという情報もあるということです。各地の被害について随時更新してお伝えしています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>石川で震度7 津波警報が山形～兵庫北部に発表 安全な場所へ</title>
+<link>http://www3.nhk.or.jp/news/html/20240101/k10014305061000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240101/k10014305061000.html</guid>
+<pubDate>Mon, 01 Jan 2024 21:33:06 +0900</pubDate>
+<description>1日午後4時すぎ、石川県能登地方を震源とする地震があり、気象庁は、石川県能登に大津波警報を発表していましたが、午後8時半に津波警報に切り替えました。津波警報が出ている山形県や新潟県、北陸、兵庫県北部では、引き続き高台など安全な場所で避難を続けて下さい。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>【動画】金沢市内の住宅内 激しく揺れている様子</title>
+<link>http://www3.nhk.or.jp/news/html/20240101/k10014305261000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240101/k10014305261000.html</guid>
+<pubDate>Mon, 01 Jan 2024 21:26:45 +0900</pubDate>
+<description>午後4時過ぎに金沢市内の住宅で撮影された映像です。家全体が大きな音を立てて激しく揺れている様子が確認できます。住民の男性がテレビが倒れそうになるのを手で押さえています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>【津波観測】石川県輪島1m20cm以上 輪島と珠洲でデータ入らず</title>
+<link>http://www3.nhk.or.jp/news/html/20240101/k10014305091000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240101/k10014305091000.html</guid>
+<pubDate>Mon, 01 Jan 2024 22:04:53 +0900</pubDate>
+<description>1日午後4時すぎ、石川県能登地方を震源とする地震があり、気象庁は、石川県能登に大津波警報を発表していましたが、午後8時半に津波警報に切り替えました。津波警報が出ている山形県や新潟県、北陸、兵庫県北部では、引き続き高台など安全な場所で避難を続けて下さい。また、気象庁によりますと、石川県能登地方を震源とする地震が発生して以降、珠洲市にある津波観測計のデータが入ってきていないということです。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>志賀原発“外部電源一部使えずも 冷却問題なし” 原子力規制庁</title>
+<link>http://www3.nhk.or.jp/news/html/20240101/k10014305671000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240101/k10014305671000.html</guid>
+<pubDate>Mon, 01 Jan 2024 21:35:02 +0900</pubDate>
+<description>原子力規制庁によりますと、石川県志賀町にある北陸電力の志賀原発では、地震が起きた際、2号機の外部から電気を受けるための変圧器付近で、爆発音や焦げくさい臭いが確認され、この変圧器を使って電気を受ける系統が使えなくなっているということです。また、1号機でも別の1系統が変圧器の油漏れのため使えなくなっている状況だということです。現在、1号機、2号機ともに他の系統を使って電気を受けているほか、外部電源が無くなった場合でも非常用のディーゼル発電機がそれぞれ複数あって発電することが可能で、現在のところ核燃料を貯蔵している使用済み燃料プールの冷却に問題はないということです。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>【ライフライン】新幹線は一部で見合わせ 能登空港2日全便欠航</title>
+<link>http://www3.nhk.or.jp/news/html/20240101/k10014305081000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240101/k10014305081000.html</guid>
+<pubDate>Mon, 01 Jan 2024 22:00:47 +0900</pubDate>
+<description>1日午後4時すぎに能登地方で震度7の揺れを観測する地震が起き、津波警報が発表されています。各地の交通や停電、通信などへの影響について随時更新でまとめます。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
