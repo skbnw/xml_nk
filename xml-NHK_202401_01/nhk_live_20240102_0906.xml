@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Tue, 02 Jan 2024 18:02:34 +0900</lastBuildDate>
+<item>
+<title>羽田空港 滑走路付近で火災か</title>
+<link>http://www3.nhk.or.jp/news/html/20240102/k10014307191000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240102/k10014307191000.html</guid>
+<pubDate>Tue, 02 Jan 2024 18:02:12 +0900</pubDate>
+<description>NHKが羽田空港に設置したカメラの映像には、午後6時すぎ、滑走路の付近で炎が立ち上り、消火活動が行われている様子が映っています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>能登地方で震度5強の地震 志賀原発に被害確認されず（17:13）</title>
+<link>http://www3.nhk.or.jp/news/html/20240102/k10014307141000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240102/k10014307141000.html</guid>
+<pubDate>Tue, 02 Jan 2024 18:00:44 +0900</pubDate>
+<description>2日午後5時13分ごろ石川県で震度5強の揺れを観測する地震がありました。この地震による津波の心配はありません。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
