@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Tue, 02 Jan 2024 18:50:59 +0900</lastBuildDate>
+<item>
+<title>【中継・速報】羽田空港 日本航空の機体が炎上 全員脱出の情報</title>
+<link>http://www3.nhk.or.jp/news/html/20240102/k10014307191000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240102/k10014307191000.html</guid>
+<pubDate>Tue, 02 Jan 2024 18:50:27 +0900</pubDate>
+<description>日本航空やNHKが羽田空港に設置したカメラの映像によりますと、2日午後5時47分ごろ、日本航空516便が羽田空港のC滑走路に着陸した直後に機体から炎が上がりました。炎上しているのは日本航空516便で、2日午後4時に新千歳空港を出発し、午後5時40分に羽田空港に着陸する予定だったということです。国土交通省関係者によりますと、海上保安庁の機体が滑走路付近で衝突したという情報があるということです。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
