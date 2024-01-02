@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Tue, 02 Jan 2024 11:56:15 +0900</lastBuildDate>
+<item>
+<title>地震 石川 輪島市内で15人死亡確認</title>
+<link>http://www3.nhk.or.jp/news/html/20240102/k10014306941000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240102/k10014306941000.html</guid>
+<pubDate>Tue, 02 Jan 2024 11:55:53 +0900</pubDate>
+<description>石川県輪島市によりますと、2日午前11時の時点で今回の地震による死者が市内で15人確認されたということです。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
