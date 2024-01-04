@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Thu, 04 Jan 2024 12:01:15 +0900</lastBuildDate>
+<item>
+<title>能登半島地震 安否不明者51人の氏名 石川県が公表</title>
+<link>http://www3.nhk.or.jp/news/html/20240103/k10014308261000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240103/k10014308261000.html</guid>
+<pubDate>Thu, 04 Jan 2024 12:00:51 +0900</pubDate>
+<description>石川県能登地方を震源とする地震で、県は、住民基本台帳をもとに現時点で安否が分かっていない人として51人の氏名や年齢などを公表し広く情報の提供を求めています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>東急東横線と東京メトロ副都心線 全線で運転再開</title>
+<link>http://www3.nhk.or.jp/news/html/20240104/k10014308641000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240104/k10014308641000.html</guid>
+<pubDate>Thu, 04 Jan 2024 11:52:55 +0900</pubDate>
+<description>東急電鉄によりますと東急東横線は、東京・渋谷区の渋谷駅での車内の安全確認のため、全線で運転を見合わせていましたが午前11時半に運転を再開しました。また、東京メトロによりますと副都心線も全線で運転を再開しました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
