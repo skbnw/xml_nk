@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Thu, 04 Jan 2024 16:03:14 +0900</lastBuildDate>
+<item>
+<title>石川 志賀町で震度4の地震 津波の心配なし（15:56）</title>
+<link>http://www3.nhk.or.jp/news/html/20240104/k10014309031000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240104/k10014309031000.html</guid>
+<pubDate>Thu, 04 Jan 2024 16:00:55 +0900</pubDate>
+<description>４日午後３時５６分ごろ地震がありました。この地震による津波の心配はありません。震源地は石川県能登地方で震源の深さは１０キロ、地震の規模を示すマグニチュードは３．９と推定されます。各市町村の震度は以下のとおりです。▼震度４が、石川県志賀町。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>石川 珠洲市で震度4の地震 津波の心配なし（15:46）</title>
+<link>http://www3.nhk.or.jp/news/html/20240104/k10014309011000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240104/k10014309011000.html</guid>
+<pubDate>Thu, 04 Jan 2024 16:02:51 +0900</pubDate>
+<description>4日午後3時46分ごろ石川県で震度4の揺れを観測する地震がありました。この地震による津波の心配はありません。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
