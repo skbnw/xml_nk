@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sat, 06 Jan 2024 10:51:55 +0900</lastBuildDate>
+<item>
+<title>能登半島地震 安否不明者211人の氏名 石川県が公表（6日9時）</title>
+<link>http://www3.nhk.or.jp/news/html/20240103/k10014308261000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240103/k10014308261000.html</guid>
+<pubDate>Sat, 06 Jan 2024 10:51:26 +0900</pubDate>
+<description>石川県能登地方を震源とする地震で、県は住民基本台帳をもとに6日午前9時の時点で安否が分かっていない人として、211人の氏名や年齢などを公表し、広く情報の提供を求めています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
