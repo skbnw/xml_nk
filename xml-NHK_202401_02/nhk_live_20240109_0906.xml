@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Tue, 09 Jan 2024 18:02:32 +0900</lastBuildDate>
+<item>
+<title>新潟県で震度5弱の地震</title>
+<link>http://www3.nhk.or.jp/news/html/20240109/k10014315161000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240109/k10014315161000.html</guid>
+<pubDate>Tue, 09 Jan 2024 18:02:09 +0900</pubDate>
+<description>９日午後５時５９分ごろ地震がありました。現在、震度４以上が観測されている地域は以下のとおりです。▼震度５弱が、新潟県中越地方。▼震度４が、新潟県上越地方、新潟県下越地方、佐渡地方、石川県能登地方。今後の情報に注意してください。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
