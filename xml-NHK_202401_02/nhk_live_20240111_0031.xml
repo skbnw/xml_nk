@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Thu, 11 Jan 2024 09:12:14 +0900</lastBuildDate>
+<item>
+<title>株価 3万5000円台まで値上がり 約33年11か月ぶり</title>
+<link>http://www3.nhk.or.jp/news/html/20240111/k10014317191000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240111/k10014317191000.html</guid>
+<pubDate>Thu, 11 Jan 2024 09:09:02 +0900</pubDate>
+<description>11日の東京株式市場、日経平均株価は一時、3万5000円台まで値上がりしました。日経平均株価が取り引き時間中に3万5000円台をつけるのは、バブル期の1990年2月以来およそ33年11か月ぶりです。10日のニューヨーク市場で株価が値上がりしたことや外国為替市場で円安ドル高傾向にあることを受けて東京市場でも取り引き開始直後から半導体や自動車など輸出関連の銘柄に買い注文が広がっています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
