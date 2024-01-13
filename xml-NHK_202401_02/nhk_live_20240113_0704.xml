@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sat, 13 Jan 2024 16:00:11 +0900</lastBuildDate>
+<item>
+<title>北海道釧路地方北部で震度４の地震</title>
+<link>http://www3.nhk.or.jp/news/html/20240113/k10014319771000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240113/k10014319771000.html</guid>
+<pubDate>Sat, 13 Jan 2024 15:59:40 +0900</pubDate>
+<description>１３日午後３時５６分ごろ地震がありました。現在、震度４以上が観測されている地域は以下のとおりです。▼震度４が、釧路地方北部。今後の情報に注意してください。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
