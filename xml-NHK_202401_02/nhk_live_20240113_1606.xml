@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sun, 14 Jan 2024 01:02:54 +0900</lastBuildDate>
+<item>
+<title>鹿児島 諏訪之瀬島に「噴火速報」を発表 噴火警戒レベル3に</title>
+<link>http://www3.nhk.or.jp/news/html/20240114/k10014320241000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240114/k10014320241000.html</guid>
+<pubDate>Sun, 14 Jan 2024 01:02:34 +0900</pubDate>
+<description>14日午前0時22分ごろ鹿児島県十島村の諏訪之瀬島にある御岳で噴火が起き、噴石が火口からおよそ1キロを超えて飛んだのが確認されました。気象台はさきほど、「噴火警報」を発表し、諏訪之瀬島の噴火警戒レベルをレベル3の「入山規制」に引き上げて、火口からおおむね2キロの範囲で大きな噴石に警戒するよう呼びかけています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
