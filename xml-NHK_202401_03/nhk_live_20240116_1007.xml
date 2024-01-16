@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Tue, 16 Jan 2024 19:07:20 +0900</lastBuildDate>
+<item>
+<title>【速報中】北海道 新千歳空港 “旅客機どうしが接触”の連絡</title>
+<link>http://www3.nhk.or.jp/news/html/20240116/k10014323461000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240116/k10014323461000.html</guid>
+<pubDate>Tue, 16 Jan 2024 18:57:48 +0900</pubDate>
+<description>新千歳空港を運営する北海道エアポートによりますと、16日午後5時半ごろ、新千歳空港で大韓航空とキャセイパシフィック航空の旅客機どうしが接触したという連絡があったということです。けが人の有無など、当時の詳しい状況などは確認中だとしています。また、キャセイパシフィック航空によりますと、当時、機体は地上にあり、乗客も乗っていたということです。警察によりますと、これまでにけがをした人はいないということです。火災などの発生はなく、消防も活動していないということです。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>【地震速報】石川県能登地方で震度５弱 津波の心配なし</title>
+<link>http://www3.nhk.or.jp/news/html/20240116/k10014323471000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240116/k10014323471000.html</guid>
+<pubDate>Tue, 16 Jan 2024 18:55:49 +0900</pubDate>
+<description>16日午後6時42分ごろ石川県で震度5弱の揺れを観測する地震がありました。この地震による津波の心配はありません。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
