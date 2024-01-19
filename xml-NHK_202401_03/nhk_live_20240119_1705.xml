@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sat, 20 Jan 2024 02:04:24 +0900</lastBuildDate>
+<item>
+<title>【ライブ配信 速報中】月面着陸成否は JAXA 午前2時10分～会見</title>
+<link>http://www3.nhk.or.jp/news/html/20240119/k10014327201000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240119/k10014327201000.html</guid>
+<pubDate>Sat, 20 Jan 2024 02:04:01 +0900</pubDate>
+<description>JAXA＝宇宙航空研究開発機構の無人探査機「SLIM」が月面への着陸に挑戦しました。JAXAによりますと20日午前0時ごろ、「SLIM」は月面着陸に向けて、高度およそ15キロから降下を開始したということです。データでは午前0時20分ごろ、高度が0メートルに位置していると表示されました。JAXAは月面への着陸に成功したかどうか確認を進めています。成功すれば日本で初めて、世界でも5か国目となります。※随時更新で速報します。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
