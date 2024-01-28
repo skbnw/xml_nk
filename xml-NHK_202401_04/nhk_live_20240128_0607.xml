@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sun, 28 Jan 2024 14:38:04 +0900</lastBuildDate>
+<item>
+<title>女子マラソン 前田穂南選手が日本新記録 19年ぶり更新</title>
+<link>http://www3.nhk.or.jp/news/html/20240128/k10014338191000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240128/k10014338191000.html</guid>
+<pubDate>Sun, 28 Jan 2024 14:37:25 +0900</pubDate>
+<description>女子マラソンの東京オリンピック代表、27歳の前田穂南選手が大阪市で行われた大阪国際女子マラソンで速報タイム、2時間18分59秒の日本新記録をマークしました。これまでの日本記録は、アテネオリンピックの金メダリスト、野口みずきさんが2005年のベルリンマラソンでマークした2時間19分12秒で、前田選手はこの記録を19年ぶりに更新しました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
