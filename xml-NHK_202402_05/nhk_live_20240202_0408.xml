@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Fri, 02 Feb 2024 13:01:44 +0900</lastBuildDate>
+<item>
+<title>スマートフォン決済「d払い」全国で利用できない状態</title>
+<link>http://www3.nhk.or.jp/news/html/20240202/k10014344691000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240202/k10014344691000.html</guid>
+<pubDate>Fri, 02 Feb 2024 13:01:14 +0900</pubDate>
+<description>NTTドコモによりますと、スマートフォン決済の「d払い」で2日正午すぎから一部のサービスが全国で利用できない状態になっているということです。店舗での支払いと、他社のアプリなどを通じた決済ができなくなっているということです。NTTドコモは、原因を調査するとともに復旧作業を進めていて、「ご迷惑をおかけしておりおわび申し上げます」とコメントしています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
