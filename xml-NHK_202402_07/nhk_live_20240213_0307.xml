@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Tue, 13 Feb 2024 11:59:14 +0900</lastBuildDate>
+<item>
+<title>株価 一時900円以上値上がり 3万7800円台 1990年2月以来の水準</title>
+<link>http://www3.nhk.or.jp/news/html/20240213/k10014356341000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240213/k10014356341000.html</guid>
+<pubDate>Tue, 13 Feb 2024 11:58:38 +0900</pubDate>
+<description>3連休明けの13日の東京株式市場、日経平均株価は900円以上値上がりし、一時3万7800円台をつけました。取り引き時間中としてはバブル期の1990年2月以来34年ぶりの水準で、先週金曜日に続いて高値を更新しました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
