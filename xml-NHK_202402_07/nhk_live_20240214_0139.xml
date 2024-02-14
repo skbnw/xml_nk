@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Wed, 14 Feb 2024 10:38:12 +0900</lastBuildDate>
+<item>
+<title>【地震 速報】石川県能登地方で震度4の地震</title>
+<link>http://www3.nhk.or.jp/news/html/20240214/k10014357731000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240214/k10014357731000.html</guid>
+<pubDate>Wed, 14 Feb 2024 10:37:37 +0900</pubDate>
+<description>１４日午前１０時３２分ごろ地震がありました。現在、震度４以上が観測されている地域は以下のとおりです。▼震度４が、石川県能登地方。今後の情報に注意してください。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>柿沢前副大臣 初公判で起訴内容認める 江東区長選めぐる事件</title>
+<link>http://www3.nhk.or.jp/news/html/20240214/k10014357691000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240214/k10014357691000.html</guid>
+<pubDate>Wed, 14 Feb 2024 10:12:32 +0900</pubDate>
+<description>去年4月に行われた東京の江東区長選挙をめぐり、公職選挙法違反の買収などの罪に問われている柿沢未途前法務副大臣の初公判が開かれ、柿沢元議員は「争いません」などと述べ、起訴された内容を認めました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
