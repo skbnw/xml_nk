@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Thu, 15 Feb 2024 09:13:57 +0900</lastBuildDate>
+<item>
+<title>日本の去年1年間のGDP ドイツに抜かれ世界4位に後退</title>
+<link>http://www3.nhk.or.jp/news/html/20240215/k10014358471000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240215/k10014358471000.html</guid>
+<pubDate>Thu, 15 Feb 2024 09:13:33 +0900</pubDate>
+<description>内閣府によりますと日本の去年1年間の名目のGDP＝国内総生産は、ドル換算でドイツに抜かれて世界4位になりました。長年にわたる低成長やデフレに加えて、外国為替相場で円安が進みドルに換算した際の規模が目減りしたことも影響しました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
