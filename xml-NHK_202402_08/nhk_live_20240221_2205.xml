@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Thu, 22 Feb 2024 06:54:18 +0900</lastBuildDate>
+<item>
+<title>米半導体 エヌビディア決算は大幅な増収増益 株式市場で注目</title>
+<link>http://www3.nhk.or.jp/news/html/20240222/k10014366911000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240222/k10014366911000.html</guid>
+<pubDate>Thu, 22 Feb 2024 06:47:58 +0900</pubDate>
+<description>アメリカの大手半導体メーカー、エヌビディアの先月までの3か月間の決算は大幅な増収増益となりました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
