@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Thu, 22 Feb 2024 13:04:35 +0900</lastBuildDate>
+<item>
+<title>俳優 山本陽子さん死去 81歳</title>
+<link>http://www3.nhk.or.jp/news/html/20240222/k10014367141000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240222/k10014367141000.html</guid>
+<pubDate>Thu, 22 Feb 2024 13:00:42 +0900</pubDate>
+<description>1960年代から話題の映画やドラマ、舞台などで活躍してきた俳優の山本陽子さんが今月、亡くなりました。81歳でした。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>【速報】日経平均株価 史上最高値を更新</title>
+<link>http://www3.nhk.or.jp/news/html/20240222/k10014367181000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240222/k10014367181000.html</guid>
+<pubDate>Thu, 22 Feb 2024 12:38:51 +0900</pubDate>
+<description>22日の東京株式市場、日経平均株価は値上がりし、バブル期の1989年12月29日につけた取り引き時間中の史上最高値を更新しました。日経平均株価がバブル絶頂期の水準を超えたことで、日本経済がバブル崩壊後、失われた30年と呼ばれた低迷期を本格的に脱することができるかが焦点となります。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
