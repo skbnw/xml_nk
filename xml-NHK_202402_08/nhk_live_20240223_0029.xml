@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Fri, 23 Feb 2024 08:58:55 +0900</lastBuildDate>
+<item>
+<title>米企業の無人月着陸船 月面着陸成功 民間企業の開発では世界初</title>
+<link>http://www3.nhk.or.jp/news/html/20240223/k10014368291000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240223/k10014368291000.html</guid>
+<pubDate>Fri, 23 Feb 2024 08:58:28 +0900</pubDate>
+<description>アメリカの宇宙開発企業「インテュイティブ・マシンズ」は無人の月着陸船「ノバC」が日本時間の23日午前8時半ごろ、月への着陸に成功したと発表しました。民間企業が開発した着陸船が月面着陸に成功したのは世界で初めてです。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
