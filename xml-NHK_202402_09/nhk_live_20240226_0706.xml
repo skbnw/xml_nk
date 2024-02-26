@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Mon, 26 Feb 2024 15:54:43 +0900</lastBuildDate>
+<item>
+<title>【地震速報】愛媛県と広島県で震度4 津波の心配なし</title>
+<link>http://www3.nhk.or.jp/news/html/20240226/k10014371111000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240226/k10014371111000.html</guid>
+<pubDate>Mon, 26 Feb 2024 15:54:17 +0900</pubDate>
+<description>午後3時24分ごろ、愛媛県と広島県で震度4の揺れを観測する地震がありました。この地震による津波の心配はありません。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
