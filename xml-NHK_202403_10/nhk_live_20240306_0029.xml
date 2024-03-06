@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Wed, 06 Mar 2024 09:21:01 +0900</lastBuildDate>
+<item>
+<title>東北新幹線 東京-盛岡 運転見合わせ 郡山駅でオーバーランか</title>
+<link>http://www3.nhk.or.jp/news/html/20240306/k10014380541000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240306/k10014380541000.html</guid>
+<pubDate>Wed, 06 Mar 2024 09:20:36 +0900</pubDate>
+<description>JR東日本によりますと、東北新幹線は6日朝、7時半ごろ福島県の郡山駅で新幹線がオーバーランするトラブルがあり、車両点検を行っている影響で、東京駅と盛岡駅の間の上下線で運転を見合わせています。この影響で秋田新幹線が同じ区間で、山形新幹線は東京駅と福島駅の間で運転を見合わせています。運転再開の見込みは立っていないということです。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
