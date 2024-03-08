@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sat, 09 Mar 2024 05:02:03 +0900</lastBuildDate>
+<item>
+<title>【地震速報】千葉県で震度4 津波の心配なし</title>
+<link>http://www3.nhk.or.jp/news/html/20240309/k10014384231000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240309/k10014384231000.html</guid>
+<pubDate>Sat, 09 Mar 2024 04:58:20 +0900</pubDate>
+<description>9日午前4時26分ごろ、千葉県で震度4の揺れを観測する地震がありました。千葉県東方沖では、地震活動が活発になっていて、政府の地震調査委員会は注意を呼びかけています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
