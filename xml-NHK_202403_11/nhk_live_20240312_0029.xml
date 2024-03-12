@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Tue, 12 Mar 2024 09:21:43 +0900</lastBuildDate>
+<item>
+<title>株価 一時500円以上値下がり 半導体などの銘柄に売り注文</title>
+<link>http://www3.nhk.or.jp/news/html/20240312/k10014387431000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240312/k10014387431000.html</guid>
+<pubDate>Tue, 12 Mar 2024 09:21:16 +0900</pubDate>
+<description>12日の東京株式市場、日経平均株価は一時、500円以上値下がりしています。11日のニューヨーク市場で、このところ株価が大きく値上がりしていたハイテク関連の銘柄に売り注文が出たことで、東京市場でも半導体などの銘柄を中心に売り注文が広がっています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
