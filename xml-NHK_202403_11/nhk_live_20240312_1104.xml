@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Tue, 12 Mar 2024 19:56:21 +0900</lastBuildDate>
+<item>
+<title>宇宙飛行士 古川聡さん 国際宇宙ステーションから地球に帰還</title>
+<link>http://www3.nhk.or.jp/news/html/20240312/k10014387771000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240312/k10014387771000.html</guid>
+<pubDate>Tue, 12 Mar 2024 19:55:52 +0900</pubDate>
+<description>国際宇宙ステーションに長期滞在していた古川聡さんら4人の宇宙飛行士が乗った宇宙船が日本時間の12日午後6時50分ごろ、アメリカ南部・フロリダ州の沖合に着水し、およそ半年ぶりに地球に帰還しました。古川さんは、去年8月からおよそ半年間にわたって国際宇宙ステーションに滞在し、この間、新しい薬の開発につながる高品質のたんぱく質の結晶を作る実験や、将来の月や火星の探査を見据えた実験など、さまざまな研究に取り組んできました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
