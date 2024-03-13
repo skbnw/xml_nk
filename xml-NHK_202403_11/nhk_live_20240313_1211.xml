@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Wed, 13 Mar 2024 20:59:35 +0900</lastBuildDate>
+<item>
+<title>【地震速報】福島県楢葉町で震度4</title>
+<link>http://www3.nhk.or.jp/news/html/20240313/k10014390041000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240313/k10014390041000.html</guid>
+<pubDate>Wed, 13 Mar 2024 20:59:09 +0900</pubDate>
+<description>13日午後8時24分ごろ、福島県で震度4の揺れを観測する地震がありました。この地震による津波の心配はありません。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
