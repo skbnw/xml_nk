@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Mon, 18 Mar 2024 08:03:23 +0900</lastBuildDate>
+<item>
+<title>【速報】防衛省“北朝鮮から弾道ミサイル可能性あるもの発射”</title>
+<link>http://www3.nhk.or.jp/news/html/20240318/k10014394081000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240318/k10014394081000.html</guid>
+<pubDate>Mon, 18 Mar 2024 08:02:59 +0900</pubDate>
+<description>防衛省は、先ほど、北朝鮮から弾道ミサイルの可能性があるものが発射されたと発表しました。海上保安庁は防衛省からの情報として「弾道ミサイルの可能性があるものは、すでに落下したとみられる」と午前7時54分に発表しました。航行中の船舶に対し、今後の情報に注意するよう呼びかけています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
