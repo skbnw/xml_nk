@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Tue, 19 Mar 2024 12:42:28 +0900</lastBuildDate>
+<item>
+<title>【速報】日銀 「マイナス金利政策」解除 金融政策を転換</title>
+<link>http://www3.nhk.or.jp/news/html/20240319/k10014395131000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240319/k10014395131000.html</guid>
+<pubDate>Tue, 19 Mar 2024 12:42:13 +0900</pubDate>
+<description>日銀は、きょうまで開いた金融政策決定会合で、「マイナス金利政策」を解除し、金利を引き上げることを決めました。日銀による利上げはおよそ17年ぶりで、世界的にも異例な対応が続いてきた日本の金融政策は正常化に向けて大きく転換することになります。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
