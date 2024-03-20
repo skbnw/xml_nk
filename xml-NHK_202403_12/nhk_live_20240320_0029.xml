@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Wed, 20 Mar 2024 09:03:37 +0900</lastBuildDate>
+<item>
+<title>1ドル＝151円台まで値下がり 去年11月以来 シドニー市場</title>
+<link>http://www3.nhk.or.jp/news/html/20240320/k10014396701000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240320/k10014396701000.html</guid>
+<pubDate>Wed, 20 Mar 2024 09:03:22 +0900</pubDate>
+<description>20日のシドニー外国為替市場では、日銀の金融政策決定会合の結果を受けて円を売ってドルを買う動きが強まり、去年11月以来となる1ドル＝151円台まで値下がりしました。日銀はマイナス金利政策の解除などを決めたものの、追加の利上げは急がず、今後も緩和的な金融環境が続くという見方から、市場では円を売ってドルを買う動きが強まっています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
