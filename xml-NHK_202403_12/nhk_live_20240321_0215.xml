@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Thu, 21 Mar 2024 11:04:19 +0900</lastBuildDate>
+<item>
+<title>【地震速報】埼玉 栃木で震度5弱 津波の心配なし 数日間は注意</title>
+<link>http://www3.nhk.or.jp/news/html/20240321/k10014397601000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240321/k10014397601000.html</guid>
+<pubDate>Thu, 21 Mar 2024 11:04:05 +0900</pubDate>
+<description>21日午前、埼玉県と栃木県で震度5弱の揺れを観測する地震がありました。専門家は、関東南部では震度5弱程度の揺れを伴う地震がたびたび起きているとして今後数日間は同じ程度の規模の地震に注意するよう呼びかけています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>北陸新幹線と上越新幹線 すべて運転再開</title>
+<link>http://www3.nhk.or.jp/news/html/20240321/k10014397681000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240321/k10014397681000.html</guid>
+<pubDate>Thu, 21 Mar 2024 10:58:52 +0900</pubDate>
+<description>JR東日本によりますと、地震による影響で北陸新幹線と上越新幹線は一部の区間で運転を見合わせていましたが、さきほど午前10時41分にすべて運転を再開しました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
