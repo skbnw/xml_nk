@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Fri, 22 Mar 2024 10:33:11 +0900</lastBuildDate>
+<item>
+<title>熊本市中心部 3人が刃物で刺されけが 20代の容疑者を逮捕</title>
+<link>http://www3.nhk.or.jp/news/html/20240322/k10014398881000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240322/k10014398881000.html</guid>
+<pubDate>Fri, 22 Mar 2024 10:32:54 +0900</pubDate>
+<description>警察によりますと、22日午前9時15分ごろ、熊本市中央区の中心部で、3人が刃物で刺されて病院に搬送されました。若い女性3人がけがをしていて、搬送時にはいずれも意識はあったということです。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
