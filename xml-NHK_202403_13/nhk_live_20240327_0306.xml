@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Wed, 27 Mar 2024 11:53:19 +0900</lastBuildDate>
+<item>
+<title>円相場 1990年7月以来の円安水準に</title>
+<link>http://www3.nhk.or.jp/news/html/20240327/k10014403621000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240327/k10014403621000.html</guid>
+<pubDate>Wed, 27 Mar 2024 11:53:03 +0900</pubDate>
+<description>27日の東京外国為替市場では、円安が一段と加速し、円相場は一時、おととし10月につけた1ドル＝151円94銭より値下がりして、152円台に迫り、1990年7月以来、33年8か月ぶりの円安ドル高水準となりました。日銀がマイナス金利政策を解除したあとも、当面、緩和的な金融政策を続けるとするなか、円を売ってドルを買う動きが強まっています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
