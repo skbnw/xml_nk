@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Mon, 01 Apr 2024 11:06:48 +0900</lastBuildDate>
+<item>
+<title>運転免許センターでシステム障害 免許証の発行できず 警察庁</title>
+<link>http://www3.nhk.or.jp/news/html/20240401/k10014409031000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240401/k10014409031000.html</guid>
+<pubDate>Mon, 01 Apr 2024 11:02:30 +0900</pubDate>
+<description>警察庁によりますと、東京や大阪など全国の18の都府県の運転免許センターでシステム障害が発生し、1日朝から運転免許証の発行などができなくなっているということです。警察庁などが調査していますが、これまでのところ、システム障害の詳しい原因はわかっておらず、復旧の見込みも立っていないということです。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
