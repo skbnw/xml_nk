@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Mon, 01 Apr 2024 10:33:28 +0900</lastBuildDate>
+<item>
+<title>日銀短観 大企業製造業の景気判断 4期ぶり悪化</title>
+<link>http://www3.nhk.or.jp/news/html/20240401/k10014408961000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240401/k10014408961000.html</guid>
+<pubDate>Mon, 01 Apr 2024 10:33:12 +0900</pubDate>
+<description>日銀は短観＝企業短期経済観測調査を発表し、大企業の製造業の景気判断を示す指数は、一部の自動車メーカーが出荷を停止した影響などで4期ぶりに悪化しました。一方、大企業の非製造業の指数は好調なインバウンド需要などを背景に8期連続で改善し、1991年以来の高い水準となりました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
