@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Tue, 02 Apr 2024 07:04:12 +0900</lastBuildDate>
+<item>
+<title>北朝鮮が日本海に向けて弾道ミサイルを発射 韓国軍</title>
+<link>http://www3.nhk.or.jp/news/html/20240402/k10014409881000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240402/k10014409881000.html</guid>
+<pubDate>Tue, 02 Apr 2024 07:03:57 +0900</pubDate>
+<description>韓国軍の合同参謀本部は、北朝鮮が日本海に向けて弾道ミサイルを発射したと2日午前6時55分ごろに発表しました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
