@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Tue, 02 Apr 2024 09:06:46 +0900</lastBuildDate>
+<item>
+<title>東北新幹線 東京～仙台 少なくとも午前中の運転見合わせ</title>
+<link>http://www3.nhk.or.jp/news/html/20240402/k10014409971000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240402/k10014409971000.html</guid>
+<pubDate>Tue, 02 Apr 2024 09:06:31 +0900</pubDate>
+<description>東北新幹線は、2日午前5時頃に福島駅で工事車両が故障した影響で、午前8時半現在、東京駅と仙台駅の間の上下線で運転を見合わせています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
