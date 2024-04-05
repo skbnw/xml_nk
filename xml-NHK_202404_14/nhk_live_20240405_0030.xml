@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Fri, 05 Apr 2024 09:09:47 +0900</lastBuildDate>
+<item>
+<title>株価 一時600円以上値下がり NY市場で株価下落の流れを受け</title>
+<link>http://www3.nhk.or.jp/news/html/20240405/k10014413001000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240405/k10014413001000.html</guid>
+<pubDate>Fri, 05 Apr 2024 09:09:31 +0900</pubDate>
+<description>5日の東京株式市場、日経平均株価は一時、600円以上、値下がりしています。中東情勢の緊迫化を背景に国際的な原油の先物価格が上昇し4日のニューヨーク市場で株価が下落した流れを受けて、東京市場でも、取引開始直後から、半導体関連など多くの銘柄に売り注文が広がっています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>2月の家計調査 実質消費 前年同月比0.5％減 減少は12か月連続</title>
+<link>http://www3.nhk.or.jp/news/html/20240405/k10014412871000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240405/k10014412871000.html</guid>
+<pubDate>Fri, 05 Apr 2024 08:51:58 +0900</pubDate>
+<description>総務省が発表したことし2月の家計調査で、2人以上の世帯が消費に使った金額は、物価の変動を除いた実質で前の年の同じ月と比べて0.5％減りました。減少は12か月連続で、1世帯あたりの消費額は27万9868円でした。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
