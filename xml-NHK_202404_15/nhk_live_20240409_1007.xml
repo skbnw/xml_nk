@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Tue, 09 Apr 2024 19:00:28 +0900</lastBuildDate>
+<item>
+<title>マイクロソフト 日本で最大規模投資へ AI需要拡大向け事業強化</title>
+<link>http://www3.nhk.or.jp/news/html/20240409/k10014416831000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240409/k10014416831000.html</guid>
+<pubDate>Tue, 09 Apr 2024 19:00:11 +0900</pubDate>
+<description>アメリカのIT大手、マイクロソフトが生成AIの需要拡大に向けて、日本事業を強化することが明らかになりました。生成AIに不可欠なデータセンターを増強するほか、新たに研究拠点を設ける方針で、日本への投資としては最大規模となる見通しです。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
