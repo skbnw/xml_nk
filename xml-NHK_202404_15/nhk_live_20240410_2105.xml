@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Thu, 11 Apr 2024 06:00:42 +0900</lastBuildDate>
+<item>
+<title>円相場 一時1ドル＝153円台に 約34年ぶりの円安ドル高水準に</title>
+<link>http://www3.nhk.or.jp/news/html/20240410/k10014416421000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240410/k10014416421000.html</guid>
+<pubDate>Thu, 11 Apr 2024 06:00:25 +0900</pubDate>
+<description>10日のニューヨーク外国為替市場では、アメリカの消費者物価指数の発表を受けて円安が加速し、円相場は一時、1ドル＝153円台まで値下がりしました。1990年以来、およそ34年ぶりの円安ドル高水準です。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
