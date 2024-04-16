@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Tue, 16 Apr 2024 12:51:27 +0900</lastBuildDate>
+<item>
+<title>株価 一時900円以上値下がり 午後の取り引きでも売り注文優勢</title>
+<link>http://www3.nhk.or.jp/news/html/20240416/k10014423111000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240416/k10014423111000.html</guid>
+<pubDate>Tue, 16 Apr 2024 12:51:10 +0900</pubDate>
+<description>16日の東京株式市場、日経平均株価は、一時、900円以上値下がりしています。日本時間の15日夜発表された、アメリカの3月の小売業の売上高が、市場の予想を上回り、アメリカで早期の利下げ観測が後退したため、15日のニューヨーク市場では株価が大幅に値下がりしました。この流れを受けて、16日の東京株式市場では午後の取り引きでも売り注文が優勢となっています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
