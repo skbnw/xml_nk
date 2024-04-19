@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Fri, 19 Apr 2024 10:40:37 +0900</lastBuildDate>
+<item>
+<title>株価1100円以上値下がり NY市場の流れ受けて</title>
+<link>http://www3.nhk.or.jp/news/html/20240419/k10014426871000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240419/k10014426871000.html</guid>
+<pubDate>Fri, 19 Apr 2024 10:40:19 +0900</pubDate>
+<description>19日の東京株式市場は全面安となり、日経平均株価は1100円以上、値下がりしています。アメリカで、このところの経済指標の発表などを受けて早期の利下げ観測が後退したことや、台湾の半導体受託生産大手が半導体市場の見通しを引き下げたことから、18日のニューヨーク市場ではハイテク関連の銘柄などが値下がりしました。この流れを受けて、19日の東京市場でも取引開始直後から半導体関連などの銘柄を中心に売り注文が広がっています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
