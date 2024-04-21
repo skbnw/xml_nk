@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sun, 21 Apr 2024 10:01:42 +0900</lastBuildDate>
+<item>
+<title>【速報中】海自ヘリコプター2機墜落 1人死亡 7人行方不明</title>
+<link>http://www3.nhk.or.jp/news/html/20240421/k10014428611000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240421/k10014428611000.html</guid>
+<pubDate>Sun, 21 Apr 2024 10:01:25 +0900</pubDate>
+<description>20日夜、伊豆諸島沖で海上自衛隊のヘリコプター2機が訓練中に通信が途絶え、乗っていた隊員8人のうち1人が救助され、7人が行方不明になっている事故で、救助された1人の死亡が確認されました。現場周辺ではフライトレコーダー2つが見つかったということです。防衛省は2機が墜落したと断定し、空中で衝突した可能性も含めて原因を調べるとともに、7人や機体の捜索を続けています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
