@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Wed, 24 Apr 2024 12:04:56 +0900</lastBuildDate>
+<item>
+<title>福島第一原発 電気供給系統の一部が停止 処理水の放出止まる</title>
+<link>http://www3.nhk.or.jp/news/html/20240424/k10014431501000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240424/k10014431501000.html</guid>
+<pubDate>Wed, 24 Apr 2024 12:04:39 +0900</pubDate>
+<description>東京電力によりますと、24日午前10時43分ごろ、福島第一原子力発電所で所内の設備に電気を供給する系統の一部が停止したということです。この影響で、今月19日から行われている処理水の海への放出も止まっているということです。周辺の放射線量を測定するモニタリングポストなどの値に異常はないということです。東京電力が原因を調べています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
