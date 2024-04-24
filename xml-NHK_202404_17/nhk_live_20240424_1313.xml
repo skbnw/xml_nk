@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Wed, 24 Apr 2024 22:05:04 +0900</lastBuildDate>
+<item>
+<title>円安が加速 円相場 一時1ドル＝155円台に 約34年ぶり</title>
+<link>http://www3.nhk.or.jp/news/html/20240424/k10014432181000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240424/k10014432181000.html</guid>
+<pubDate>Wed, 24 Apr 2024 21:53:10 +0900</pubDate>
+<description>24日のロンドン外国為替市場は円安が一段と加速し、円相場は一時、1ドル＝155円台まで値下がりして1990年6月以来、およそ34年ぶりの円安ドル高水準となりました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
