@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Wed, 24 Apr 2024 21:12:33 +0900</lastBuildDate>
+<item>
+<title>【地震速報】茨城 栃木 千葉で震度4 津波の心配なし</title>
+<link>http://www3.nhk.or.jp/news/html/20240424/k10014432141000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240424/k10014432141000.html</guid>
+<pubDate>Wed, 24 Apr 2024 21:12:18 +0900</pubDate>
+<description>24日午後8時40分ごろ茨城県と栃木県、千葉県で震度4の揺れを観測する地震がありました。この地震による津波の心配はありません。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>“消滅する可能性がある”744自治体 全体の4割に 人口戦略会議</title>
+<link>http://www3.nhk.or.jp/news/html/20240424/k10014431611000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240424/k10014431611000.html</guid>
+<pubDate>Wed, 24 Apr 2024 16:09:02 +0900</pubDate>
+<description>民間の有識者グループ「人口戦略会議」は全体の4割にあたる744の自治体で、2050年までに20代から30代の女性が半減し、「最終的には消滅する可能性がある」とした分析を公表しました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>IHI子会社 エンジン4300台余の測定データ改ざん 国交省調査へ</title>
+<link>http://www3.nhk.or.jp/news/html/20240424/k10014431511000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240424/k10014431511000.html</guid>
+<pubDate>Wed, 24 Apr 2024 19:58:57 +0900</pubDate>
+<description>エンジンメーカーのIHI原動機が2003年以降に出荷した船舶などのエンジン4300台余りについて、燃料消費率の測定データを改ざんしていたことが分かりました。国土交通省は今後、立ち入り検査を実施するなどして詳しいいきさつを調査する方針です。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>栃木 那須町 遺体遺棄事件 死亡した女性は宝島さんの妻と確認</title>
+<link>http://www3.nhk.or.jp/news/html/20240424/k10014432071000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240424/k10014432071000.html</guid>
+<pubDate>Wed, 24 Apr 2024 19:55:54 +0900</pubDate>
+<description>栃木県那須町で、全身が焼かれた男女の遺体が見つかった事件で、DNA型鑑定の結果、死亡した女性は、都内の会社役員、宝島龍太郎さん（55）の妻の幸子さんと確認されたということです。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>小林製薬「紅麹」問題 延べ252人が入院（23日時点）厚労省</title>
+<link>http://www3.nhk.or.jp/news/html/20240424/k10014432081000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240424/k10014432081000.html</guid>
+<pubDate>Wed, 24 Apr 2024 20:26:36 +0900</pubDate>
+<description>小林製薬の紅麹の成分を含むサプリメントを摂取した人が腎臓の病気などを発症した問題で、厚生労働省は、23日の時点で、延べ252人が入院したことが小林製薬からの報告で明らかになったと発表しました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>新千歳空港 全日空機でオイル漏れのトラブル</title>
+<link>http://www3.nhk.or.jp/news/html/20240424/k10014432011000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240424/k10014432011000.html</guid>
+<pubDate>Wed, 24 Apr 2024 19:46:47 +0900</pubDate>
+<description>24日夕方、新千歳空港に着陸した羽田発の全日空機でオイル漏れのトラブルがあり、機体から一時、煙のようなものが上がりました。消防によりますと、火災は起きておらず、乗客・乗員にけがはありませんでした。機体はその後、滑走路の外に運ばれ、全日空が詳しい状況を調べています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>政治資金規正法改正へ 自公実務者が議員の責任強化で協議</title>
+<link>http://www3.nhk.or.jp/news/html/20240424/k10014431881000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240424/k10014431881000.html</guid>
+<pubDate>Wed, 24 Apr 2024 20:17:58 +0900</pubDate>
+<description>政治資金規正法の改正に向けて焦点となっているいわゆる「連座制」について、自民・公明両党の実務者は、議員に対して収支報告書の「確認書」の作成を義務づけ、内容を確かめずに作成していた場合は公民権を停止するとした内容で導入を図ることで一致しました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
