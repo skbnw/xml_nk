@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Fri, 26 Apr 2024 23:44:49 +0900</lastBuildDate>
+<item>
+<title>為替相場 1ドル=157円台まで値下がり 1990年5月以来約34年ぶり</title>
+<link>http://www3.nhk.or.jp/news/html/20240426/k10014435021000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240426/k10014435021000.html</guid>
+<pubDate>Fri, 26 Apr 2024 23:44:32 +0900</pubDate>
+<description>26日のニューヨーク外国為替市場では円安が一段と加速し、円相場は1ドル＝157円台まで値下がりしました。1ドル＝157円台となるのは1990年5月以来、およそ34年ぶりです。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
