@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Mon, 29 Apr 2024 13:50:48 +0900</lastBuildDate>
+<item>
+<title>円相場(外国為替市場) 一時1ドル＝160円台も155円台に値上がり</title>
+<link>http://www3.nhk.or.jp/news/html/20240429/k10014436171000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240429/k10014436171000.html</guid>
+<pubDate>Mon, 29 Apr 2024 13:50:34 +0900</pubDate>
+<description>週明け29日の外国為替市場では円安が一段と加速し、円相場は一時、34年ぶりに1ドル＝160円台まで値下がりしました。しかし、その後、日本時間の午後になって円を急速に買い戻す動きが出て円相場は1ドル＝155円台まで値上がりしています。また、円はユーロに対しても値下がりし、ユーロが導入された1999年以降で最も円安ユーロ高の水準となりました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
