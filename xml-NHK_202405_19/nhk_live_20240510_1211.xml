@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Fri, 10 May 2024 21:06:39 +0900</lastBuildDate>
+<item>
+<title>モバイルPASMO アプリでチャージしにくいなどのトラブル</title>
+<link>http://www3.nhk.or.jp/news/html/20240510/k10014446151000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240510/k10014446151000.html</guid>
+<pubDate>Fri, 10 May 2024 20:45:42 +0900</pubDate>
+<description>首都圏の私鉄やバス会社などでつくる「PASMO協議会」によりますと、モバイルのPASMOでも、午後6時20分ごろからアプリでのチャージがしにくいなどのトラブルが起きているということです。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>JR東日本 モバイルSuicaに障害「サイバー攻撃の可能性も」</title>
+<link>http://www3.nhk.or.jp/news/html/20240510/k10014446081000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240510/k10014446081000.html</guid>
+<pubDate>Fri, 10 May 2024 21:06:24 +0900</pubDate>
+<description>JR東日本によりますと、運賃の支払いなどを行う「モバイルSuica」でアプリでのチャージがしにくくなるなどの障害が起きているということです。JR東日本は「サイバー攻撃を受けた可能性がある」として詳しく調べています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
