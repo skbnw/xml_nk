@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Wed, 15 May 2024 22:45:13 +0900</lastBuildDate>
+<item>
+<title>【速報】スロバキア “フィツォ首相銃撃される” 現地メディア</title>
+<link>http://www3.nhk.or.jp/news/html/20240515/k10014450751000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240515/k10014450751000.html</guid>
+<pubDate>Wed, 15 May 2024 22:38:52 +0900</pubDate>
+<description>ロイター通信は、スロバキアのメディアの情報として、15日フィツォ首相が政府の会議に参加した後に銃撃されたと伝えています。詳しい状況は分かっていません。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
