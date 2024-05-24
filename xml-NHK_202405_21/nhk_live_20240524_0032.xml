@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Fri, 24 May 2024 09:18:46 +0900</lastBuildDate>
+<item>
+<title>日経平均株価 700円以上下落 NY市場の流れ受けて</title>
+<link>http://www3.nhk.or.jp/news/html/20240524/k10014459111000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240524/k10014459111000.html</guid>
+<pubDate>Fri, 24 May 2024 09:18:04 +0900</pubDate>
+<description>きょう24日の東京株式市場、日経平均株価は700円以上、下落しています。23日のニューヨーク市場でアメリカの長期金利が上昇したことなどを背景に主要な株価指数がいずれも下落した流れを受けて、東京市場でも取り引き開始直後から売り注文が広がっています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
