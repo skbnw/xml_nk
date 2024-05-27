@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Mon, 27 May 2024 12:05:31 +0900</lastBuildDate>
+<item>
+<title>鹿児島 宮崎 “線状降水帯発生の可能性” 今夜からあすにかけ</title>
+<link>http://www3.nhk.or.jp/news/html/20240527/k10014461831000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240527/k10014461831000.html</guid>
+<pubDate>Mon, 27 May 2024 11:46:53 +0900</pubDate>
+<description>前線や低気圧の影響で、太平洋側を中心に雨が強まっています。29日にかけては沖縄・奄美から東日本の広い範囲で大気の状態が非常に不安定になり、奄美地方を除く鹿児島県と宮崎県では27日夜から28日の日中にかけて、発達した雨雲が次々と連なる線状降水帯が発生する可能性があり、気象庁は、土砂災害や低い土地の浸水、川の増水に警戒するよう呼びかけています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
