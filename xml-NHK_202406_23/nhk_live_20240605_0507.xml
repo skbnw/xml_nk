@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Wed, 05 Jun 2024 14:00:23 +0900</lastBuildDate>
+<item>
+<title>去年の合計特殊出生率 1.20で過去最低に 8年連続で減少</title>
+<link>http://www3.nhk.or.jp/news/html/20240605/k10014471471000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240605/k10014471471000.html</guid>
+<pubDate>Wed, 05 Jun 2024 14:00:09 +0900</pubDate>
+<description>厚生労働省が発表した去年の「人口動態統計」の概数で、1人の女性が一生のうちに産む子どもの数の指標となる「合計特殊出生率」は1.20となり、1947年に統計を取り始めて以降、最も低くなりました。おととしの確定値と比べると0.06ポイント低下していて、8年連続で前の年を下回りました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
