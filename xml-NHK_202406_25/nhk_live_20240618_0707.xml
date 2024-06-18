@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Tue, 18 Jun 2024 15:55:25 +0900</lastBuildDate>
+<item>
+<title>東海道新幹線 全線で運転再開</title>
+<link>http://www3.nhk.or.jp/news/html/20240618/k10014484671000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240618/k10014484671000.html</guid>
+<pubDate>Tue, 18 Jun 2024 15:55:10 +0900</pubDate>
+<description>JR東海によりますと大雨の影響で東海道新幹線は▽上りは新大阪駅から東京駅の間、▽下りは東京駅から静岡駅の間で運転を見合わせていましたが、午後3時40分ごろ全線で運転を再開したということです。天候の状況によっては今後も運転見合わせなどの可能性があるということで、最新の情報はホームページなどで確認してほしいとしています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
