@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Mon, 01 Jul 2024 10:03:20 +0900</lastBuildDate>
+<item>
+<title>長野 松本市 上高地地区に避難指示</title>
+<link>http://www3.nhk.or.jp/news/html/20240701/k10014497991000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240701/k10014497991000.html</guid>
+<pubDate>Mon, 01 Jul 2024 10:03:04 +0900</pubDate>
+<description>長野県松本市は、土砂災害の危険性が高まっているとして、午前8時37分に上高地地区に避難指示を出しました。5段階の大雨警戒レベルのうち、レベル4の情報で、危険な場所から全員避難するよう呼びかけています。市によりますと、対象の地域に住宅はありませんが、観光客や宿泊施設の従業員などがいるということです。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
