@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sat, 06 Jul 2024 13:34:12 +0900</lastBuildDate>
+<item>
+<title>東海道新幹線 上り新大阪～東京 下り東京～浜松 運転見合わせ</title>
+<link>http://www3.nhk.or.jp/news/html/20240706/k10014503461000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240706/k10014503461000.html</guid>
+<pubDate>Sat, 06 Jul 2024 13:32:36 +0900</pubDate>
+<description>JR東海のホームページによりますと東海道新幹線は静岡駅と掛川駅の間で車両点検が行われている影響で、上り線は新大阪駅と東京駅の間の全線で、下り線は、浜松駅と東京駅の間で運転を見合わせています。JRが現地で点検作業を行っていて、運転再開見込みは午後2時10分ごろを予定しているということです。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
