@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Wed, 10 Jul 2024 17:26:50 +0900</lastBuildDate>
+<item>
+<title>東証プライム 時価総額が初めて1000兆円を上回る</title>
+<link>http://www3.nhk.or.jp/news/html/20240710/k10014507771000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240710/k10014507771000.html</guid>
+<pubDate>Wed, 10 Jul 2024 17:26:35 +0900</pubDate>
+<description>10日の東京株式市場で、日経平均株価は終値で4万1800円を超えて史上最高値を更新し、東京証券取引所の最上位のプライム市場は、時価総額が初めて1000兆円を上回りました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
