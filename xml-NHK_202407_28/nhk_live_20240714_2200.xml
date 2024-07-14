@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Mon, 15 Jul 2024 06:34:04 +0900</lastBuildDate>
+<item>
+<title>九州新幹線 熊本～鹿児島中央 大雨で始発から運転見合わせ</title>
+<link>http://www3.nhk.or.jp/news/html/20240715/k10014511911000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240715/k10014511911000.html</guid>
+<pubDate>Mon, 15 Jul 2024 06:33:50 +0900</pubDate>
+<description>JR九州によりますと、大雨の影響で九州新幹線は熊本駅と鹿児島中央駅の間の上下線で始発から運転を見合わせることにしています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
