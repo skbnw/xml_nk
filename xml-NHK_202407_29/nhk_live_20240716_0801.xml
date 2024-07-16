@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Tue, 16 Jul 2024 16:52:57 +0900</lastBuildDate>
+<item>
+<title>トヨタ 国の認証試験不正で生産停止の3車種 8月末まで期間延長</title>
+<link>http://www3.nhk.or.jp/news/html/20240716/k10014513061000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240716/k10014513061000.html</guid>
+<pubDate>Tue, 16 Jul 2024 16:52:42 +0900</pubDate>
+<description>トヨタ自動車は、国の認証試験の不正で生産を停止している3つの車種について、7月末までとしていた停止の期間を8月末まで延長することを決めました。トヨタは、国土交通省の出荷停止の指示を受けて、6月6日から宮城県と岩手県の子会社の工場で生産する「ヤリス クロス」など3車種の生産を停止していて、生産再開のめどは立っていないとしています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
