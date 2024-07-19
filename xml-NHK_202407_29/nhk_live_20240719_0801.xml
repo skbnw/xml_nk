@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Fri, 19 Jul 2024 16:45:40 +0900</lastBuildDate>
+<item>
+<title>世界各地の空港でシステム不具合 チェックイン遅れ見込みも</title>
+<link>http://www3.nhk.or.jp/news/html/20240719/k10014516561000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240719/k10014516561000.html</guid>
+<pubDate>Fri, 19 Jul 2024 16:45:24 +0900</pubDate>
+<description>ロイター通信などによりますと、19日、オーストラリアやヨーロッパの空港でシステムの不具合が発生しているということです。ロイター通信はオーストラリアのシドニーの空港の報道担当者の話として、「世界的に発生している技術的な不具合でいくつかの航空会社のオペレーションに影響が出ている。離着陸はできているが、このあと遅れが出る可能性がある」と話したなどと伝えています。またベルリンの空港はSNSで「技術的な不具合で、チェックインの遅れが出る見込みだ」と案内しています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
