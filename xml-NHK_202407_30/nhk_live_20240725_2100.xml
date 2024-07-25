@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Fri, 26 Jul 2024 05:56:18 +0900</lastBuildDate>
+<item>
+<title>山形の大雨特別警報を大雨警報に切り替え 気象庁</title>
+<link>http://www3.nhk.or.jp/news/html/20240726/k10014524441000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240726/k10014524441000.html</guid>
+<pubDate>Fri, 26 Jul 2024 05:56:02 +0900</pubDate>
+<description>気象庁は午前5時50分に山形県の酒田市と鮭川村、戸沢村、新庄市、舟形町、庄内町に出していた大雨の特別警報を大雨警報に切り替えました。山形県では川の氾濫や浸水、土砂災害の危険性が高い状態が続き、最上川中流などすでに氾濫した川もあります。気象庁は厳重な警戒を続けるとともに、自治体の出す情報に従って安全を確保するよう呼びかけています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
