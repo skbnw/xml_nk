@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Tue, 30 Jul 2024 01:54:40 +0900</lastBuildDate>
+<item>
+<title>スケートボード 堀米雄斗が金メダル 男子ストリート 五輪連覇</title>
+<link>http://www3.nhk.or.jp/news/html/20240729/k10014529171000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240729/k10014529171000.html</guid>
+<pubDate>Tue, 30 Jul 2024 01:47:22 +0900</pubDate>
+<description>パリオリンピック、スケートボードの男子ストリートで、25歳の堀米雄斗選手が金メダルを獲得しました。堀米選手は2大会連続の金メダルです。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>宮崎県で震度4 津波の心配なし</title>
+<link>http://www3.nhk.or.jp/news/html/20240730/k10014529261000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240730/k10014529261000.html</guid>
+<pubDate>Tue, 30 Jul 2024 01:36:51 +0900</pubDate>
+<description>30日午前1時25分ごろ、宮崎県で震度4の揺れを観測する地震がありました。この地震による津波の心配はありません。震度4が、宮崎県の宮崎市、西都市、高千穂町。震度3が、熊本県美里町、大分県佐伯市、宮崎県都城市などでした。このほか、震度2や1の揺れを九州の広い範囲と中国地方や四国の一部で観測しました。震源地は日向灘で震源の深さは40キロ、地震の規模を示すマグニチュードは5.2と推定されています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
