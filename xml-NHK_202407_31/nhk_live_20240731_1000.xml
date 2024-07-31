@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Wed, 31 Jul 2024 18:58:39 +0900</lastBuildDate>
+<item>
+<title>東京 野川・仙川に氾濫危険情報 川に近づかないで</title>
+<link>http://www3.nhk.or.jp/news/html/20240731/k10014531521000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240731/k10014531521000.html</guid>
+<pubDate>Wed, 31 Jul 2024 18:55:49 +0900</pubDate>
+<description>大雨の影響で都内を流れる多摩川水系の野川と仙川は氾濫危険水位を超え、東京都と気象庁は、午後6時35分に氾濫危険情報を出して警戒を呼びかけています。氾濫した場合、世田谷区と三鷹市、府中市、調布市、小金井市、狛江市では浸水のおそれがあり決して川の近くに近づかないようにしてください。上の階に上がって安全を確保するようにしてください。特に建物の地下では浸水に警戒が必要です。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>東京 板橋区・練馬区と埼玉 朝霞市に記録的短時間大雨情報</title>
+<link>http://www3.nhk.or.jp/news/html/20240731/k10014531501000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240731/k10014531501000.html</guid>
+<pubDate>Wed, 31 Jul 2024 18:58:19 +0900</pubDate>
+<description>気象庁によりますと、東京・板橋区付近と東京・練馬区付近では、レーダーによる解析で午後6時30分までの1時間におよそ100ミリの猛烈な雨が降ったとみられます。災害が発生する危険が迫っていることから、気象庁は「記録的短時間大雨情報」を発表して安全を確保するよう、呼びかけています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
