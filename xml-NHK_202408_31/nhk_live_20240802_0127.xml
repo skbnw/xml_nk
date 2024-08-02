@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Fri, 02 Aug 2024 10:01:21 +0900</lastBuildDate>
+<item>
+<title>株価 一時2000円以上値下がり 米の主要株価指数の下落受け</title>
+<link>http://www3.nhk.or.jp/news/html/20240802/k10014533731000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240802/k10014533731000.html</guid>
+<pubDate>Fri, 02 Aug 2024 10:01:03 +0900</pubDate>
+<description>2日の東京株式市場は、アメリカで発表された経済指標が市場の予想よりも悪く、アメリカの景気が減速すれば、日本にも影響するのではないかといった懸念が広がり、日経平均株価は一時2000円以上の値下がりとなっています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
