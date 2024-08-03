@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sat, 03 Aug 2024 21:46:37 +0900</lastBuildDate>
+<item>
+<title>卓球 女子シングルス 早田ひな 銅メダル パリオリンピック</title>
+<link>http://www3.nhk.or.jp/news/html/20240803/k10014535981000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240803/k10014535981000.html</guid>
+<pubDate>Sat, 03 Aug 2024 21:46:17 +0900</pubDate>
+<description>パリオリンピック卓球女子シングルスで、早田ひな選手が銅メダルを獲得しました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
