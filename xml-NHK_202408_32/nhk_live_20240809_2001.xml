@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sat, 10 Aug 2024 04:51:22 +0900</lastBuildDate>
+<item>
+<title>レスリング 櫻井つぐみが金メダル 女子57キロ級 パリ五輪</title>
+<link>http://www3.nhk.or.jp/news/html/20240810/k10014544821000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240810/k10014544821000.html</guid>
+<pubDate>Sat, 10 Aug 2024 04:45:05 +0900</pubDate>
+<description>パリオリンピック、レスリング女子57キロ級で、櫻井つぐみ選手が金メダルを獲得しました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>ブレイキン女子 AMI 湯浅亜実が金メダル パリオリンピック</title>
+<link>http://www3.nhk.or.jp/news/html/20240810/k10014544081000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240810/k10014544081000.html</guid>
+<pubDate>Sat, 10 Aug 2024 04:51:02 +0900</pubDate>
+<description>パリオリンピックの新競技、ブレイキンの女子でダンサーネームAMIの湯浅亜実選手が金メダルを獲得しました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
