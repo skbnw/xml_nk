@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Mon, 12 Aug 2024 09:02:33 +0900</lastBuildDate>
+<item>
+<title>台風5号 岩手県大船渡市付近に上陸 線状降水帯発生おそれも</title>
+<link>http://www3.nhk.or.jp/news/html/20240812/k10014546761000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240812/k10014546761000.html</guid>
+<pubDate>Mon, 12 Aug 2024 08:45:28 +0900</pubDate>
+<description>台風5号はさきほど岩手県大船渡市付近に上陸しました。岩手県では記録的な大雨となっているところがあるほか岩手県と宮城県、青森県では昼前にかけて線状降水帯が発生し、さらに雨量が増えるおそれがあります。気象庁は土砂災害や川の増水、氾濫、低い土地の浸水に厳重に警戒するよう呼びかけています。きょうは安全な場所で過ごすようにしてください。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
