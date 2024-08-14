@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Wed, 14 Aug 2024 16:35:57 +0900</lastBuildDate>
+<item>
+<title>山陽新幹線 広島～博多で順次運転見合わせ 架線に飛来物</title>
+<link>http://www3.nhk.or.jp/news/html/20240814/k10014548931000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240814/k10014548931000.html</guid>
+<pubDate>Wed, 14 Aug 2024 16:35:36 +0900</pubDate>
+<description>JR西日本によりますと、山陽新幹線は架線にビニールのようなものがひっかかっている影響で、午後4時3分から広島駅と博多駅の間の下り線で順次運転を見合わせています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
