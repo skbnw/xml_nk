@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Fri, 16 Aug 2024 10:10:46 +0900</lastBuildDate>
+<item>
+<title>日経平均株価 一時1000円以上値上がり 米景気先行き懸念和らぐ</title>
+<link>http://www3.nhk.or.jp/news/html/20240816/k10014550561000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240816/k10014550561000.html</guid>
+<pubDate>Fri, 16 Aug 2024 10:10:26 +0900</pubDate>
+<description>16日の東京株式市場は、アメリカの景気の先行きへの懸念が和らいだことなどを受けて幅広い銘柄に買い注文が広がり、日経平均株価は一時、1000円以上値上がりしました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
