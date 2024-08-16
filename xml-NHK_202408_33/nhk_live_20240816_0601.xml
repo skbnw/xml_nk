@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Fri, 16 Aug 2024 14:56:14 +0900</lastBuildDate>
+<item>
+<title>日経平均株価 一時1400円以上値上がり 米株高や円安進行背景に</title>
+<link>http://www3.nhk.or.jp/news/html/20240816/k10014550561000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240816/k10014550561000.html</guid>
+<pubDate>Fri, 16 Aug 2024 14:55:52 +0900</pubDate>
+<description>16日の東京株式市場、日経平均株価は一時1400円以上値上がりしています。15日に発表されたアメリカの小売統計が市場の予想を大きく上回り、景気の先行きの懸念が和らいだことや、外国為替市場で円安が進んだこともあり、半導体関連や自動車などの輸出関連を中心に幅広い銘柄に買い注文が入っています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
