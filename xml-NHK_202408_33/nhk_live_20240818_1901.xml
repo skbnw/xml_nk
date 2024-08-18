@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Mon, 19 Aug 2024 03:24:58 +0900</lastBuildDate>
+<item>
+<title>【地震速報】茨城 日立で震度5弱 津波の心配なし</title>
+<link>http://www3.nhk.or.jp/news/html/20240819/k10014552511000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240819/k10014552511000.html</guid>
+<pubDate>Mon, 19 Aug 2024 03:24:41 +0900</pubDate>
+<description>19日午前1時前、茨城県北部を震源とした地震が立て続けに発生し、このうち午前0時50分には日立市で震度5弱の揺れを観測しました。気象庁は1週間ほどは同じ程度の揺れを伴う地震に注意するよう呼びかけています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
