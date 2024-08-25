@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sun, 25 Aug 2024 18:54:44 +0900</lastBuildDate>
+<item>
+<title>東海道新幹線 米原～新大阪 運転を再開</title>
+<link>http://www3.nhk.or.jp/news/html/20240825/k10014558831000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240825/k10014558831000.html</guid>
+<pubDate>Sun, 25 Aug 2024 18:32:59 +0900</pubDate>
+<description>JR東海のホームページによりますと、東海道新幹線は、大雨の影響で米原駅と新大阪駅の間で運転を見合わせていましたが、午後6時18分ごろ、運転を再開しました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
