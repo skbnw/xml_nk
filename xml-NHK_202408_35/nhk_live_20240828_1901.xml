@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Thu, 29 Aug 2024 04:00:32 +0900</lastBuildDate>
+<item>
+<title>鹿児島 南さつま 万之瀬川 氾濫危険水位に</title>
+<link>http://www3.nhk.or.jp/news/html/20240829/k10014563071000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240829/k10014563071000.html</guid>
+<pubDate>Thu, 29 Aug 2024 03:39:57 +0900</pubDate>
+<description>鹿児島県の万之瀬川は、南さつま市にある万之瀬橋水位観測所で氾濫危険水位を達しました。鹿児島県と鹿児島地方気象台は、午前3時に氾濫危険情報を出して厳重に警戒するよう呼びかけています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>鹿児島 南さつま 加世田川 氾濫危険水位に</title>
+<link>http://www3.nhk.or.jp/news/html/20240829/k10014563081000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240829/k10014563081000.html</guid>
+<pubDate>Thu, 29 Aug 2024 03:38:19 +0900</pubDate>
+<description>鹿児島県の万之瀬川水系の加世田川は、南さつま市にある日新橋水位観測所で氾濫危険水位を達しました。鹿児島県と鹿児島地方気象台は、先ほど、午前3時、氾濫危険情報を出して厳重に警戒するよう呼びかけています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
