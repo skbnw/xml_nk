@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Fri, 30 Aug 2024 10:02:54 +0900</lastBuildDate>
+<item>
+<title>東海道新幹線 東京～名古屋 終日取りやめ 名古屋～新大阪再開</title>
+<link>http://www3.nhk.or.jp/news/html/20240830/k10014565381000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240830/k10014565381000.html</guid>
+<pubDate>Fri, 30 Aug 2024 10:02:33 +0900</pubDate>
+<description>JR東海によりますと、東海道新幹線は始発から東京と新大阪の間の全線で運転を見合わせていましたが、名古屋と新大阪の間で午前10時ごろから運転を再開するということです。一方、東京と名古屋の間は終日、運転を取りやめるとしています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
