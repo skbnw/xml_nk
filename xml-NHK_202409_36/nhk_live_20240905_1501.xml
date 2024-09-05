@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Thu, 05 Sep 2024 23:47:17 +0900</lastBuildDate>
+<item>
+<title>パリパラ 車いすテニス女子ダブルス 上地 田中ペア 金メダル</title>
+<link>http://www3.nhk.or.jp/news/html/20240905/k10014573781000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240905/k10014573781000.html</guid>
+<pubDate>Thu, 05 Sep 2024 23:46:56 +0900</pubDate>
+<description>パリパラリンピックの車いすテニス、女子ダブルスの決勝で上地結衣選手と田中愛美選手のペアがオランダのペアに勝って金メダルを獲得しました。この種目で日本勢が金メダルを獲得したのは初めてです。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>パラリンピック 柔道 半谷静香が銀メダル 女子48キロ級</title>
+<link>http://www3.nhk.or.jp/news/html/20240905/k10014573811000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240905/k10014573811000.html</guid>
+<pubDate>Thu, 05 Sep 2024 23:31:19 +0900</pubDate>
+<description>パリパラリンピック、柔道の女子48キロ級、視覚障害の重いクラスで半谷静香選手が銀メダルを獲得しました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
