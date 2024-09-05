@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Thu, 05 Sep 2024 17:57:34 +0900</lastBuildDate>
+<item>
+<title>パリパラ 古川佳奈美が銅メダル 卓球女子シングルス</title>
+<link>http://www3.nhk.or.jp/news/html/20240905/k10014573381000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240905/k10014573381000.html</guid>
+<pubDate>Thu, 05 Sep 2024 17:57:13 +0900</pubDate>
+<description>パリパラリンピック、卓球の女子シングルス知的障害のクラスで、古川佳奈美選手は準決勝で敗れ、銅メダル獲得となりました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>パリパラ 福永凌太が銀メダル 陸上男子400m（視覚障害）</title>
+<link>http://www3.nhk.or.jp/news/html/20240905/k10014573301000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240905/k10014573301000.html</guid>
+<pubDate>Thu, 05 Sep 2024 17:35:05 +0900</pubDate>
+<description>パリパラリンピック、陸上男子400メートルの視覚障害のクラスで福永凌太選手が銀メダルを獲得しました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
