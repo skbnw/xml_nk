@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sat, 14 Sep 2024 21:57:40 +0900</lastBuildDate>
+<item>
+<title>鹿児島 瀬戸内町全域に避難指示</title>
+<link>http://www3.nhk.or.jp/news/html/20240914/k10014582261000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240914/k10014582261000.html</guid>
+<pubDate>Sat, 14 Sep 2024 21:57:21 +0900</pubDate>
+<description>台風13号の接近や大雨のため鹿児島県・奄美大島の瀬戸内町は午後8時50分、町内全域の5081世帯・8160人に避難指示を出しました。5段階の警戒レベルのうちレベル4にあたる情報で、危険な場所から全員避難するよう呼びかけています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
