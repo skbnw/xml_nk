@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sun, 15 Sep 2024 21:49:18 +0900</lastBuildDate>
+<item>
+<title>松江市付近に記録的な大雨 災害の危険迫る</title>
+<link>http://www3.nhk.or.jp/news/html/20240915/k10014582791000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240915/k10014582791000.html</guid>
+<pubDate>Sun, 15 Sep 2024 21:49:01 +0900</pubDate>
+<description>気象庁によりますと、島根県の松江市付近では、レーダーによる解析で午後9時20分までの1時間におよそ110ミリの猛烈な雨が降ったとみられます。災害が発生する危険が迫っていることから、気象庁は「記録的短時間大雨情報」を発表して安全を確保するよう、呼びかけています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
