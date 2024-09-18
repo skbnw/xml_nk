@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Wed, 18 Sep 2024 15:53:46 +0900</lastBuildDate>
+<item>
+<title>山梨 都留市付近に記録的な大雨 災害の危険迫る</title>
+<link>http://www3.nhk.or.jp/news/html/20240918/k10014584911000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240918/k10014584911000.html</guid>
+<pubDate>Wed, 18 Sep 2024 15:53:27 +0900</pubDate>
+<description>気象庁によりますと、山梨県都留市付近では、レーダーによる解析で午後3時半までの1時間におよそ100ミリの猛烈な雨が降ったとみられます。災害が発生する危険が迫っていることから、気象庁は「記録的短時間大雨情報」を発表して安全を確保するよう、呼びかけています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
