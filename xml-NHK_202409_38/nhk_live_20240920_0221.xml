@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Fri, 20 Sep 2024 11:10:52 +0900</lastBuildDate>
+<item>
+<title>新潟 関川村の一部に避難指示</title>
+<link>http://www3.nhk.or.jp/news/html/20240920/k10014586801000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240920/k10014586801000.html</guid>
+<pubDate>Fri, 20 Sep 2024 11:10:35 +0900</pubDate>
+<description>新潟県関川村は土砂災害の危険性が高まっているとして、午前9時45分湯沢地区と桂地区、小和田地区、中束地区、蛇喰地区、南中地区、朴坂地区のあわせて339世帯1216人に避難指示を出しました。そのうえで女川ふれあい自然の家、川北ふれあい自然の家、女川地区ふるさと会館、関川村民会館の4か所に避難所を開設しています。避難指示は5段階の警戒レベルのうちレベル4にあたる情報で、危険な場所から全員避難するよう呼びかけています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
