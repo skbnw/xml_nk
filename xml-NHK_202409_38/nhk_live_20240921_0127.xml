@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sat, 21 Sep 2024 10:23:37 +0900</lastBuildDate>
+<item>
+<title>石川 能登町北部付近に記録的短時間大雨情報</title>
+<link>http://www3.nhk.or.jp/news/html/20240921/k10014588011000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240921/k10014588011000.html</guid>
+<pubDate>Sat, 21 Sep 2024 10:23:21 +0900</pubDate>
+<description>気象庁によりますと、石川県の能登町北部付近では、レーダーによる解析で午前10時までの1時間におよそ100ミリの猛烈な雨が降ったとみられます。災害が発生する危険が迫っていることから、気象庁は「記録的短時間大雨情報」を発表して安全を確保するよう、呼びかけています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>石川 珠洲市の若山川で氾濫発生</title>
+<link>http://www3.nhk.or.jp/news/html/20240921/k10014588001000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240921/k10014588001000.html</guid>
+<pubDate>Sat, 21 Sep 2024 10:19:21 +0900</pubDate>
+<description>石川県によりますと、大雨の影響で珠洲市を流れる若山川は、21日午前9時半、宇都山観測所付近で氾濫が発生したということです。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
