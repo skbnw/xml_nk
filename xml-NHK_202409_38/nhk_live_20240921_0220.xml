@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sat, 21 Sep 2024 10:56:55 +0900</lastBuildDate>
+<item>
+<title>石川県に大雨特別警報を発表</title>
+<link>http://www3.nhk.or.jp/news/html/20240921/k10014588111000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20240921/k10014588111000.html</guid>
+<pubDate>Sat, 21 Sep 2024 10:52:54 +0900</pubDate>
+<description>気象庁は、さきほど午前10時50分、石川県の輪島市と珠洲市、能登町に大雨の特別警報を発表しました。石川県では、浸水や土砂崩れによる重大な災害がすでに発生している可能性が極めて高い状況です。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
