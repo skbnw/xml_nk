@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Tue, 08 Oct 2024 19:41:22 +0900</lastBuildDate>
+<item>
+<title>ノーベル物理学賞にヒントン教授など2人【速報中】</title>
+<link>http://www3.nhk.or.jp/news/html/20241008/k10014603511000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20241008/k10014603511000.html</guid>
+<pubDate>Tue, 08 Oct 2024 19:41:04 +0900</pubDate>
+<description>ことしのノーベル物理学賞の受賞者に、人間の神経回路を模倣した「ニューラルネットワーク」を使った、機械学習を可能にした基礎的な発見と発明をしたアメリカの大学の研究者など2人が選ばれました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
