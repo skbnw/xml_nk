@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Tue, 22 Oct 2024 16:55:50 +0900</lastBuildDate>
+<item>
+<title>宮崎 日南市付近に記録的な大雨 災害の危険迫る</title>
+<link>http://www3.nhk.or.jp/news/html/20241022/k10014615971000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20241022/k10014615971000.html</guid>
+<pubDate>Tue, 22 Oct 2024 16:55:34 +0900</pubDate>
+<description>気象庁によりますと、宮崎県日南市付近では、レーダーによる解析で午後4時半までの1時間におよそ120ミリの猛烈な雨が降ったとみられます。災害が発生する危険が迫っていることから、気象庁は「記録的短時間大雨情報」を発表して、安全を確保するよう呼びかけています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>宮崎 日南市 広渡川に「氾濫危険情報」</title>
+<link>http://www3.nhk.or.jp/news/html/20241022/k10014615931000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20241022/k10014615931000.html</guid>
+<pubDate>Tue, 22 Oct 2024 16:35:21 +0900</pubDate>
+<description>宮崎県によりますと、日南市を流れる広渡川は午後3時40分に東郷橋の観測所で氾濫危険水位を超えました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>宮崎 日南市 酒谷川に「氾濫危険情報」</title>
+<link>http://www3.nhk.or.jp/news/html/20241022/k10014615941000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20241022/k10014615941000.html</guid>
+<pubDate>Tue, 22 Oct 2024 16:34:03 +0900</pubDate>
+<description>宮崎県によりますと、日南市を流れる酒谷川は午後3時50分に東光寺橋の観測所で氾濫危険水位を超えました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
