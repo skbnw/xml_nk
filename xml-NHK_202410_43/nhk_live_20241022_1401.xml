@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Tue, 22 Oct 2024 22:57:22 +0900</lastBuildDate>
+<item>
+<title>大分 佐伯 蒲江付近に110ミリの猛烈な雨か 災害の危険迫る</title>
+<link>http://www3.nhk.or.jp/news/html/20241022/k10014616341000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20241022/k10014616341000.html</guid>
+<pubDate>Tue, 22 Oct 2024 22:49:45 +0900</pubDate>
+<description>気象庁によりますと、大分県佐伯市蒲江付近では、レーダーによる解析で午後10時半までの1時間におよそ110ミリの猛烈な雨が降ったとみられます。災害が発生する危険が迫っていることから、気象庁は「記録的短時間大雨情報」を発表して安全を確保するよう呼びかけています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>大分 佐伯 蒲江地域 3004世帯5636人に避難指示</title>
+<link>http://www3.nhk.or.jp/news/html/20241022/k10014616331000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20241022/k10014616331000.html</guid>
+<pubDate>Tue, 22 Oct 2024 22:41:07 +0900</pubDate>
+<description>大分県佐伯市は土砂災害の危険が高まっているとして、22日午後10時20分、蒲江地域の3004世帯、5636人を対象に避難指示を出しました。5段階の警戒レベルのうちレベル4にあたる情報で、危険な場所から全員避難するよう呼びかけています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>宮崎 延岡市付近で120ミリ以上の猛烈な雨か 災害の危険迫る</title>
+<link>http://www3.nhk.or.jp/news/html/20241022/k10014616321000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20241022/k10014616321000.html</guid>
+<pubDate>Tue, 22 Oct 2024 22:57:05 +0900</pubDate>
+<description>気象庁によりますと、宮崎県延岡市付近では、レーダーによる解析で午後10時半までの1時間に120ミリ以上の猛烈な雨が降ったとみられます。災害が発生する危険が迫っていることから、気象庁は「記録的短時間大雨情報」を発表して安全を確保するよう、呼びかけています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
