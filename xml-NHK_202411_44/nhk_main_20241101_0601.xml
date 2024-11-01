@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Fri, 01 Nov 2024 14:59:51 +0900</lastBuildDate>
+<item>
+<title>ワールドシリーズ制覇のドジャース 本拠地ロサンゼルスに凱旋</title>
+<link>http://www3.nhk.or.jp/news/html/20241101/k10014626071000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20241101/k10014626071000.html</guid>
+<pubDate>Fri, 01 Nov 2024 12:37:59 +0900</pubDate>
+<description>4年ぶりにワールドシリーズを制覇した大リーグ、ドジャースは、一夜明けた31日、本拠地のロサンゼルスに凱旋（がいせん）しました。街は大勢のファンが記念グッズを買い求めるなど勝利の余韻が続いています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>介護事業者の倒産が過去最多に</title>
+<link>http://www3.nhk.or.jp/news/html/20241101/k10014626271000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20241101/k10014626271000.html</guid>
+<pubDate>Fri, 01 Nov 2024 14:52:44 +0900</pubDate>
+<description>ことしの介護事業者の倒産は、1日までに144件となり、これまでで最も多かった2022年を上回って過去最多となったことが分かりました。介護職員の人手不足などが原因とみられ、統計をまとめた信用調査会社は「支援を強化しなければ、介護を受けられない地域が広がる懸念がある」としています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>米オープンAI ChatGPTでインターネットの検索サービス開始</title>
+<link>http://www3.nhk.or.jp/news/html/20241101/k10014626141000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20241101/k10014626141000.html</guid>
+<pubDate>Fri, 01 Nov 2024 13:38:39 +0900</pubDate>
+<description>アメリカのオープンAIは、31日、生成AIのChatGPTでインターネットの検索サービスを始めました。AIがネット上の情報を要約して結果を表示するもので検索大手のグーグルなどに対抗できるかが注目されます。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>野村証券の国債取引不正 再発防止策の実施状況確認へ 金融相</title>
+<link>http://www3.nhk.or.jp/news/html/20241101/k10014626101000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20241101/k10014626101000.html</guid>
+<pubDate>Fri, 01 Nov 2024 13:24:19 +0900</pubDate>
+<description>証券最大手の「野村証券」が、日本国債の先物取引で価格を不正に操作したとして、金融庁から2100万円余りの課徴金の納付命令を受けたことについて、加藤金融担当大臣は会社の再発防止策の実施状況を確認していく考えを示しました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>秋篠宮ご夫妻 トルコ公式訪問が正式決定 外交関係樹立100年</title>
+<link>http://www3.nhk.or.jp/news/html/20241101/k10014625941000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20241101/k10014625941000.html</guid>
+<pubDate>Fri, 01 Nov 2024 13:15:48 +0900</pubDate>
+<description>秋篠宮ご夫妻が、12月3日から日本との外交関係樹立から100年の節目を迎えたトルコを公式訪問されることが、正式に決まりました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>渋谷駅周辺 ハロウィーン夜の人出は去年より約20％増</title>
+<link>http://www3.nhk.or.jp/news/html/20241101/k10014626061000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20241101/k10014626061000.html</guid>
+<pubDate>Fri, 01 Nov 2024 12:20:27 +0900</pubDate>
+<description>ハロウィーン目的で街に来ないでほしいと東京 渋谷区が呼びかける中、渋谷駅周辺にはハロウィーン当日の10月31日夜、去年より20％ほど多い人が訪れ混雑する様子が見られました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>水道管などの耐震化 重要施設は15％にとどまる 国交省調査</title>
+<link>http://www3.nhk.or.jp/news/html/20241101/k10014626041000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20241101/k10014626041000.html</guid>
+<pubDate>Fri, 01 Nov 2024 12:35:13 +0900</pubDate>
+<description>ことし1月の能登半島地震で水道管に被害が出て広い範囲で断水が発生したことを受け、国土交通省は全国の水道管などを対象に耐震化の調査を行いました。その結果、避難所や病院などの重要施設で上下の水道管がともに耐震化されているのは、全国で15％にとどまることがわかりました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
