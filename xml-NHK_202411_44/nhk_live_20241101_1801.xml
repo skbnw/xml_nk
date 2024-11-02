@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sat, 02 Nov 2024 02:49:19 +0900</lastBuildDate>
+<item>
+<title>山口 下関市 1万7870世帯3万9911人に避難指示</title>
+<link>http://www3.nhk.or.jp/news/html/20241102/k10014627071000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20241102/k10014627071000.html</guid>
+<pubDate>Sat, 02 Nov 2024 02:49:01 +0900</pubDate>
+<description>大雨の影響で、山口県下関市は、土砂災害と河川の氾濫の危険性が高まったとして、午前2時半、下関市内全域の土砂災害警戒区域と粟野川の洪水浸水想定区域のあわせて1万7870世帯、3万9911人に避難指示を出しました。5段階の警戒レベルのうちレベル4の情報で、危険な場所から全員避難するよう呼びかけています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>福岡 北九州市 5万5611世帯10万3813人に避難指示</title>
+<link>http://www3.nhk.or.jp/news/html/20241102/k10014627061000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20241102/k10014627061000.html</guid>
+<pubDate>Sat, 02 Nov 2024 02:25:15 +0900</pubDate>
+<description>福岡県北九州市は、大雨による土砂災害のおそれがあるとして、2日午前1時55分に、市内の土砂災害警戒区域などのあわせて5万5611世帯、10万3813人を対象に避難指示を出しました。5段階の警戒レベルのうちレベル4にあたる情報で、危険な場所から全員避難するよう呼びかけています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
