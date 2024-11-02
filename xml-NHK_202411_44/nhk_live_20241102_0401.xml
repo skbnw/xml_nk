@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sat, 02 Nov 2024 13:00:36 +0900</lastBuildDate>
+<item>
+<title>松山市 市内の一部 17万9654世帯 35万3154人に避難指示</title>
+<link>http://www3.nhk.or.jp/news/html/20241102/k10014627381000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20241102/k10014627381000.html</guid>
+<pubDate>Sat, 02 Nov 2024 12:57:09 +0900</pubDate>
+<description>松山市は、土砂災害警戒情報の発表を受けて、午前11時40分に市内の17万9654世帯、35万3154人に避難指示を出しました。5段階の警戒レベルのうちレベル4の情報で、危険な場所から全員避難するよう呼びかけています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>京都 京丹後 川上谷川が氾濫危険水位を超える</title>
+<link>http://www3.nhk.or.jp/news/html/20241102/k10014627371000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20241102/k10014627371000.html</guid>
+<pubDate>Sat, 02 Nov 2024 12:56:29 +0900</pubDate>
+<description>京都府京丹後市を流れる川上谷川は橋爪橋観測所で午後0時ごろ氾濫危険水位を超えました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
