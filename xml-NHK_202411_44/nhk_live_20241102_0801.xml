@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sat, 02 Nov 2024 17:00:52 +0900</lastBuildDate>
+<item>
+<title>京都 亀岡 桂川が氾濫危険水位超える</title>
+<link>http://www3.nhk.or.jp/news/html/20241102/k10014627551000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20241102/k10014627551000.html</guid>
+<pubDate>Sat, 02 Nov 2024 16:32:42 +0900</pubDate>
+<description>京都府亀岡市を流れる桂川は保津橋観測所で午後3時50分ごろ氾濫危険水位を超えました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
