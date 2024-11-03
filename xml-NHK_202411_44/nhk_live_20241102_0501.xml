@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sat, 02 Nov 2024 13:37:47 +0900</lastBuildDate>
+<item>
+<title>京都 福知山 牧川が氾濫危険水位超える</title>
+<link>http://www3.nhk.or.jp/news/html/20241102/k10014627441000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20241102/k10014627441000.html</guid>
+<pubDate>Sat, 02 Nov 2024 13:32:29 +0900</pubDate>
+<description>京都府福知山市を流れる牧川は上川口観測所で午後1時ごろ氾濫危険水位を超えました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>松山市内10地区の10万161世帯に緊急安全確保 洪水のおそれ</title>
+<link>http://www3.nhk.or.jp/news/html/20241102/k10014627431000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20241102/k10014627431000.html</guid>
+<pubDate>Sat, 02 Nov 2024 13:37:28 +0900</pubDate>
+<description>松山市は洪水のおそれがあるとして、正午に、市内10地区の10万161世帯18万9552人に「緊急安全確保」を出しました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
