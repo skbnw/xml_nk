@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sun, 10 Nov 2024 06:58:10 +0900</lastBuildDate>
+<item>
+<title>沖縄 国頭村東部 西部と東村 大宜味村付近に記録的大雨</title>
+<link>http://www3.nhk.or.jp/news/html/20241110/k10014634111000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20241110/k10014634111000.html</guid>
+<pubDate>Sun, 10 Nov 2024 06:48:18 +0900</pubDate>
+<description>気象庁によりますと、沖縄県の国頭村東部付近と東村付近ではレーダーによる解析でいずれも午前5時20分までの1時間に120ミリ以上の猛烈な雨が降ったとみられます。また、沖縄県の国頭村西部付近では、レーダーによる解析で午前5時半までの1時間に120ミリ以上の猛烈な雨が降ったとみられます。さらに、大宜味村付近では、レーダーによる解析で午前5時50分までの1時間におよそ120ミリの猛烈な雨が降ったとみられます。東村付近では、レーダーによる解析で午前6時30分までの1時間におよそ120ミリの猛烈な雨が降ったとみられます。災害の危険が迫っていることから、気象庁は「記録的短時間大雨情報」を発表して安全を確保するよう呼びかけています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>沖縄 東村全域に避難指示</title>
+<link>http://www3.nhk.or.jp/news/html/20241110/k10014634151000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20241110/k10014634151000.html</guid>
+<pubDate>Sun, 10 Nov 2024 06:35:57 +0900</pubDate>
+<description>沖縄県の東村は大雨を受けて、午前5時、村内全域に避難指示を出しました。5段階の大雨警戒レベルのうち警戒レベル4の情報で、危険な場所から全員避難するよう呼びかけています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>沖縄 大宜味村の一部に避難指示</title>
+<link>http://www3.nhk.or.jp/news/html/20241110/k10014634131000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20241110/k10014634131000.html</guid>
+<pubDate>Sun, 10 Nov 2024 06:35:02 +0900</pubDate>
+<description>沖縄県大宜味村は、洪水警報が発表されたことを受けて、午前5時30分、大宜味村の田嘉里川周辺の地域に避難指示を出しました。午前5時50分、新たに村内の謝名城地区と喜如嘉地区に避難指示を出しました。5段階の大雨警戒レベルのうち警戒レベル4の情報で、危険な場所から全員避難するよう呼びかけています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
