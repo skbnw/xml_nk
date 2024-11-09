@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sat, 09 Nov 2024 21:41:27 +0900</lastBuildDate>
+<item>
+<title>四国の広範囲で停電 4県で約28万戸（午後8時55分時点）</title>
+<link>http://www3.nhk.or.jp/news/html/20241109/k10014634061000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20241109/k10014634061000.html</guid>
+<pubDate>Sat, 09 Nov 2024 21:41:09 +0900</pubDate>
+<description>四国電力によりますと、9日午後8時半ごろから四国の広い範囲で停電が起きています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
