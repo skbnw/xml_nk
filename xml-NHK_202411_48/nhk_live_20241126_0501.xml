@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Tue, 26 Nov 2024 13:49:17 +0900</lastBuildDate>
+<item>
+<title>岩手 宮城で震度3の地震 津波の心配なし</title>
+<link>http://www3.nhk.or.jp/news/html/20241126/k10014649831000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20241126/k10014649831000.html</guid>
+<pubDate>Tue, 26 Nov 2024 13:49:00 +0900</pubDate>
+<description>26日午後1時31分ごろ、岩手県と宮城県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。各地の震度は、震度3が岩手県の大船渡市や釜石市、花巻市、北上市、遠野市、一関市、奥州市、宮城県の石巻市や気仙沼市、登米市、栗原市、大崎市、岩沼市などでした。また、東北や関東甲信の広い範囲で震度2や1の揺れを観測しました。気象庁によりますと、震源地は宮城県沖で、震源の深さは40キロ、地震の規模を示すマグニチュードは5.3と推定されています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
