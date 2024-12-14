@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sat, 14 Dec 2024 15:01:08 +0900</lastBuildDate>
+<item>
+<title>東海道新幹線 運転再開 新横浜～小田原 上り線</title>
+<link>http://www3.nhk.or.jp/news/html/20241214/k10014668011000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20241214/k10014668011000.html</guid>
+<pubDate>Sat, 14 Dec 2024 15:00:51 +0900</pubDate>
+<description>JR東海によりますと、東海道新幹線は架線にビニールが付いた影響で新横浜と小田原の駅の間の上り線で運転を見合わせていましたが、午後2時49分に運転を再開しました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
