@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sat, 18 Jan 2025 00:40:00 +0900</lastBuildDate>
+<item>
+<title>TikTok側の訴え 米連邦最高裁が退ける アプリ利用が実質禁止に</title>
+<link>http://www3.nhk.or.jp/news/html/20250118/k10014696671000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250118/k10014696671000.html</guid>
+<pubDate>Sat, 18 Jan 2025 00:39:41 +0900</pubDate>
+<description>アメリカで、中国の企業が親会社の動画共有アプリ、「TikTok」を実質的に禁止する法律をめぐり、アメリカの連邦最高裁判所は、17日、法律の一時的な差し止めを求めたTikTok側の訴えを退けました。これによって、19日までに中国の親会社がアメリカ事業を売却しなければ、アメリカ国内でIT企業がアプリを配信したり、更新サービスを提供したりすることができなくなり、実質的にアプリの利用が禁止されることになります。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
