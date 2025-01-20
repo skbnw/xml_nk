@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Tue, 21 Jan 2025 01:58:42 +0900</lastBuildDate>
+<item>
+<title>台湾南部でM6.4の地震 震度6弱の揺れを観測</title>
+<link>http://www3.nhk.or.jp/news/html/20250121/k10014698591000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250121/k10014698591000.html</guid>
+<pubDate>Tue, 21 Jan 2025 01:58:24 +0900</pubDate>
+<description>台湾の中央気象署によりますと、日本時間の21日午前1時17分ごろ、台湾南部の嘉義県付近を震源とするマグニチュード6.4の地震がありました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
