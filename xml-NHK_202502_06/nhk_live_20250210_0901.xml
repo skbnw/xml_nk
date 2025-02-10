@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Mon, 10 Feb 2025 18:00:20 +0900</lastBuildDate>
+<item>
+<title>中国メディア「米追加関税への対抗措置発動」報道</title>
+<link>http://www3.nhk.or.jp/news/html/20250210/k10014718621000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250210/k10014718621000.html</guid>
+<pubDate>Mon, 10 Feb 2025 17:59:57 +0900</pubDate>
+<description>中国メディアはアメリカのトランプ政権の追加関税への中国の対抗措置が10日未明に発動されたと伝えました。中国政府は、アメリカから輸入される石炭やLNG＝液化天然ガスに対して15％、原油や農業用の機械、排気量の大きい自動車などに対しては10％を10日から追加関税として課すと発表していました。一方、中国外務省の報道官は10日の記者会見で、対抗措置が発動されたかどうかについて、「担当部局に確認してほしい」と述べるにとどめました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
