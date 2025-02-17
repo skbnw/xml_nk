@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Mon, 17 Feb 2025 16:45:45 +0900</lastBuildDate>
+<item>
+<title>東海道新幹線 名古屋～岐阜羽島 上り 運転見合わせ</title>
+<link>http://www3.nhk.or.jp/news/html/20250217/k10014725081000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250217/k10014725081000.html</guid>
+<pubDate>Mon, 17 Feb 2025 16:45:25 +0900</pubDate>
+<description>JR東海によりますと、東海道新幹線は架線に飛来物が付着したため、17日午後4時半ごろから名古屋と岐阜羽島の間の上り線で運転を見合わせています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
