@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Fri, 21 Feb 2025 22:05:06 +0900</lastBuildDate>
+<item>
+<title>【地震速報】福島県で震度4</title>
+<link>http://www3.nhk.or.jp/news/html/20250221/k10014729911000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250221/k10014729911000.html</guid>
+<pubDate>Fri, 21 Feb 2025 22:04:47 +0900</pubDate>
+<description>21日午後10時1分ごろ地震がありました。現在、震度3以上が観測されている地域は以下のとおりです。▼震度4が、福島県浜通り。▼震度3が、宮城県南部、宮城県中部、福島県中通り。今後の情報に注意してください。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
