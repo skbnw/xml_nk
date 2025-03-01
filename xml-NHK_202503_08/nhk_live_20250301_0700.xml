@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sat, 01 Mar 2025 15:55:39 +0900</lastBuildDate>
+<item>
+<title>JR山手線 運転見合わせ 午後4時10分ごろ運転再開予定</title>
+<link>http://www3.nhk.or.jp/news/html/20250301/k10014737151000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250301/k10014737151000.html</guid>
+<pubDate>Sat, 01 Mar 2025 15:55:19 +0900</pubDate>
+<description>JR東日本によりますとJR山手線は、代々木駅の線路から煙が出ているという情報があり、午後3時すぎから内回りと外回りで運転を見合わせています。消防が出動して消火活動が行われ午後4時10分ごろの運転再開を予定しているということです。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
