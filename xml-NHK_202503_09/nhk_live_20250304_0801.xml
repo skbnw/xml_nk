@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Tue, 04 Mar 2025 16:54:28 +0900</lastBuildDate>
+<item>
+<title>最高裁判所 旧統一教会に過料10万円を命じる</title>
+<link>http://www3.nhk.or.jp/news/html/20250304/k10014739581000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250304/k10014739581000.html</guid>
+<pubDate>Tue, 04 Mar 2025 16:54:08 +0900</pubDate>
+<description>旧統一教会への解散命令請求に関連して最高裁判所は、文部科学省の質問権の行使に適切に回答しなかったとして教団に過料10万円を命じました。また、解散命令の要件には民法上の不法行為も含まれるという初めての判断を示しました。東京地裁で続いている、教団に解散命令を出すかどうかの審理に影響する可能性があります。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>新年度予算案 衆院本会議で可決 国会での修正は29年ぶり</title>
+<link>http://www3.nhk.or.jp/news/html/20250304/k10014739381000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250304/k10014739381000.html</guid>
+<pubDate>Tue, 04 Mar 2025 16:51:38 +0900</pubDate>
+<description>新年度予算案は、少数与党の自民・公明両党と日本維新の会の合意などを踏まえた修正のうえ、衆議院本会議で採決が行われ、賛成多数で可決されました。政府の当初予算案が国会で修正されるのは29年ぶりです。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
