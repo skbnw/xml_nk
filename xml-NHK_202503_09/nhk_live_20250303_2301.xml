@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Tue, 04 Mar 2025 07:40:58 +0900</lastBuildDate>
+<item>
+<title>トランプ大統領 中国からの輸入品に10％の追加関税</title>
+<link>http://www3.nhk.or.jp/news/html/20250304/k10014739011000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250304/k10014739011000.html</guid>
+<pubDate>Tue, 04 Mar 2025 07:38:59 +0900</pubDate>
+<description>アメリカのトランプ大統領は3日、中国からの輸入品に新たに10％の追加関税を課す大統領令に署名しました。中国がアメリカへの薬物の流入を防ぐ対策を取っていないためだとしています。トランプ大統領は3日午後記者団に対し、4日から中国に追加関税を課す考えを表明していました。中国に対しては先月4日から10％の追加関税を課していて、上乗せされる関税はあわせて20％となり、貿易摩擦が一段と激化することになりそうです。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
