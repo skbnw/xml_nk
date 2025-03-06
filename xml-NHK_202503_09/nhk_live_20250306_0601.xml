@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Thu, 06 Mar 2025 14:50:00 +0900</lastBuildDate>
+<item>
+<title>東北新幹線など運転再開 車両連結部分外れた影響</title>
+<link>http://www3.nhk.or.jp/news/html/20250306/k10014741221000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250306/k10014741221000.html</guid>
+<pubDate>Thu, 06 Mar 2025 14:49:41 +0900</pubDate>
+<description>JR東日本によりますと、東北新幹線の車両の連結部分が外れた影響で運転を見合わせていた、東北・山形・秋田・北陸・上越の各新幹線は、いずれも全線で午後2時半ごろに運転を再開したということです。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
