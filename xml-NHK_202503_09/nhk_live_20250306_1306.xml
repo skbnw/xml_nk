@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Thu, 06 Mar 2025 21:39:58 +0900</lastBuildDate>
+<item>
+<title>円相場1ドル＝147円台に 5か月ぶりの円高 ドル安水準</title>
+<link>http://www3.nhk.or.jp/news/html/20250306/k10014741781000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250306/k10014741781000.html</guid>
+<pubDate>Thu, 06 Mar 2025 21:39:39 +0900</pubDate>
+<description>6日の外国為替市場では、円相場は円を買ってドルを売る動きが進み一時、1ドル＝147円台まで値上がりしました。これは去年10月以来、およそ5か月ぶりの円高ドル安水準です。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
