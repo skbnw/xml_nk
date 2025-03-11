@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Mon, 10 Mar 2025 14:43:47 +0900</lastBuildDate>
+<item>
+<title>韓国軍“北朝鮮 黄海に向けて弾道ミサイル数発発射”</title>
+<link>http://www3.nhk.or.jp/news/html/20250310/k10014745141000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250310/k10014745141000.html</guid>
+<pubDate>Mon, 10 Mar 2025 14:43:27 +0900</pubDate>
+<description>韓国軍の合同参謀本部は、北朝鮮が10日午後1時50分ごろ、内陸から朝鮮半島西側の黄海に向けて、弾道ミサイル数発を発射したと明らかにしました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>東北新幹線 全線で運転再開</title>
+<link>http://www3.nhk.or.jp/news/html/20250310/k10014745061000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250310/k10014745061000.html</guid>
+<pubDate>Mon, 10 Mar 2025 14:37:42 +0900</pubDate>
+<description>東北新幹線は人身事故の影響で東京と盛岡の間の上下線で運転を見合わせていましたが、午後2時半に全線で運転を再開しました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sat, 08 Mar 2025 17:42:04 +0900</lastBuildDate>
+<item>
+<title>韓国 ユン大統領釈放へ 検察は拘束取り消しの抗告手続き取らず</title>
+<link>http://www3.nhk.or.jp/news/html/20250308/k10014743781000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250308/k10014743781000.html</guid>
+<pubDate>Sat, 08 Mar 2025 17:41:44 +0900</pubDate>
+<description>韓国の検察は、地方裁判所がユン・ソンニョル（尹錫悦）大統領の拘束を取り消す決定を出したことを受けて、「裁判所の決定を尊重する」として、抗告の手続きをとらないと明らかにしました。これにより、ユン大統領は、ことし1月に拘束されて以来、初めて釈放されることになります。裁判所は7日の決定で、捜査機関によるユン大統領の拘束の手続きについて、適法だったかどうか、疑問の余地があるなどと指摘していました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
