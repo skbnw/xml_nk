@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Fri, 21 Mar 2025 03:57:54 +0900</lastBuildDate>
+<item>
+<title>インドネシアの火山で大規模噴火 日本への津波の有無を調査</title>
+<link>http://www3.nhk.or.jp/news/html/20250321/k10014755841000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250321/k10014755841000.html</guid>
+<pubDate>Fri, 21 Mar 2025 03:57:36 +0900</pubDate>
+<description>日本時間の21日午前0時40分ごろ、インドネシアの火山で大規模な噴火が発生しました。気象庁は噴火による津波の有無や日本への影響を調べていますが、午前3時現在、日本や海外の観測点で目立った潮位の変化は観測されていないということです。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
