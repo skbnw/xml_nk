@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Fri, 21 Mar 2025 08:45:16 +0900</lastBuildDate>
+<item>
+<title>2月 消費者物価指数 前年同月比3.0％上昇</title>
+<link>http://www3.nhk.or.jp/news/html/20250321/k10014755631000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250321/k10014755631000.html</guid>
+<pubDate>Fri, 21 Mar 2025 08:44:58 +0900</pubDate>
+<description>家庭で消費するモノやサービスの値動きをみる2月の消費者物価指数は、天候による変動が大きい生鮮食品を除いた指数が去年の同じ月より3.0％上昇しました。上昇率は前の月の3.2％から0.2ポイント低くなったものの、3か月連続で3％台となりました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
