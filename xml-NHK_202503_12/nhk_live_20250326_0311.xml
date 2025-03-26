@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Wed, 26 Mar 2025 11:57:25 +0900</lastBuildDate>
+<item>
+<title>東北新幹線 運転見合わせ拡大 東京～盛岡の上下線に 強風影響</title>
+<link>http://www3.nhk.or.jp/news/html/20250326/k10014760681000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250326/k10014760681000.html</guid>
+<pubDate>Wed, 26 Mar 2025 11:57:05 +0900</pubDate>
+<description>東北新幹線は、26日昼前から強風の影響で、東京と盛岡の間の上下線で運転を見合わせています。JR東日本は、風が弱まりしだい運転を再開するとしています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
