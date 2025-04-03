@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Thu, 03 Apr 2025 06:00:31 +0900</lastBuildDate>
+<item>
+<title>トランプ大統領 全ての国に一律10％関税 相互関税は日本に24％</title>
+<link>http://www3.nhk.or.jp/news/html/20250403/k10014768241000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250403/k10014768241000.html</guid>
+<pubDate>Thu, 03 Apr 2025 05:55:22 +0900</pubDate>
+<description>アメリカのトランプ大統領は2日、ホワイトハウスで演説し、すべての国や地域を対象に基本の関税率として一律で10％を課すことを明らかにしました。また、貿易相手国の関税率や非関税障壁を踏まえて自国の関税を引き上げる「相互関税」として、日本には24％の関税を課すことを明らかにしました。この理由として日本が平均で課す関税が46％とみなしているとしています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
