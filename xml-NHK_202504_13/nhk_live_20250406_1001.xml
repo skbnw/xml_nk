@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sun, 06 Apr 2025 18:40:54 +0900</lastBuildDate>
+<item>
+<title>長崎 対馬付近 ドクターヘリ交信途絶える 3人救助 残る3人捜索</title>
+<link>http://www3.nhk.or.jp/news/html/20250406/k10014771751000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250406/k10014771751000.html</guid>
+<pubDate>Sun, 06 Apr 2025 18:40:34 +0900</pubDate>
+<description>国土交通省によりますと、長崎県の対馬空港から東におよそ10キロの付近を飛行中のドクターヘリと交信が途絶えたということです。機内には6人が乗っていたという情報があります。これまでに3人が救助され、このうち2人は意識があり、もう1人の容体はわかっていないということです。残る3人の行方を探しています。飛行計画書ではヘリコプターは対馬空港を出発し、午後2時15分に福岡市の病院に到着する予定だったということです。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
