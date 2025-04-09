@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Tue, 08 Apr 2025 09:59:33 +0900</lastBuildDate>
+<item>
+<title>株価 一時1900円超値上がり 取り引き開始直後から買い注文</title>
+<link>http://www3.nhk.or.jp/news/html/20250408/k10014773011000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250408/k10014773011000.html</guid>
+<pubDate>Tue, 08 Apr 2025 09:59:14 +0900</pubDate>
+<description>トランプ政権の関税政策をめぐって不安定な値動きが続く中、8日の東京株式市場は7日の急落から一転、値下がりしていた銘柄を買い戻す動きが広がり、日経平均株価が一時、1900円以上値上がりするなど大幅な上昇となっています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
