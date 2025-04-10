@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Fri, 11 Apr 2025 01:50:16 +0900</lastBuildDate>
+<item>
+<title>NYダウ 一時2100ドル値下がり 米中貿易摩擦の先行き不透明</title>
+<link>http://www3.nhk.or.jp/news/html/20250410/k10014776241000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250410/k10014776241000.html</guid>
+<pubDate>Fri, 11 Apr 2025 01:49:55 +0900</pubDate>
+<description>10日のニューヨーク株式市場では、ダウ平均株価が一時、9日と比べて2100ドルの値下がりとなっています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>アメリカ 追加関税 中国からの輸入品への関税率 計145％に</title>
+<link>http://www3.nhk.or.jp/news/html/20250411/k10014776261000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250411/k10014776261000.html</guid>
+<pubDate>Fri, 11 Apr 2025 01:30:10 +0900</pubDate>
+<description>アメリカのホワイトハウスは、中国からの輸入品への関税率はあわせて145％になると説明しました。トランプ大統領は9日、中国からの輸入品への追加関税について、125％に引き上げることを明らかにしていましたが、中国に対しては先月までに20％の追加関税を課しているため、関税率はあわせて145％になるとしています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
