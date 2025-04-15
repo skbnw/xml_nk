@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Tue, 15 Apr 2025 19:48:39 +0900</lastBuildDate>
+<item>
+<title>トランプ政権 半導体・医薬品にも関税検討 17日に日米交渉へ</title>
+<link>http://www3.nhk.or.jp/news/html/20250415/k10014779481000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250415/k10014779481000.html</guid>
+<pubDate>Tue, 15 Apr 2025 18:58:37 +0900</pubDate>
+<description>アメリカのトランプ政権は半導体と医薬品を輸入に頼っていることが国家の安全保障を損なうことにつながるか、調査を開始したと明らかにしました。結果を踏まえて、半導体と医薬品にも新たに関税を課すことを検討する方針です。赤澤経済再生担当大臣は日本時間の17日、ベッセント財務長官らとの日米交渉に臨む予定です。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>【Q＆A】グーグルに公取委が「排除措置命令」米巨大IT企業へ初</title>
+<link>http://www3.nhk.or.jp/news/html/20250415/k10014779641000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250415/k10014779641000.html</guid>
+<pubDate>Tue, 15 Apr 2025 19:23:05 +0900</pubDate>
+<description>インターネット検索最大手のアメリカの「グーグル」が、スマートフォンのメーカーに対し自社のアプリを搭載させる契約を結ぶなど独占禁止法に違反する行為をしていたとして、公正取引委員会は違反行為の取りやめなどを求める排除措置命令を出しました。「GAFAM」と呼ばれるアメリカの巨大IT企業に公正取引委員会が排除措置命令を出すのは初めてです。記事の後半では、公正取引委員会がなぜ排除措置命令に踏み切ったのかなどをQ＆A解説でお伝えします。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>不要のリチウムイオン電池 “市区町村が回収を”環境省が通知</title>
+<link>http://www3.nhk.or.jp/news/html/20250415/k10014779351000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250415/k10014779351000.html</guid>
+<pubDate>Tue, 15 Apr 2025 19:26:04 +0900</pubDate>
+<description>モバイルバッテリーやスマートフォンなどに使われている「リチウムイオン電池」による火災や発火事故が相次ぐ中、環境省は家庭から出される不要になったすべての「リチウムイオン電池」を市区町村が回収するよう求める新たな方針をまとめ、15日、通知しました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>“北朝鮮の部隊 現代戦術完全に習得” ウクライナ国防省高官</title>
+<link>http://www3.nhk.or.jp/news/html/20250415/k10014779991000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250415/k10014779991000.html</guid>
+<pubDate>Tue, 15 Apr 2025 18:39:15 +0900</pubDate>
+<description>ウクライナ国防省で情報収集や分析を行う部門の高官は、ロシア西部のクルスク州でウクライナ軍との戦闘に参加している北朝鮮の部隊が、無人機の活用といった現代の戦術を完全に習得し、戦場で脅威になっているという見方を明らかにしました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>生成AIで作成のわいせつ画像 販売した疑い 4人逮捕 全国初摘発</title>
+<link>http://www3.nhk.or.jp/news/html/20250415/k10014779551000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250415/k10014779551000.html</guid>
+<pubDate>Tue, 15 Apr 2025 19:45:28 +0900</pubDate>
+<description>生成AIを使って作成したわいせつな画像をインターネットのオークションサイトで販売したとして、警視庁は20代から50代の4人を逮捕しました。作成されたのは実在しない成人女性の画像で、警視庁によりますと、生成AIで作成したわいせつ物の販売が摘発されるのは全国で初めてだということです。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>アマゾンウェブサービスで障害発生 au PAYやPayPayで一時障害</title>
+<link>http://www3.nhk.or.jp/news/html/20250415/k10014780161000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250415/k10014780161000.html</guid>
+<pubDate>Tue, 15 Apr 2025 18:20:35 +0900</pubDate>
+<description>企業向けのデータ管理サービス「AWSクラウド」を運営するAWS＝アマゾンウェブサービスは、日本時間の午後5時すぎに日本で障害が発生しているとウェブサイトで発表しました。その後、午後6時前になって「問題は解決し、サービスが通常どおり運用されている。影響を受けたシステムの調査に引き続き取り組んでいる」と発表しました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>和歌山県 岸本周平知事が死去 68歳</title>
+<link>http://www3.nhk.or.jp/news/html/20250415/k10014779591000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250415/k10014779591000.html</guid>
+<pubDate>Tue, 15 Apr 2025 17:24:21 +0900</pubDate>
+<description>和歌山県の岸本周平知事が、15日午前和歌山市内の病院で亡くなりました。68歳でした。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
