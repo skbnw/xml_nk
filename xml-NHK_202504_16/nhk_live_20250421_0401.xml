@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Mon, 21 Apr 2025 12:43:15 +0900</lastBuildDate>
+<item>
+<title>山陽新幹線 広島～博多 上下線で運転再開</title>
+<link>http://www3.nhk.or.jp/news/html/20250421/k10014785131000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250421/k10014785131000.html</guid>
+<pubDate>Mon, 21 Apr 2025 12:42:55 +0900</pubDate>
+<description>山陽新幹線は、山口県の徳山駅と新山口駅の間で、竹が倒れかかった影響で広島駅と博多駅の間の上下線で運転を見合わせていましたが、先ほど午後0時31分に運転を再開しました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
