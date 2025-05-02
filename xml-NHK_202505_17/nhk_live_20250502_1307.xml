@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Fri, 02 May 2025 21:45:48 +0900</lastBuildDate>
+<item>
+<title>アメリカ 4月雇用統計 就業者17万7000人増 市場予想上回る</title>
+<link>http://www3.nhk.or.jp/news/html/20250502/k10014795721000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250502/k10014795721000.html</guid>
+<pubDate>Fri, 02 May 2025 21:45:28 +0900</pubDate>
+<description>円相場や株価に影響を及ぼすアメリカの4月の雇用統計が発表され、農業分野以外の就業者は3月から17万7000人増加し、市場予想を上回りました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
