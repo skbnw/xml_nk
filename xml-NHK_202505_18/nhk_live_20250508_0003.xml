@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Thu, 08 May 2025 09:01:03 +0900</lastBuildDate>
+<item>
+<title>【速報】北朝鮮 日本海に向け弾道ミサイル発射 日本へ影響なし</title>
+<link>http://www3.nhk.or.jp/news/html/20250508/k10014799421000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250508/k10014799421000.html</guid>
+<pubDate>Thu, 08 May 2025 09:00:47 +0900</pubDate>
+<description>韓国軍の合同参謀本部は、北朝鮮が日本海に向けて弾道ミサイルを発射したと、8日午前8時すぎに発表しました。防衛省関係者によりますと、この発射による日本への影響はないということです。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
