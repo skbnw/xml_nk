@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Tue, 13 May 2025 21:44:41 +0900</lastBuildDate>
+<item>
+<title>米 4月消費者物価指数 前年同月比2.3％上昇 上昇率はダウン</title>
+<link>http://www3.nhk.or.jp/news/html/20250513/k10014804891000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250513/k10014804891000.html</guid>
+<pubDate>Tue, 13 May 2025 21:44:20 +0900</pubDate>
+<description>アメリカの先月の消費者物価指数が発表され、前の年の同じ月と比べて2.3％の上昇となりました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
