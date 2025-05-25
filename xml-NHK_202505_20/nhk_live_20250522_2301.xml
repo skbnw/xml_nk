@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Fri, 23 May 2025 07:28:45 +0900</lastBuildDate>
+<item>
+<title>JR山手線内回りは運転再開 外回りは運転見合わせ続く</title>
+<link>http://www3.nhk.or.jp/news/html/20250523/k10014813991000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250523/k10014813991000.html</guid>
+<pubDate>Fri, 23 May 2025 07:28:27 +0900</pubDate>
+<description>JR山手線は架線設備に異常が確認され、JR東日本が復旧作業を進めています。この影響で始発から運転を見合わせていた内回りと京浜東北線は運転を再開しましたが、外回りは引き続き運転を見合わせていて、再開は午前9時ごろを見込んでいるということです。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
