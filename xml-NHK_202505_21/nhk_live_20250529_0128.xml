@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Thu, 29 May 2025 10:24:22 +0900</lastBuildDate>
+<item>
+<title>トランプ政権の関税措置 一部差し止め命じる 米国際貿易裁判所</title>
+<link>http://www3.nhk.or.jp/news/html/20250529/k10014819581000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250529/k10014819581000.html</guid>
+<pubDate>Thu, 29 May 2025 10:24:05 +0900</pubDate>
+<description>アメリカの国際貿易裁判所は28日、トランプ政権が発動した関税措置のうち、「IEEPA＝国際緊急経済権限法」を根拠にした措置について、法律が大統領に与えた権限を越えているとして、差し止めを命じました。この命令では、アメリカにとって貿易赤字が大きいとした国や地域への「相互関税」や、すべての国や地域を対象にした10％の一律関税、それにフェンタニルなど薬物の流入を理由とした中国などへの追加関税が対象となります。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
