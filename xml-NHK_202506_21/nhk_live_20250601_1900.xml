@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Mon, 02 Jun 2025 04:00:23 +0900</lastBuildDate>
+<item>
+<title>【地震速報】北海道で震度4</title>
+<link>http://www3.nhk.or.jp/news/html/20250602/k10014823061000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250602/k10014823061000.html</guid>
+<pubDate>Mon, 02 Jun 2025 04:00:06 +0900</pubDate>
+<description>２日午前３時５２分ごろ地震がありました。現在、震度３以上が観測されている地域は以下のとおりです。各市町村の震度は以下のとおりです。▼震度４が、北海道大樹町、北海道浦幌町。▼震度３が、北海道釧路市、北海道帯広市、北海道新篠津村、北海道長沼町、北海道厚真町、北海道安平町、北海道むかわ町、北海道平取町、北海道新冠町、北海道浦河町、北海道様似町、北海道えりも町、北海道新ひだか町、北海道音更町、北海道鹿追町、北海道中札内村、北海道更別村、北海道広尾町、北海道幕別町、北海道池田町、北海道豊頃町、北海道釧路町、北海道白糠町。この地震により、日本の沿岸では若干の海面変動があるかもしれませんが、被害の心配はありません</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
