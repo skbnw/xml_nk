@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Wed, 04 Jun 2025 14:00:34 +0900</lastBuildDate>
+<item>
+<title>去年の出生数68万6061人 初めて70万人下回る 厚労省</title>
+<link>http://www3.nhk.or.jp/news/html/20250604/k10014825201000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250604/k10014825201000.html</guid>
+<pubDate>Wed, 04 Jun 2025 14:00:15 +0900</pubDate>
+<description>去年1年間に生まれた日本人の子どもの数は68万6000人余りと、前年より4万1000人余り減少し、統計を取り始めて以降、初めて70万人を下回ったことが厚生労働省の調査で分かりました。また、1人の女性が産む子どもの数の指標となる合計特殊出生率は去年1.15となり、これまでで最も低くなっています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
