@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Tue, 17 Jun 2025 12:11:47 +0900</lastBuildDate>
+<item>
+<title>東北新幹線 東京～仙台 上下線で運転見合わせ</title>
+<link>http://www3.nhk.or.jp/news/html/20250617/k10014837261000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250617/k10014837261000.html</guid>
+<pubDate>Tue, 17 Jun 2025 12:11:28 +0900</pubDate>
+<description>JR東日本のホームページによりますと、東北新幹線は、宇都宮と那須塩原の間で車両点検の影響で、東京と仙台の間の上下線で運転を見合わせています。運転再開の見通しはたっていないということです。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
