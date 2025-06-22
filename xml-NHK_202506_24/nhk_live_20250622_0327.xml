@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sun, 22 Jun 2025 12:20:20 +0900</lastBuildDate>
+<item>
+<title>【地震速報】鹿児島 悪石島で震度4の地震 津波の心配なし</title>
+<link>http://www3.nhk.or.jp/news/html/20250622/k10014841271000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250622/k10014841271000.html</guid>
+<pubDate>Sun, 22 Jun 2025 12:20:03 +0900</pubDate>
+<description>２２日午後０時１２分ごろ地震がありました。この地震による津波の心配はありません。震源地はトカラ列島近海で震源の深さは２０キロ、地震の規模を示すマグニチュードは４．５と推定されます。各市町村の震度は以下のとおりです。▼震度４が、鹿児島県悪石島。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
