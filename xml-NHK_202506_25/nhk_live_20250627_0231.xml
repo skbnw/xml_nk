@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Fri, 27 Jun 2025 11:07:55 +0900</lastBuildDate>
+<item>
+<title>西日本各地で梅雨明け</title>
+<link>http://www3.nhk.or.jp/news/html/20250627/k10014845851000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250627/k10014845851000.html</guid>
+<pubDate>Fri, 27 Jun 2025 11:07:31 +0900</pubDate>
+<description>西日本ではおおむね高気圧に覆われて晴れ、この先1週間も晴れる日が多い見込みで、気象庁は、27日午前11時「九州南部と北部、四国、中国地方、近畿が梅雨明けしたとみられる」と発表しました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
