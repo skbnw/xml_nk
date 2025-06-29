@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sun, 29 Jun 2025 10:28:39 +0900</lastBuildDate>
+<item>
+<title>【地震速報】鹿児島 悪石島で震度3 津波心配なし（29日10:18）</title>
+<link>http://www3.nhk.or.jp/news/html/20250629/k10014847501000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250629/k10014847501000.html</guid>
+<pubDate>Sun, 29 Jun 2025 10:24:51 +0900</pubDate>
+<description>２９日午前１０時１８分ごろ地震がありました。この地震による津波の心配はありません。震源地は奄美大島北東沖で震源の深さは１０キロ、地震の規模を示すマグニチュードは４．０と推定されます。各市町村の震度は以下のとおりです。▼震度３が、鹿児島県悪石島。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>【地震速報】鹿児島 悪石島で震度4 津波心配なし（29日10:14）</title>
+<link>http://www3.nhk.or.jp/news/html/20250629/k10014847491000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250629/k10014847491000.html</guid>
+<pubDate>Sun, 29 Jun 2025 10:17:27 +0900</pubDate>
+<description>２９日午前１０時１４分ごろ地震がありました。この地震による津波の心配はありません。震源地はトカラ列島近海で震源の深さは２０キロ、地震の規模を示すマグニチュードは４．７と推定されます。各市町村の震度は以下のとおりです。▼震度４が、鹿児島県悪石島。▼震度３が、鹿児島県小宝島</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>【地震速報】鳥取県 島根県で震度3 津波心配なし（29日9:59）</title>
+<link>http://www3.nhk.or.jp/news/html/20250629/k10014847481000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250629/k10014847481000.html</guid>
+<pubDate>Sun, 29 Jun 2025 10:13:18 +0900</pubDate>
+<description>29日午前9時59分ごろ、鳥取県と島根県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
