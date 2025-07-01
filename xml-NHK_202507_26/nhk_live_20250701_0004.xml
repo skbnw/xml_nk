@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Tue, 01 Jul 2025 08:54:50 +0900</lastBuildDate>
+<item>
+<title>日銀短観 大企業製造業の景気判断 +13ポイント 2期ぶりに改善</title>
+<link>http://www3.nhk.or.jp/news/html/20250701/k10014849301000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250701/k10014849301000.html</guid>
+<pubDate>Tue, 01 Jul 2025 08:54:34 +0900</pubDate>
+<description>日銀が1日発表した短観＝企業短期経済観測調査で大企業の製造業の景気判断を示す指数は、プラス13ポイントでした。前回の調査を1ポイント上回り、2期ぶりに改善しました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
