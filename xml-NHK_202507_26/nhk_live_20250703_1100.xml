@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Thu, 03 Jul 2025 19:48:46 +0900</lastBuildDate>
+<item>
+<title>【地震速報】鹿児島 悪石島で震度6弱 村役場“全員無事確認”</title>
+<link>http://www3.nhk.or.jp/news/html/20250703/k10014852951000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250703/k10014852951000.html</guid>
+<pubDate>Thu, 03 Jul 2025 19:48:21 +0900</pubDate>
+<description>先月下旬から地震が相次いでいる鹿児島県十島村で、3日夕方、これまでで最大の震度6弱の揺れを観測する地震がありました。気象庁は、揺れの強かった地域では当面、最大震度6弱程度の揺れを伴う地震に注意するよう呼びかけています。十島村役場によりますと島内にいる全員の無事を確認したということです。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
