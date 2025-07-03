@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Thu, 03 Jul 2025 11:31:34 +0900</lastBuildDate>
+<item>
+<title>バリ島沖で船が沈没 30人以上が行方不明か</title>
+<link>http://www3.nhk.or.jp/news/html/20250703/k10014852491000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250703/k10014852491000.html</guid>
+<pubDate>Thu, 03 Jul 2025 11:31:13 +0900</pubDate>
+<description>インドネシアの救助当局は、バリ島沖で乗客乗員65人を乗せた船が沈没したと3日、発表しました。AP通信などは、30人以上が行方不明になっていると伝えています。インドネシアにある日本大使館は、日本人の乗客がいたかどうかなど情報収集を進めています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
