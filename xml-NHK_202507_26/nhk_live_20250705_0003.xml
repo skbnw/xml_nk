@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sat, 05 Jul 2025 08:59:50 +0900</lastBuildDate>
+<item>
+<title>【地震速報】鹿児島 悪石島で震度5強 十島村“全員 無事確認”</title>
+<link>http://www3.nhk.or.jp/news/html/20250705/k10014854571000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250705/k10014854571000.html</guid>
+<pubDate>Sat, 05 Jul 2025 08:59:29 +0900</pubDate>
+<description>5日午前6時半ごろトカラ列島近海を震源とするマグニチュード5.4の地震があり、鹿児島県十島村で震度5強の揺れを観測しました。この地震による津波はありませんでしたが気象庁は、当面最大震度6弱程度の揺れを伴う地震に注意するよう呼びかけています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
