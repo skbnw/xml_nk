@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sun, 06 Jul 2025 12:59:57 +0900</lastBuildDate>
+<item>
+<title>【地震速報】鹿児島 悪石島で震度４ 津波の心配なし（12:49）</title>
+<link>http://www3.nhk.or.jp/news/html/20250706/k10014855241000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250706/k10014855241000.html</guid>
+<pubDate>Sun, 06 Jul 2025 12:58:21 +0900</pubDate>
+<description>6日午後0時49分ごろ、鹿児島県十島村で震度4の揺れを観測する地震がありました。この地震による津波の心配はありません。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>【地震速報】鹿児島 十島村で震度４ 津波の心配なし（12:42）</title>
+<link>http://www3.nhk.or.jp/news/html/20250706/k10014855231000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250706/k10014855231000.html</guid>
+<pubDate>Sun, 06 Jul 2025 12:59:38 +0900</pubDate>
+<description>6日午後0時42分ごろ、鹿児島県十島村で震度4の揺れを観測する地震がありました。この地震による津波の心配はありません。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>【地震速報】鹿児島 悪石島で震度3 津波の心配なし（12:28）</title>
+<link>http://www3.nhk.or.jp/news/html/20250706/k10014855221000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250706/k10014855221000.html</guid>
+<pubDate>Sun, 06 Jul 2025 12:37:48 +0900</pubDate>
+<description>6日午後0時28分ごろ、鹿児島県十島村の悪石島で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。震源地はトカラ列島近海で、震源の深さは20キロ、地震の規模を示すマグニチュードは3.5と推定されています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
