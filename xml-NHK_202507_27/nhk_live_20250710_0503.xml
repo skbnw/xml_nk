@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Thu, 10 Jul 2025 13:59:22 +0900</lastBuildDate>
+<item>
+<title>東北新幹線 運転見合わせ 東京～仙台 大雨の影響</title>
+<link>http://www3.nhk.or.jp/news/html/20250710/k10014859081000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250710/k10014859081000.html</guid>
+<pubDate>Thu, 10 Jul 2025 13:59:05 +0900</pubDate>
+<description>JR東日本によりますと東北新幹線は、大雨の影響で午後1時35分頃から東京駅と仙台駅の間の上下線で運転を見合わせています。運転再開の見通しはたっていないということです。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>福島 白河市と泉崎村付近で記録的な大雨 災害の危険迫る</title>
+<link>http://www3.nhk.or.jp/news/html/20250710/k10014859031000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250710/k10014859031000.html</guid>
+<pubDate>Thu, 10 Jul 2025 13:35:35 +0900</pubDate>
+<description>気象庁によりますと、福島県の白河市付近と泉崎村付近では、レーダーによる解析で午後1時20分までの1時間に、それぞれおよそ110ミリの猛烈な雨が降ったとみられます。災害が発生する危険が迫っていることから、気象庁は「記録的短時間大雨情報」を発表して安全を確保するよう、呼びかけています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
