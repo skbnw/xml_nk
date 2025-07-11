@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Fri, 11 Jul 2025 10:20:49 +0900</lastBuildDate>
+<item>
+<title>【地震速報】鹿児島 悪石島で震度3 津波の心配なし（10:16）</title>
+<link>http://www3.nhk.or.jp/news/html/20250711/k10014860251000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250711/k10014860251000.html</guid>
+<pubDate>Fri, 11 Jul 2025 10:20:30 +0900</pubDate>
+<description>１１日午前１０時１６分ごろ地震がありました。この地震による津波の心配はありません。震源地はトカラ列島近海で震源の深さは２０キロ、地震の規模を示すマグニチュードは３．６と推定されます。各市町村の震度は以下のとおりです。▼震度３が、鹿児島県悪石島。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>【地震速報】鹿児島 悪石島で震度3 津波の心配なし（10:06）</title>
+<link>http://www3.nhk.or.jp/news/html/20250711/k10014860231000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250711/k10014860231000.html</guid>
+<pubDate>Fri, 11 Jul 2025 10:12:16 +0900</pubDate>
+<description>１１日午前１０時６分ごろ地震がありました。この地震による津波の心配はありません。震源地はトカラ列島近海で震源の深さは２０キロ、地震の規模を示すマグニチュードは４．２と推定されます。各市町村の震度は以下のとおりです。▼震度３が、鹿児島県悪石島。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
