@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Tue, 15 Jul 2025 21:55:44 +0900</lastBuildDate>
+<item>
+<title>米 6月消費者物価指数 前年同月比2.7％上昇 市場予想も上回る</title>
+<link>http://www3.nhk.or.jp/news/html/20250715/k10014864381000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250715/k10014864381000.html</guid>
+<pubDate>Tue, 15 Jul 2025 21:55:21 +0900</pubDate>
+<description>アメリカの6月の消費者物価指数が発表され、前の年の同じ月と比べて2.7％の上昇となりました。上昇率は前の月を0.3ポイント上回りました。アメリカではこのところインフレが落ち着いている状況が続いていましたが、上昇率は2か月連続で前の月を上回りました。市場予想もわずかに上回り、トランプ政権の関税措置による影響がじわじわと広がっているとの見方も出ています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
