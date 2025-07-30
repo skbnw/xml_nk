@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Wed, 30 Jul 2025 11:37:02 +0900</lastBuildDate>
+<item>
+<title>【津波観測】北海道 十勝港で40cm 青森 八戸港で40cm観測</title>
+<link>http://www3.nhk.or.jp/news/html/20250730/k10014878981000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250730/k10014878981000.html</guid>
+<pubDate>Wed, 30 Jul 2025 11:36:44 +0900</pubDate>
+<description>津波警報が出ている北海道の広尾町十勝港では午前10時51分に40センチの津波が到達しました。気象庁は、この他の観測所についても潮位に変化がないか観測を続けています。津波警報は、北海道から和歌山県にかけての太平洋沿岸に発表されています。周りの人にも避難を呼びかけながら可能なかぎり高いところへ逃げて下さい。近くに高台がなければ高いビルの上か、海岸から遠く離れたところへ逃げて下さい。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>【津波速報】北海道～和歌山沿岸に津波警報 北海道で津波観測</title>
+<link>http://www3.nhk.or.jp/news/html/20250730/k10014878641000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250730/k10014878641000.html</guid>
+<pubDate>Wed, 30 Jul 2025 11:27:53 +0900</pubDate>
+<description>30日午前、ロシアのカムチャツカ半島付近で起きた巨大地震で、気象庁は北海道から和歌山県にかけての太平洋沿岸に津波警報を発表し、北海道根室市花咲では午前10時半に30センチの津波が到達しました。津波は繰り返し押し寄せることがあり、可能なかぎり高いところや海岸から遠く離れたところへ逃げ避難を続けて下さい。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
