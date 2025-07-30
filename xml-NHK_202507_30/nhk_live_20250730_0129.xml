@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Wed, 30 Jul 2025 10:28:06 +0900</lastBuildDate>
+<item>
+<title>【津波情報・放送同時提供中】太平洋側中心に津波警報を発表</title>
+<link>http://www3.nhk.or.jp/news/html/20250730/k10014878641000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250730/k10014878641000.html</guid>
+<pubDate>Wed, 30 Jul 2025 10:27:47 +0900</pubDate>
+<description>きょう午前8時25分にロシアのカムチャツカ半島東方沖で起きたマグニチュード8.7の巨大地震で、気象庁は、太平洋沿岸などに出していた津波注意報を午前9時40分に津波警報に引き上げました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
