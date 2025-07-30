@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Wed, 30 Jul 2025 20:51:25 +0900</lastBuildDate>
+<item>
+<title>北海道～東北 津波警報を注意報に 太平洋沿岸中心に注意報継続</title>
+<link>http://www3.nhk.or.jp/news/html/20250730/k10014878641000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250730/k10014878641000.html</guid>
+<pubDate>Wed, 30 Jul 2025 20:48:46 +0900</pubDate>
+<description>30日午前、ロシアのカムチャツカ半島付近で起きた巨大地震で、気象庁は、北海道と東北の太平洋側に出していた津波警報を、先ほど津波注意報に切り替えました。また、岡山県の津波注意報を解除しました。北海道から沖縄県にかけての太平洋側などではしばらく津波注意報が継続する見込みで、引き続き海岸や川の河口付近には近づかないようにしてください。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
