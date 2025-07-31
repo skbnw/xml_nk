@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Thu, 31 Jul 2025 16:44:28 +0900</lastBuildDate>
+<item>
+<title>津波注意報をすべて解除 気象庁</title>
+<link>http://www3.nhk.or.jp/news/html/20250731/k10014880101000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250731/k10014880101000.html</guid>
+<pubDate>Thu, 31 Jul 2025 16:40:35 +0900</pubDate>
+<description>30日にロシアのカムチャツカ半島付近で起きた巨大地震で、気象庁は、津波注意報を北海道太平洋沿岸東部から千葉県九十九里・外房にかけてと、伊豆諸島、それに鹿児島県の種子島・屋久島地方に出していましたが、午後4時半に解除しました。これで今回の地震に伴う津波警報や津波注意報は、地震から1日余りたって、すべて解除されました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
