@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Wed, 06 Aug 2025 12:18:46 +0900</lastBuildDate>
+<item>
+<title>静岡市で40.5度を観測 40度以上観測するのはことし7日目</title>
+<link>http://www3.nhk.or.jp/news/html/20250806/k10014886161000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250806/k10014886161000.html</guid>
+<pubDate>Wed, 06 Aug 2025 12:18:25 +0900</pubDate>
+<description>気象庁によりますと、6日も各地で気温が上がり、静岡市では午前11時58分に40.5度を観測しました。国内で40度以上を観測するのはことし7日目で、これは、2018年の記録に並び、最も多くなっています。命に関わる危険な暑さになっていて、熱中症に厳重に警戒してください。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
