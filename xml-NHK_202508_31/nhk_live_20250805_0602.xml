@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Tue, 05 Aug 2025 14:40:48 +0900</lastBuildDate>
+<item>
+<title>群馬 伊勢崎で41.8度 国内観測史上最高を更新</title>
+<link>http://www3.nhk.or.jp/news/html/20250805/k10014885101000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250805/k10014885101000.html</guid>
+<pubDate>Tue, 05 Aug 2025 14:40:28 +0900</pubDate>
+<description>気象庁によりますと、群馬県伊勢崎市では5日午後2時26分に気温が41.8度を観測し、過去最高を更新しました。命に関わる危険な暑さになっています。熱中症に厳重に警戒してください。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
