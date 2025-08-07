@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Fri, 08 Aug 2025 03:47:26 +0900</lastBuildDate>
+<item>
+<title>宮崎 大淀川上流部に氾濫危険情報</title>
+<link>http://www3.nhk.or.jp/news/html/20250808/k10014888341000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250808/k10014888341000.html</guid>
+<pubDate>Fri, 08 Aug 2025 03:45:05 +0900</pubDate>
+<description>国土交通省と宮崎地方気象台によりますと、宮崎県の大淀川の上流部にある都城市の岳下観測所では、水位が急激に上昇し、今後、自治体が避難指示を出す目安とされる「氾濫危険水位」を超える見込みです。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>鹿児島県で線状降水帯発生「顕著な大雨に関する情報」発表</title>
+<link>http://www3.nhk.or.jp/news/html/20250807/k10014888161000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250807/k10014888161000.html</guid>
+<pubDate>Fri, 08 Aug 2025 03:47:08 +0900</pubDate>
+<description>前線に向かって暖かく湿った空気が流れ込み、西日本から北日本の広い範囲で大気の状態が非常に不安定になっていて、気象庁は午前1時すぎ、鹿児島県薩摩地方に線状降水帯が発生し、非常に激しい雨が同じ場所に降り続いているとして「顕著な大雨に関する情報」を発表しました。鹿児島県では1時間に100ミリを超える猛烈な雨が降っているところもあり、命に危険が及ぶ土砂災害や洪水が発生する危険性が急激に高まっています。このほか、命に危険が及ぶ土砂災害や洪水が発生する危険性が急激に高まっているほか、宮崎県や北陸、東北などでも雨が強まっていて、厳重な警戒が必要です。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
