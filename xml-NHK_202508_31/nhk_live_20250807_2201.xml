@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Fri, 08 Aug 2025 06:45:56 +0900</lastBuildDate>
+<item>
+<title>鹿児島市内一部や霧島市全域に緊急安全確保 命助かる行動を</title>
+<link>http://www3.nhk.or.jp/news/html/20250808/k10014888381000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250808/k10014888381000.html</guid>
+<pubDate>Fri, 08 Aug 2025 06:36:31 +0900</pubDate>
+<description>鹿児島県霧島市は大雨特別警報が発表されたため、8日午前5時、市内全域の6万3139世帯12万2485人に「緊急安全確保」を出しました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>気象庁と国土交通省が会見「直ちに身の安全確保を」</title>
+<link>http://www3.nhk.or.jp/news/html/20250808/k10014888371000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250808/k10014888371000.html</guid>
+<pubDate>Fri, 08 Aug 2025 06:29:14 +0900</pubDate>
+<description>鹿児島県霧島市に大雨の特別警報が発表されたことを受けて、気象庁と国土交通省は8日午前6時から会見を開きました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
