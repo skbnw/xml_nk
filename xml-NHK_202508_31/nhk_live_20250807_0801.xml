@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Thu, 07 Aug 2025 16:58:55 +0900</lastBuildDate>
+<item>
+<title>【地震速報】沖縄 与那国島で震度3 津波の心配なし</title>
+<link>http://www3.nhk.or.jp/news/html/20250807/k10014887661000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250807/k10014887661000.html</guid>
+<pubDate>Thu, 07 Aug 2025 16:49:26 +0900</pubDate>
+<description>７日午後４時４５分ごろ地震がありました。現在、震度３以上が観測されている地域は以下のとおりです。▼震度３が、与那国島。今後の情報に注意してください。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
