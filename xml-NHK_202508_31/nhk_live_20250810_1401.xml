@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sun, 10 Aug 2025 22:50:19 +0900</lastBuildDate>
+<item>
+<title>熊本 菊池市 長洲町 和水町 大津町付近に記録的な大雨</title>
+<link>http://www3.nhk.or.jp/news/html/20250810/k10014891031000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250810/k10014891031000.html</guid>
+<pubDate>Sun, 10 Aug 2025 22:50:00 +0900</pubDate>
+<description>気象庁によりますと、いずれもレーダーによる解析で熊本県の▽菊池市付近では、午後10時までの1時間に120ミリ以上の猛烈な雨が降ったとみられます。また、午後10時までの1時間には▽長洲町付近と▽和水町付近ではおよそ110ミリ、午後10時10分までの1時間に▽大津町付近でおよそ110ミリの猛烈な雨が降ったとみられます。災害が発生する危険が迫っていることから、気象庁は「記録的短時間大雨情報」を発表して安全を確保するよう、呼びかけています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>熊本 熊本市北区 山鹿市 合志市 玉東町 付近に記録的な大雨</title>
+<link>http://www3.nhk.or.jp/news/html/20250810/k10014891011000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250810/k10014891011000.html</guid>
+<pubDate>Sun, 10 Aug 2025 22:29:44 +0900</pubDate>
+<description>気象庁によりますと、午後10時までの1時間に熊本県の▽熊本市北区付近と▽山鹿市付近、▽合志市付近、それに▽玉東町付近では、レーダーによる解析でおよそ110ミリの猛烈な雨が降ったとみられます。災害が発生する危険が迫っていることから、気象庁は「記録的短時間大雨情報」を発表して安全を確保するよう、呼びかけています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
