@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Thu, 14 Aug 2025 04:48:16 +0900</lastBuildDate>
+<item>
+<title>【地震情報】茨城 笠間市で震度4 津波の心配なし</title>
+<link>http://www3.nhk.or.jp/news/html/20250814/k10014893831000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250814/k10014893831000.html</guid>
+<pubDate>Thu, 14 Aug 2025 04:47:58 +0900</pubDate>
+<description>14日午前4時13分ごろ、茨城県で震度4の揺れを観測する地震がありました。この地震による津波の心配はありません。この地震で、茨城県笠間市で震度4の揺れを観測しました。また、福島県、茨城県、栃木県、群馬県、千葉県の各地で震度3の揺れを観測しています。震源地は茨城県沖で、震源の深さは50キロ、地震の規模を示すマグニチュードは5.1と推定されています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
