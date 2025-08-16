@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sun, 17 Aug 2025 06:53:03 +0900</lastBuildDate>
+<item>
+<title>【地震情報】宮崎県で震度4 津波の被害の心配なし</title>
+<link>http://www3.nhk.or.jp/news/html/20250817/k10014896091000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250817/k10014896091000.html</guid>
+<pubDate>Sun, 17 Aug 2025 06:44:16 +0900</pubDate>
+<description>17日午前6時13分ごろ、宮崎県で震度4の揺れを観測する地震がありました。この地震により、多少の潮位の変化の可能性はありますが津波の被害の心配はありません。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
