@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sat, 16 Aug 2025 14:36:15 +0900</lastBuildDate>
+<item>
+<title>埼玉 川口市付近 記録的な大雨 災害の危険迫る</title>
+<link>http://www3.nhk.or.jp/news/html/20250816/k10014895651000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250816/k10014895651000.html</guid>
+<pubDate>Sat, 16 Aug 2025 14:35:55 +0900</pubDate>
+<description>気象庁によりますと、埼玉県川口市付近では、レーダーによる解析で午後2時10分までの1時間におよそ110ミリの猛烈な雨が降ったとみられます。災害が発生する危険が迫っていることから、気象庁は「記録的短時間大雨情報」を発表して安全を確保するよう、呼びかけています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>静岡 浜松市北部平野部付近に記録的な大雨 災害の危険迫る</title>
+<link>http://www3.nhk.or.jp/news/html/20250816/k10014895641000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250816/k10014895641000.html</guid>
+<pubDate>Sat, 16 Aug 2025 14:34:15 +0900</pubDate>
+<description>気象庁によりますと、静岡県の浜松市北部平野部付近では、レーダーによる解析で午後2時20分までの1時間におよそ120ミリの猛烈な雨が降ったとみられます。災害が発生する危険が迫っていることから、気象庁は「記録的短時間大雨情報」を発表して安全を確保するよう、呼びかけています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
