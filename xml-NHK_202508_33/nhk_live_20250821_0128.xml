@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Thu, 21 Aug 2025 10:27:06 +0900</lastBuildDate>
+<item>
+<title>【台風情報】台風12号 あすにかけ九州上陸のおそれ 大雨対策を</title>
+<link>http://www3.nhk.or.jp/news/html/20250821/k10014899221000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250821/k10014899221000.html</guid>
+<pubDate>Thu, 21 Aug 2025 10:26:48 +0900</pubDate>
+<description>21日午前、九州の西の海上の熱帯低気圧が台風12号に変わりました。22日にかけて九州に上陸するおそれがあります。九州では22日にかけて局地的に非常に激しい雨が降るおそれがあり、特に奄美地方を除く鹿児島県では21日夕方から22日の夕方にかけて線状降水帯が発生し、災害の危険度が急激に高まる可能性があり、大雨への対策を進めて下さい。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
