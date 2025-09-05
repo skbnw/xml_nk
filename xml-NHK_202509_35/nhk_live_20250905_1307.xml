@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Fri, 05 Sep 2025 21:55:53 +0900</lastBuildDate>
+<item>
+<title>アメリカ8月雇用統計 就業者2万2000人増 市場予想大きく下回る</title>
+<link>http://www3.nhk.or.jp/news/html/20250905/k10014914891000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250905/k10014914891000.html</guid>
+<pubDate>Fri, 05 Sep 2025 21:49:55 +0900</pubDate>
+<description>円相場や株価に影響を及ぼすアメリカの8月の雇用統計が発表され、農業分野以外の就業者は7月から2万2000人増加しました。ただ、7万5000人程度の増加を見込んでいた市場予想を大きく下回りました。また、失業率は前の月から0.1ポイント上昇し、4.3％でした。トランプ政権の関税措置によって雇用市場が減速していることが鮮明になりました。金融市場ではFRB＝連邦準備制度理事会が今月16日から開く金融政策を決める会合で6会合ぶりとなる利下げを決めるとの見方が強まっています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
