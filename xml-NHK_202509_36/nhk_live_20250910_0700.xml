@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Wed, 10 Sep 2025 15:43:04 +0900</lastBuildDate>
+<item>
+<title>株価 終値で最高値更新 半導体関連の銘柄中心に買い注文</title>
+<link>http://www3.nhk.or.jp/news/html/20250910/k10014918661000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250910/k10014918661000.html</guid>
+<pubDate>Wed, 10 Sep 2025 15:42:44 +0900</pubDate>
+<description>10日の東京株式市場、アメリカの利下げへの期待感が続き、9日のニューヨーク株式市場で主要な株価指数が最高値を更新したことなどから半導体関連の銘柄を中心に買い注文が出て、日経平均株価のきょうの終値はきのうと比べて378円38銭高い4万3837円67銭、東証株価指数、トピックスは18.85上がって3140.97で、ともに終値としての史上最高値を更新しました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
