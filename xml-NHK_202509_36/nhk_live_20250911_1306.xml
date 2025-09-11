@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Thu, 11 Sep 2025 22:05:41 +0900</lastBuildDate>
+<item>
+<title>山口 宇部市 993世帯2136人に避難指示</title>
+<link>http://www3.nhk.or.jp/news/html/20250911/k10014920511000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250911/k10014920511000.html</guid>
+<pubDate>Thu, 11 Sep 2025 22:05:21 +0900</pubDate>
+<description>山口県宇部市は土砂災害のおそれが高まったとして、午後9時30分に市内の一部地域のあわせて993世帯、2136人を対象に避難指示を出しました。5段階の警戒レベルのうちレベル4にあたる情報で、危険な場所から全員避難するよう呼びかけています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+<item>
+<title>米 8月の消費者物価指数 2.9％上昇 上昇率前月上回る</title>
+<link>http://www3.nhk.or.jp/news/html/20250911/k10014920481000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250911/k10014920481000.html</guid>
+<pubDate>Thu, 11 Sep 2025 21:44:59 +0900</pubDate>
+<description>トランプ政権の関税措置が輸入品の物価を押し上げると指摘される中、アメリカの8月の消費者物価指数が発表され、前の年の同じ月と比べて2.9％の上昇となりました。上昇率は前の月を0.2ポイント上回りました。アメリカのインフレ率はピーク時と比べると落ち着いていますが、関税措置の影響がじわじわと広がっているという見方も出ています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
