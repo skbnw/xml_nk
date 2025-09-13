@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Sat, 13 Sep 2025 12:00:49 +0900</lastBuildDate>
+<item>
+<title>カムチャツカ半島沖合で地震 マグニチュード7.5と推定</title>
+<link>http://www3.nhk.or.jp/news/html/20250913/k10014921921000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250913/k10014921921000.html</guid>
+<pubDate>Sat, 13 Sep 2025 12:00:31 +0900</pubDate>
+<description>USGS＝アメリカの地質調査所によりますと、日本時間の13日午前11時37分ごろ、ロシア極東のカムチャツカ半島の沖合を震源とする地震がありました。震源の深さは10キロ、地震の規模を示すマグニチュードは7.5と推定されています。NOAA＝アメリカ海洋大気局は、この地震による津波のおそれがあるとしています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
