@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Mon, 15 Sep 2025 11:49:53 +0900</lastBuildDate>
+<item>
+<title>【地震速報】鹿児島 悪石島で震度3 津波の心配なし</title>
+<link>http://www3.nhk.or.jp/news/html/20250915/k10014923071000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250915/k10014923071000.html</guid>
+<pubDate>Mon, 15 Sep 2025 11:49:37 +0900</pubDate>
+<description>15日午前11時32分ごろ、鹿児島県十島村の悪石島で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。気象庁の観測によりますと、震源地はトカラ列島近海で、震源の深さは10キロ、地震の規模を示すマグニチュードは3.0と推定されています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
