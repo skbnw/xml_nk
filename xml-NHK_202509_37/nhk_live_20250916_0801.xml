@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Tue, 16 Sep 2025 16:53:55 +0900</lastBuildDate>
+<item>
+<title>大阪府と京都府の全域で通信障害 固定電話 利用しづらい状況に</title>
+<link>http://www3.nhk.or.jp/news/html/20250916/k10014924001000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250916/k10014924001000.html</guid>
+<pubDate>Tue, 16 Sep 2025 16:53:36 +0900</pubDate>
+<description>NTT西日本によりますと、大阪府と京都府の全域で16日午後3時45分ごろから通信設備の故障によって通信障害が発生し、固定電話などが利用できない、または利用しづらい状況になっているということです。NTTが詳細を調べています。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
