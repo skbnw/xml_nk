@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://www.nhk.or.jp/rss/rss2.0/modules/nhknews/" version="2.0">
+<channel>
+<title>NHKニュース|JUST IN</title>
+<description>日本放送協会 NHKニュース</description>
+<link>http://www3.nhk.or.jp/news/</link>
+<lastBuildDate>Mon, 22 Sep 2025 15:56:40 +0900</lastBuildDate>
+<item>
+<title>日経平均株価 終値としての最高値を更新</title>
+<link>http://www3.nhk.or.jp/news/html/20250922/k10014929331000.html</link>
+<guid isPermaLink="true">http://www3.nhk.or.jp/news/html/20250922/k10014929331000.html</guid>
+<pubDate>Mon, 22 Sep 2025 15:56:23 +0900</pubDate>
+<description>週明けの22日の東京株式市場、アメリカ経済は利下げによって底堅く推移し、日本経済にもプラスになるという見方から買い注文が増え、日経平均株価は終値としての最高値を更新しました。</description>
+<nhknews:new>false</nhknews:new>
+</item>
+</channel>
+</rss>
