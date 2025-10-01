@@ -55,6 +55,9 @@ jobs:
       - name: Commit and push XML files
         run: |
           git add .
-          git commit -m "Update - $(date +'%Y-%m-%d')"
+          git commit -m "Update - $(date +'%Y-%m-%d')" || echo "No changes to commit"
+          # リモートの変更を取り込むためにgit pullを追加
+          git pull --rebase origin main
           git push
+
         working-directory: ${{ github.workspace }}
