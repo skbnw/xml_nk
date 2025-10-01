@@ -13,32 +13,38 @@ jobs:
 
       - name: Fetch NHK RSS feeds
         run: |
-          current_month=$(date +'%Y%m')
           current_week=$(date +'%Y%m_%W') # 1-51
-          current_day_of_week=$(date +'%w')
-          day_offset=$(( 7 - current_day_of_week ))
           current_time=$(date +'%Y%m%d_%H%M')
           folder_name="xml-NHK_${current_week}"
           mkdir -p $folder_name
+          
+          # 取得先のURLを新しい設定に更新
+          # 主要ニュース
+          curl -o "${folder_name}/nhk_main_${current_time}.xml" https://news.web.nhk/n-data/conf/na/rss/cat0.xml
           sleep 3
-          curl -o "${folder_name}/nhk_main_${current_time}.xml" https://www.nhk.or.jp/rss/news/cat0.xml
+          # 社会
+          curl -o "${folder_name}/nhk_domestic_${current_time}.xml" https://news.web.nhk/n-data/conf/na/rss/cat1.xml
           sleep 3
-          curl -o "${folder_name}/nhk_domestic_${current_time}.xml" https://www.nhk.or.jp/rss/news/cat1.xml
+          # 文化・エンタメ
+          curl -o "${folder_name}/nhk_bunka_${current_time}.xml" https://news.web.nhk/n-data/conf/na/rss/cat2.xml
           sleep 3
-          curl -o "${folder_name}/nhk_science_${current_time}.xml" https://www.nhk.or.jp/rss/news/cat3.xml
+          # 科学・医療
+          curl -o "${folder_name}/nhk_science_${current_time}.xml" https://news.web.nhk/n-data/conf/na/rss/cat3.xml
           sleep 3
-          curl -o "${folder_name}/nhk_politics_${current_time}.xml" https://www.nhk.or.jp/rss/news/cat4.xml
+          # 政治
+          curl -o "${folder_name}/nhk_politics_${current_time}.xml" https://news.web.nhk/n-data/conf/na/rss/cat4.xml
           sleep 3
-          curl -o "${folder_name}/nhk_economics_${current_time}.xml" https://www.nhk.or.jp/rss/news/cat5.xml
+          # 経済
+          curl -o "${folder_name}/nhk_economics_${current_time}.xml" https://news.web.nhk/n-data/conf/na/rss/cat5.xml
           sleep 3
-          curl -o "${folder_name}/nhk_world_${current_time}.xml" https://www.nhk.or.jp/rss/news/cat6.xml
+          # 国際
+          curl -o "${folder_name}/nhk_world_${current_time}.xml" https://news.web.nhk/n-data/conf/na/rss/cat6.xml
           sleep 3
-          curl -o "${folder_name}/nhk_sports_${current_time}.xml" https://www.nhk.or.jp/rss/news/cat7.xml
-          sleep 3
-          curl -o "${folder_name}/nhk_bunka_${current_time}.xml" https://www.nhk.or.jp/rss/news/cat2.xml
-          sleep 3
-          curl -o "${folder_name}/nhk_live_${current_time}.xml" https://www.nhk.or.jp/rss/news/cat-live.xml
-
+          # スポーツ
+          curl -o "${folder_name}/nhk_sports_${current_time}.xml" https://news.web.nhk/n-data/conf/na/rss/cat7.xml
+          
+          # 注: cat-live.xmlに対応する新しいURLが提示されていないため、これは削除
+          # 元コードで定義されていたが使われていない変数を削除: current_month, current_day_of_week, day_offset
 
       - name: Set Git Config
         run: |
