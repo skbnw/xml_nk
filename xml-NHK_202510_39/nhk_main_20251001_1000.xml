@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>北海道や東北で大雨 住宅が浸水被害 土砂災害などに警戒</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014937131000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014937131000</guid>
+      <description>上空の寒気などの影響で大気の状態が非常に不安定になり、北海道や東北では大雨になって住宅が浸水するなどの被害が出ています。…</description>
+      <pubDate>Wed, 01 Oct 2025 18:47:12 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>東京 町田 マンションで女性死亡 10か所以上の刺し傷や切り傷</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014938231000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014938231000</guid>
+      <description>9月30日夜、東京 町田市のマンションで70代の女性が刃物で刺されて死亡し、40歳の容疑者が逮捕された事件で、女性の体に…</description>
+      <pubDate>Wed, 01 Oct 2025 18:43:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>アサヒGHD システム障害 復旧めど立たず 一部出荷手作業で対応</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014938171000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014938171000</guid>
+      <description>サイバー攻撃によるシステム障害が続く「アサヒグループホールディングス」は、依然として復旧のめどが立たないことから、一部の…</description>
+      <pubDate>Wed, 01 Oct 2025 18:08:37 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>岐阜 各務原 JR高山本線 特急「ひだ」と車が衝突 乗客にけが</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014938251000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014938251000</guid>
+      <description>警察によりますと、1日午後4時40分ごろ、岐阜県各務原市のJR高山本線の踏切で、特急「ひだ」と車を運搬するキャリアカーが…</description>
+      <pubDate>Wed, 01 Oct 2025 18:25:24 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>「JPドラゴン」特殊詐欺事件 約20万人分の個人情報リスト押収</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014938071000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014938071000</guid>
+      <description>フィリピンを拠点とする犯罪グループ「JPドラゴン」のメンバーとみられる日本人6人が逮捕された事件で、およそ20万人分の個…</description>
+      <pubDate>Wed, 01 Oct 2025 18:19:40 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>NHK ONE 一部のメールに認証コードが届かない不具合</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014937951000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014937951000</guid>
+      <description>10月1日から始まったNHKの新しいインターネットサービス「NHK ONE」で、現在、アカウントの新規登録や移行の手続き…</description>
+      <pubDate>Wed, 01 Oct 2025 14:59:07 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>都内の路線バス 約400便減便 “運転手不足” 東京でも深刻化</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014937691000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014937691000</guid>
+      <description>東京都内に乗り入れる路線バスは、この秋のダイヤ改正で、少なくとも6つの事業者が運転手不足を理由のひとつとして減便すること…</description>
+      <pubDate>Wed, 01 Oct 2025 18:38:12 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
