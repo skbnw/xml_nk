@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>宮城 長野でクマ被害相次ぐ 登山客は</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014940441000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014940441000</guid>
+      <description>クマに襲われたとみられる被害が相次いでいます。3日、宮城県栗原市の山で、きのこ狩りに入った女性が心肺停止の状態で見つかり…</description>
+      <pubDate>Fri, 03 Oct 2025 19:57:30 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>インフルエンザ “全国的な流行期に”厚生労働省 感染対策を</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014939841000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014939841000</guid>
+      <description>厚生労働省は3日、インフルエンザが全国的な流行期に入ったと発表しました。流行期入りの発表は去年に比べて1か月余り早く、厚…</description>
+      <pubDate>Fri, 03 Oct 2025 20:33:02 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>自民党総裁選 あす投開票へ 決選投票を見据えた動きが激化</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014939921000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014939921000</guid>
+      <description>自民党総裁選挙は4日、投開票が行われます。5人の候補者は議員票の上積みに向けて最後の追い込みを図りました。決選投票を見据…</description>
+      <pubDate>Fri, 03 Oct 2025 19:23:31 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>アサヒグループHDシステム障害“ランサムウエアの攻撃受けた”</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014940221000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014940221000</guid>
+      <description>サイバー攻撃によるシステム障害が起きている「アサヒグループホールディングス」は、身代金要求型のコンピューターウイルス＝ラ…</description>
+      <pubDate>Fri, 03 Oct 2025 19:57:04 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>長崎県 あす朝にかけて線状降水帯発生おそれ 土砂災害など警戒</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014939831000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014939831000</guid>
+      <description>低気圧や前線の影響で西日本を中心に大気の状態が非常に不安定になり、長崎県では局地的に非常に激しい雨が降っています。4日朝…</description>
+      <pubDate>Fri, 03 Oct 2025 20:36:17 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>三重 名張 6人乗った軽乗用車が横転 16歳～23歳の男女5人死亡</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014939711000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014939711000</guid>
+      <description>3日未明、三重県名張市の国道で軽乗用車が横転し、乗っていた高校生2人を含む16歳から23歳の男女5人が死亡し、高校生1人…</description>
+      <pubDate>Fri, 03 Oct 2025 18:11:26 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>台湾の電子部品メーカー「YAGEO」が「芝浦電子」買収の見通し</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014940431000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014940431000</guid>
+      <description>温度センサーを手がける「芝浦電子」の買収を提案していた、台湾の電子部品メーカー「YAGEO」は、これまで実施していたTO…</description>
+      <pubDate>Fri, 03 Oct 2025 20:09:20 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
