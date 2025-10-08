@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>東京 八丈町 町内全域に避難指示</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014944911000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014944911000</guid>
+      <description>特別警報が出されたことを受けて八丈町は町内全域に避難指示を出しました。また、避難所を三根公民館、八丈町多目的ホールおじゃ…</description>
+      <pubDate>Wed, 08 Oct 2025 17:48:11 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>【ライブ予定】台風22号 特別警報発表で気象庁会見へ</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014944781000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014944781000</guid>
+      <description>暴風と波浪の特別警報を発表したことについて気象庁は午後6時から会見を開き、台風22号の見通しや警戒点について説明すること…</description>
+      <pubDate>Wed, 08 Oct 2025 17:09:39 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>東京 八丈町と青ヶ島村に暴風 波浪の特別警報 最大級の警戒を</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014944651000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014944651000</guid>
+      <description>気象庁は午後4時50分、東京 伊豆諸島の八丈町と青ヶ島村に暴風と波浪の特別警報を発表しました。非常に強い台風22号は9日…</description>
+      <pubDate>Wed, 08 Oct 2025 16:52:29 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>「新幹線の速さに相当する風 対策を」台風22号で専門家が警鐘</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014944621000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014944621000</guid>
+      <description>台風22号について気象庁は、伊豆諸島では経験したことのないような暴風や高波のおそれがあるとして最大級の警戒を呼びかけてい…</description>
+      <pubDate>Wed, 08 Oct 2025 17:14:12 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>【ライブ予定】ことしのノーベル化学賞は?</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014943841000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014943841000</guid>
+      <description>8日はノーベル化学賞の発表日です。スウェーデンのストックホルムにあるノーベル賞の選考委員会が、日本時間の午後6時45分以…</description>
+      <pubDate>Wed, 08 Oct 2025 11:43:46 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>公明 斉藤代表“自民と連立しなければ 高市早苗とは書かない”</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014944661000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014944661000</guid>
+      <description>公明党の斉藤代表は、政治とカネの問題をめぐる懸念が解消されなければ自民党との連立政権は継続できないという認識を重ねて示し…</description>
+      <pubDate>Wed, 08 Oct 2025 15:19:54 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>トヨタ 住友金属鉱山と共同開発契約 「全固体電池」部材量産へ</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014944771000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014944771000</guid>
+      <description>トヨタ自動車はEV＝電気自動車向けの次世代の電池「全固体電池」の部材を量産するため、非鉄金属大手の「住友金属鉱山」と共同…</description>
+      <pubDate>Wed, 08 Oct 2025 17:29:21 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
