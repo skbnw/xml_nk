@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>東京 伊豆諸島 暴風・波浪の特別警報の範囲拡大</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014945031000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014945031000</guid>
+      <description>気象庁は先ほど午後9時10分、東京・伊豆諸島の利島村、新島村、神津島村、三宅村、それに御蔵島村に暴風と波浪の特別警報を発…</description>
+      <pubDate>Wed, 08 Oct 2025 21:13:16 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>【特別警報】伊豆諸島 八丈町 青ヶ島村 最大級の警戒 台風22号</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014944061000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014944061000</guid>
+      <description>非常に強い台風22号は9日明け方から朝にかけて伊豆諸島に最も接近する見込みで気象庁は、猛烈な風や高波によって数十年に一度…</description>
+      <pubDate>Wed, 08 Oct 2025 20:57:29 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>東京 三宅村 村内全域に避難指示</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014945051000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014945051000</guid>
+      <description>東京・三宅村は8日午後9時10分に気象庁から暴風と波浪の特別警報が発表されたことを受け、村内全域の1427世帯の2142…</description>
+      <pubDate>Wed, 08 Oct 2025 21:59:34 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>ことしのノーベル化学賞に北川進さん 京都大学理事</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014943841000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014943841000</guid>
+      <description>ことしのノーベル化学賞の受賞者に「多孔性金属錯体」と呼ばれる極めて小さい穴を多く持った材料を開発し、材料科学に新たな分野…</description>
+      <pubDate>Wed, 08 Oct 2025 22:20:52 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>「新幹線の速さに相当する風 対策を」台風22号で専門家が警鐘</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014944621000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014944621000</guid>
+      <description>台風22号について気象庁は、伊豆諸島では経験したことのないような暴風や高波のおそれがあるとして最大級の警戒を呼びかけてい…</description>
+      <pubDate>Wed, 08 Oct 2025 17:14:12 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>台風22号 伊豆諸島南部に特別警報発表で気象庁会見</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014944781000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014944781000</guid>
+      <description>伊豆諸島南部に暴風と波浪の特別警報を発表したことについて、気象庁は午後6時から記者会見を開きました。</description>
+      <pubDate>Wed, 08 Oct 2025 18:46:26 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>全国各地の漁場 魚の種類や漁獲量に変化</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014944551000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014944551000</guid>
+      <description>四国や本州南部の太平洋沖で7年あまり続いた「黒潮大蛇行」の終息や、房総半島から東北沿岸での黒潮の「北偏」の解消など、こと…</description>
+      <pubDate>Wed, 08 Oct 2025 19:55:21 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
