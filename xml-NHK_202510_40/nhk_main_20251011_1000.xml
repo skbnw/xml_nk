@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>【台風23号】あさって伊豆諸島に接近おそれ 土砂災害など警戒</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014947141000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014947141000</guid>
+      <description>台風23号は鹿児島県の奄美地方に接近していて、13日には、台風22号で大きな被害が出た伊豆諸島にかなり近づくと予想されて…</description>
+      <pubDate>Sat, 11 Oct 2025 18:39:40 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>【警戒すべきは】伊豆諸島 再びの台風 “早めの避難を”</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014947481000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014947481000</guid>
+      <description>台風22号で大きな被害を受けた八丈島や青ヶ島では復旧が進んでいない状況で再び、台風23号による猛烈な風や大雨の影響を受け…</description>
+      <pubDate>Sat, 11 Oct 2025 18:19:29 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>北朝鮮で軍事パレード 朝鮮労働党創立80年で 「火星20型」公開</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014947221000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014947221000</guid>
+      <description>北朝鮮の国営テレビは、10日夜行われた、朝鮮労働党の創立80年にあわせた軍事パレードの映像を放送しました。パレードにはキ…</description>
+      <pubDate>Sat, 11 Oct 2025 17:50:37 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>トランプ大統領 “ハマスに捕らわれた人質 13日に解放”</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014947351000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014947351000</guid>
+      <description>イスラエルとイスラム組織ハマスが和平計画の第1段階に合意したことを受けて来週、中東を訪問するアメリカのトランプ大統領は、…</description>
+      <pubDate>Sat, 11 Oct 2025 12:03:36 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>トランプ大統領 中国に100％の追加関税表明 米中対立に懸念も</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014947271000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014947271000</guid>
+      <description>アメリカのトランプ大統領は、中国からの輸入品に対して現在の関税に上乗せする形で100％の追加関税を課すと明らかにしました…</description>
+      <pubDate>Sat, 11 Oct 2025 17:34:07 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>CS セ・リーグ第1戦 DeNAが巨人に勝利 ファイナル進出に王手</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014947551000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014947551000</guid>
+      <description>プロ野球は11日からクライマックスシリーズが始まりセ・リーグのファーストステージの第1戦は、DeNAが巨人に6対2で勝ち…</description>
+      <pubDate>Sat, 11 Oct 2025 18:47:53 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>CS パ・リーグ第1戦 日本ハムがオリックスに競り勝ち王手</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014947521000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014947521000</guid>
+      <description>プロ野球は11日からクライマックスシリーズが始まり、パ・リーグのファーストステージ第1戦は、日本ハムがエースの伊藤大海投…</description>
+      <pubDate>Sat, 11 Oct 2025 18:35:13 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
