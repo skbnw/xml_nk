@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>台風23号 あす伊豆諸島接近へ 土砂災害や暴風に厳重警戒</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014947701000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014947701000</guid>
+      <description>台風23号は、四国沖を暴風域を伴いながら東寄りに進んでいて、あす・13日には台風22号で被害が出た伊豆諸島にかなり近づく…</description>
+      <pubDate>Sun, 12 Oct 2025 10:14:22 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>秋田 美郷町 高校敷地内のクマ2頭 夜に逃げるも捕獲できず</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014947411000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014947411000</guid>
+      <description>11日朝、秋田県美郷町の高校のグラウンドに2頭のクマがいるのが見つかり、敷地内の木の上にとどまり続けていましたが、警察に…</description>
+      <pubDate>Sat, 11 Oct 2025 21:56:44 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>ノーベル平和賞 “受賞者の情報 発表前に漏れていたか”</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014947681000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014947681000</guid>
+      <description>ノルウェーの地元メディアはことしのノーベル平和賞の受賞者の情報が発表前に外部に漏れていた疑いがあると報じました。平和賞の…</description>
+      <pubDate>Sun, 12 Oct 2025 06:21:46 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>ウクライナ大統領“ロシアの戦争も終わらせられる”米大統領に</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014947661000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014947661000</guid>
+      <description>ウクライナのゼレンスキー大統領はアメリカのトランプ大統領と電話会談し、イスラエルとイスラム組織ハマスの停戦合意を実現させ…</description>
+      <pubDate>Sun, 12 Oct 2025 07:30:03 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>パレスチナ ガザ地区 停戦2日目 戦闘の被害の大きさ明らかに</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014947651000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014947651000</guid>
+      <description>パレスチナのガザ地区の停戦は11日、2日目に入り、新たな戦闘は伝えられていません。一方、南部の主要な都市圏では85％が破…</description>
+      <pubDate>Sun, 12 Oct 2025 06:11:33 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>気象衛星ひまわり9号の観測に障害 赤外画像など正常表示できず</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014947711000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014947711000</guid>
+      <description>気象衛星「ひまわり9号」の観測に障害が発生し、気象庁のホームページ上で雲の画像が正常に表示できなくなっています。台風23…</description>
+      <pubDate>Sun, 12 Oct 2025 07:33:37 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>レスリング 金城梨紗子“引退決意” 五輪2大会連続で金メダル</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014947691000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014947691000</guid>
+      <description>オリンピックのレスリング女子で2大会連続で金メダルを獲得した金城梨紗子選手、旧姓・川井梨紗子選手が自身のSNSで現役引退…</description>
+      <pubDate>Sun, 12 Oct 2025 07:22:37 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
