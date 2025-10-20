@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>【ライブ】自民・維新 連立政権樹立で正式合意</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014953711000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014953711000</guid>
+      <description>自民党と日本維新の会は党首会談を行い、連立政権を樹立することで正式に合意し、両党首が文書に署名しました。文書には、経済対…</description>
+      <pubDate>Mon, 20 Oct 2025 18:56:03 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>アマゾンのクラウドサービス「AWS」で障害発生</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014954041000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014954041000</guid>
+      <description>アメリカのIT大手、アマゾンが手がけるクラウドサービス「AWS」＝アマゾンウェブサービスは20日、障害が発生していること…</description>
+      <pubDate>Mon, 20 Oct 2025 18:45:49 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>盛岡中心部 クマ目撃相次ぐ 官庁街で2頭歩く姿も 注意呼びかけ</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014953961000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014953961000</guid>
+      <description>盛岡市中心部では、19日夜から20日未明にかけてクマの目撃が相次ぎ、警察が注意を呼びかけています。視聴者からNHKの「ス…</description>
+      <pubDate>Mon, 20 Oct 2025 17:26:18 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>静岡 伊東 田久保市長 失職公算大に “議会の結論尊重したい”</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014953561000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014953561000</guid>
+      <description>伊東市の市議会議員選挙は、学歴詐称を指摘された田久保市長が、不信任の議決を受けて市議会を解散したことに伴い、19日に投票…</description>
+      <pubDate>Mon, 20 Oct 2025 18:30:59 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>アスクルのシステム障害で通販停止 ランサムウエア被害相次ぐ</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014953651000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014953651000</guid>
+      <description>通販大手の「アスクル」で19日からランサムウエアによるシステム障害が続いている影響で「無印良品」を展開する「良品計画」や…</description>
+      <pubDate>Mon, 20 Oct 2025 18:42:27 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>米投資ファンド フジテレビ親会社に不動産事業分離 改めて要求</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014953971000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014953971000</guid>
+      <description>フジテレビの親会社の大株主のアメリカの投資ファンドが20日、会社に書簡を送り、改めてサンケイビルを含む不動産事業の切り離…</description>
+      <pubDate>Mon, 20 Oct 2025 17:33:04 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>中国 GDP伸び率 前の3か月下回り景気の減速傾向鮮明に</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014953741000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014953741000</guid>
+      <description>中国のことし7月から9月までのGDP＝国内総生産の伸び率は、去年の同じ時期と比べてプラス4.8％となりました。長引く不動…</description>
+      <pubDate>Mon, 20 Oct 2025 16:52:52 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
