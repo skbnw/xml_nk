@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>あす米中首脳会談へ 中国外務省が発表</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014962361000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014962361000</guid>
+      <description>中国外務省は、習近平国家主席とアメリカのトランプ大統領の首脳会談が30日行われると発表しました。</description>
+      <pubDate>Wed, 29 Oct 2025 17:40:27 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>クマ被害対策 閣僚会議に格上げ 30日会合へ 官房長官がトップ</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014962391000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014962391000</guid>
+      <description>各地でクマによる深刻な被害が相次いでいることを受けて、政府は関係省庁による被害対策の連絡会議を木原官房長官をトップとする…</description>
+      <pubDate>Wed, 29 Oct 2025 18:13:41 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>アサヒグループHD システム障害1か月 復旧めど立たず 現場は</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014962041000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014962041000</guid>
+      <description>アサヒグループホールディングスでサイバー攻撃によるシステム障害が起きてから29日で1か月です。システム復旧のめどは依然と…</description>
+      <pubDate>Wed, 29 Oct 2025 18:30:38 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>不登校の小中学生35万人超で過去最多 急増の要因は？【Q＆A】</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014962191000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014962191000</guid>
+      <description>昨年度、不登校の小中学生は35万人を超え、12年連続で増加して過去最多となったことが文部科学省の調査でわかりました。特に…</description>
+      <pubDate>Wed, 29 Oct 2025 18:09:57 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>トランプ大統領 朝鮮半島の平和実現に取り組む考え示す</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014962091000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014962091000</guid>
+      <description>韓国を訪れているアメリカのトランプ大統領は、北朝鮮のキム・ジョンウン（金正恩）総書記との会談について、今回の訪問では実現…</description>
+      <pubDate>Wed, 29 Oct 2025 17:25:29 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>AI関連のスタートアップ企業 元社長ら 決算を粉飾した罪で起訴</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014962511000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014962511000</guid>
+      <description>AIを使ったサービスを手がける東京のスタートアップ企業が売り上げを過大に計上して決算を粉飾したとして、東京地検特捜部は会…</description>
+      <pubDate>Wed, 29 Oct 2025 19:04:33 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>高校授業料無償化実施へ 自民・維新・公明が合意文書まとめる</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014962601000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014962601000</guid>
+      <description>高校の授業料無償化をめぐり、自民党、日本維新の会、公明党の3党の実務者は来年4月からの実施に向け、支援金の所得制限を撤廃…</description>
+      <pubDate>Wed, 29 Oct 2025 20:39:02 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
