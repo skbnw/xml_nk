@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>株価 初の5万2000円台 取り引き時間中の最高値を更新</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014964141000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014964141000</guid>
+      <description>きょうの東京株式市場、アメリカのIT企業の好調な業績などを背景に取り引き開始直後から買い注文が増え、日経平均株価は、一時…</description>
+      <pubDate>Fri, 31 Oct 2025 10:28:02 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>小型イカ釣り漁船のスルメイカ漁に停止命令 漁獲枠上限超えで</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014964151000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014964151000</guid>
+      <description>水産庁は全国の漁業者に対し、小型イカ釣り漁船によるスルメイカ漁を11月1日から停止するよう命令を出しました。漁獲枠の上限…</description>
+      <pubDate>Fri, 31 Oct 2025 09:55:16 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>離婚後の「共同親権」導入の改正民法など 来年4月1日施行へ</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014964161000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014964161000</guid>
+      <description>離婚後も父と母双方が子どもの親権を持つ「共同親権」の導入を柱とした改正民法などは、来年4月1日に施行されることになりまし…</description>
+      <pubDate>Fri, 31 Oct 2025 11:08:51 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>東京23区 10月の消費者物価指数 前年同月比2.8％上昇</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014964101000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014964101000</guid>
+      <description>東京23区の10月の消費者物価指数は速報値で、天候による変動が大きい生鮮食品を除いた総合が去年の同じ月より2.8％上昇し…</description>
+      <pubDate>Fri, 31 Oct 2025 11:16:20 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>卵の平均価格 10月としては最高値に</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014964181000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014964181000</guid>
+      <description>卵の卸売価格の目安となる「JA全農たまご」が発表した東京地区の10月の平均価格は、Mサイズ1キロあたり326円と12か月…</description>
+      <pubDate>Fri, 31 Oct 2025 10:30:24 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>高市首相 中国 習主席ときょう初めての日中首脳会談へ</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014963761000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014963761000</guid>
+      <description>韓国を訪れている高市総理大臣は、30日にイ・ジェミョン（李在明）大統領と初めて日韓首脳会談を行い、両国関係を未来志向で安…</description>
+      <pubDate>Fri, 31 Oct 2025 05:00:35 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>低気圧が急速に発達 東・西日本で雨や風が強まる見込み</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014964061000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014964061000</guid>
+      <description>急速に発達する低気圧の影響で東日本や西日本では雨や風が強まる見込みです。北日本では11月1日は大荒れの天気となる見込みで…</description>
+      <pubDate>Fri, 31 Oct 2025 06:26:37 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
