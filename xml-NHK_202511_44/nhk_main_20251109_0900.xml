@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>【速報】岩手県沿岸に津波注意報 大船渡港・宮古港で津波観測</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014971131000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014971131000</guid>
+      <description>9日午後5時すぎ、三陸沖を震源とする地震があり、気象庁は岩手県の沿岸に津波注意報を発表しました。予想される津波の高さは1…</description>
+      <pubDate>Sun, 09 Nov 2025 17:58:48 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>【地震速報】岩手 宮城で震度4 岩手県沿岸に津波注意報</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014971121000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014971121000</guid>
+      <description>9日午後5時3分ごろ、東北地方の三陸沖を震源とする地震があり、岩手県と宮城県の北部で震度4を観測しました。この地震で、盛…</description>
+      <pubDate>Sun, 09 Nov 2025 17:37:30 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>気象庁 19:10から会見へ 三陸沖地震 岩手県に津波注意報で</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014971161000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014971161000</guid>
+      <description>三陸沖で地震が発生し、岩手県に津波注意報が発表されたことについて、気象庁は午後7時10分から会見を開き、今後の注意点など…</description>
+      <pubDate>Sun, 09 Nov 2025 17:29:27 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>東北新幹線 運転再開 電源が復旧したため</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014971171000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014971171000</guid>
+      <description>JR東日本によりますと、東北新幹線は、地震による停電の影響で、仙台駅と新青森駅の間の上下線で一時、運転を見合わせましたが…</description>
+      <pubDate>Sun, 09 Nov 2025 17:48:18 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>女川原発 地震による異常は確認されず 東北電力</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014971201000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014971201000</guid>
+      <description>東北電力によりますと、宮城県石巻市と女川町にある女川原子力発電所ではこれまでのところ、先ほどの地震による異常は確認されて…</description>
+      <pubDate>Sun, 09 Nov 2025 17:55:35 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>秋田県内 クマ被害相次ぐ 美郷町と五城目町で計3人けが【9日】</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014970971000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014970971000</guid>
+      <description>秋田県内で9日午前、クマによる被害が相次ぎ、美郷町と五城目町であわせて3人がけがをしました。秋田県内ではクマによる人身被…</description>
+      <pubDate>Sun, 09 Nov 2025 16:22:01 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>政治団体 NHK党の立花党首逮捕 自殺の元県議への名誉毀損容疑</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014970921000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014970921000</guid>
+      <description>政治団体・NHKから国民を守る党の立花孝志党首が街頭演説やSNSの投稿で、自殺した元兵庫県議会議員の名誉を毀損した疑いで…</description>
+      <pubDate>Sun, 09 Nov 2025 12:05:07 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
