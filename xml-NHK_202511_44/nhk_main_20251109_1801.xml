@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>岩手県沿岸の津波注意報解除 1週間程度は同程度の地震に注意を</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014971131000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014971131000</guid>
+      <description>9日午後5時すぎ、岩手県と宮城県で震度4の揺れを観測する地震があり、気象庁は一時、津波注意報を岩手県の沿岸に発表していま…</description>
+      <pubDate>Sun, 09 Nov 2025 22:08:55 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>広島県知事選挙 前副知事の横田氏が初当選</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014967771000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014967771000</guid>
+      <description>広島県知事選挙は、前の副知事の横田美香氏（54）が初めての当選を果たしました。</description>
+      <pubDate>Mon, 10 Nov 2025 00:12:48 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>北日本 北陸 新潟 10日にかけ大気不安定続く 落雷や突風に注意</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014971571000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014971571000</guid>
+      <description>前線を伴った低気圧の影響で、北日本と東日本では局地的に雨雲が発達しています。北日本と北陸、新潟県を中心に10日にかけて大…</description>
+      <pubDate>Sun, 09 Nov 2025 22:04:07 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>茨城 神栖市長選挙 候補者2人の得票が同数 規定でくじ引きに</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014971631000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014971631000</guid>
+      <description>9日に投票が行われた茨城県神栖市の市長選挙は候補者2人の得票が同数となり、くじ引きで当選者を決める異例の選挙となりました…</description>
+      <pubDate>Mon, 10 Nov 2025 02:49:52 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>専門家が指摘 “2011年 M9.0の巨大地震に関係か調べる必要”</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014971331000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014971331000</guid>
+      <description>地震のメカニズムに詳しい東京大学地震研究所の酒井慎一教授は、三陸沖で続いている地震活動は2011年に発生し東日本大震災を…</description>
+      <pubDate>Sun, 09 Nov 2025 18:57:14 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>大相撲九州場所 横綱 大の里 白星スタートも豊昇龍は初日に土</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014971291000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014971291000</guid>
+      <description>大相撲九州場所は福岡国際センターで初日を迎え、2場所連続優勝を目指す横綱 大の里は小結の高安に勝ちましたが、もう1人の横…</description>
+      <pubDate>Sun, 09 Nov 2025 20:58:55 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>秋田県内 クマ被害相次ぐ 美郷町と五城目町で計3人けが【9日】</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014970971000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014970971000</guid>
+      <description>秋田県内で9日午前、クマによる被害が相次ぎ、美郷町と五城目町であわせて3人がけがをしました。秋田県内ではクマによる人身被…</description>
+      <pubDate>Sun, 09 Nov 2025 16:22:01 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
