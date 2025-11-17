@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>【地震速報】青森県や岩手県で震度3 津波の心配なし</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014979331000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014979331000</guid>
+      <description>18日午前4時6分ごろ、青森県と岩手県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。</description>
+      <pubDate>Tue, 18 Nov 2025 04:32:22 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>北京の日本大使館 安全確保に努めるよう日本人に呼びかけ</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014979061000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014979061000</guid>
+      <description>高市総理大臣のいわゆる「台湾有事」をめぐる国会答弁に対し、中国メディアが、日本への非難を連日続けていることなどを受けて、…</description>
+      <pubDate>Mon, 17 Nov 2025 21:41:42 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>外務省局長 中国に到着 中国外務省は発言撤回求め反発強める</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014978331000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014978331000</guid>
+      <description>いわゆる「台湾有事」をめぐる高市総理大臣の国会答弁に中国が反発し、日中双方による応酬が続く中、中国側と協議するため、外務…</description>
+      <pubDate>Mon, 17 Nov 2025 19:09:43 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>NY外国為替市場 円相場 1ユーロ180円台に ユーロ導入以来初</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014979281000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014979281000</guid>
+      <description>17日のニューヨーク外国為替市場では、円を売ってユーロを買う動きが進み、円相場は、1999年のユーロ導入以来、初めて1ユ…</description>
+      <pubDate>Tue, 18 Nov 2025 04:28:35 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>自民と維新 定数削減で協議 論点に沿って検討急ぐことを確認</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014979071000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014979071000</guid>
+      <description>衆議院議員の定数削減をめぐり、自民党と日本維新の会の実務者による協議が行われ、削減する議席数や実効性の担保などの論点に沿…</description>
+      <pubDate>Mon, 17 Nov 2025 22:52:44 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>新型コロナ感染で死亡した従業員めぐる裁判 2審で和解成立</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014979041000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014979041000</guid>
+      <description>東京・新宿の中国料理店の従業員が新型コロナウイルスに感染し、その後に死亡したのは、店の感染対策が不十分だったのが原因だと…</description>
+      <pubDate>Mon, 17 Nov 2025 23:27:05 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>岩手 柿の木の上にクマ2頭 13時間とどまり立ち去る</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014978591000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014978591000</guid>
+      <description>17日朝、岩手県岩泉町の中心部にある住宅街の柿の木の上で2頭のクマが確認され、13時間あまりにわたってとどまり続けました…</description>
+      <pubDate>Mon, 17 Nov 2025 21:06:27 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
