@@ -2,7 +2,7 @@ name: Fetch NHK RSS Feed
 
 on:
   schedule:
-    - cron: '00 * * * *'  # Run every 1 hour
+    - cron: '00 */6 * * *'  # Run every 6 hours (reduced from 1 hour)
 
 jobs:
   fetch-rss:
@@ -10,6 +10,8 @@ jobs:
     steps:
       - name: Check out repo
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 1  # Shallow clone to reduce fetch time
 
       - name: Fetch NHK RSS feeds
         run: |
@@ -42,9 +44,6 @@ jobs:
           sleep 3
           # スポーツ
           curl -o "${folder_name}/nhk_sports_${current_time}.xml" https://news.web.nhk/n-data/conf/na/rss/cat7.xml
-          
-          # 注: cat-live.xmlに対応する新しいURLが提示されていないため、これは削除
-          # 元コードで定義されていたが使われていない変数を削除: current_month, current_day_of_week, day_offset
 
       - name: Set Git Config
         run: |
@@ -55,9 +54,7 @@ jobs:
       - name: Commit and push XML files
         run: |
           git add .
-          git commit -m "Update - $(date +'%Y-%m-%d')" || echo "No changes to commit"
-          # リモートの変更を取り込むためにgit pullを追加
+          git diff --staged --quiet || git commit -m "Update - $(date +'%Y-%m-%d')"
           git pull --rebase origin main
           git push
-
         working-directory: ${{ github.workspace }}
