@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>大分市佐賀関 大規模火災 住宅の被害は約130世帯 消火活動続く</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014981341000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014981341000</guid>
+      <description>大分市で18日夕方に発生し、住宅を含む建物170棟以上に延焼して、1人が死亡した、大規模な火災の消火活動は、今も続けられ…</description>
+      <pubDate>Thu, 20 Nov 2025 05:16:21 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>株価 一時1800円以上値上がり 5万円台を回復</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014981451000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014981451000</guid>
+      <description>20日の東京株式市場、日経平均株価は一時、1800円以上、値上がりし、節目の5万円台を回復しています。アメリカの半導体大…</description>
+      <pubDate>Thu, 20 Nov 2025 09:20:12 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>大阪 西淀川区 住宅街で火災か</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014981461000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014981461000</guid>
+      <description>大阪 西淀川区 住宅街で火災か 現場からの映像をお伝えしています</description>
+      <pubDate>Thu, 20 Nov 2025 09:14:36 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>WHO 2026年6月までに2000人超職員削減へ 米脱退表明で財政難</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014981281000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014981281000</guid>
+      <description>WHO＝世界保健機関は、アメリカのトランプ政権による脱退の表明を受けて財政難に直面するなか、2026年6月末までに200…</description>
+      <pubDate>Thu, 20 Nov 2025 07:52:57 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>米半導体 エヌビディア 8-10月決算 最終利益 前年同期比65％増</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014981321000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014981321000</guid>
+      <description>アメリカの半導体大手「エヌビディア」は、19日、10月までの3か月間の決算を発表しました。</description>
+      <pubDate>Thu, 20 Nov 2025 07:16:12 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>NY市場 一時 約10か月ぶりに 1ドル＝157円台まで値下がり</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014981421000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014981421000</guid>
+      <description>19日のニューヨーク外国為替市場では、投資家の間で日本政府・日銀による市場介入への警戒感が後退したことなどから、円を売っ…</description>
+      <pubDate>Thu, 20 Nov 2025 07:12:32 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>中国 日本産水産物の輸入再開めぐり 日本側に追加対応求める</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10014981201000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10014981201000</guid>
+      <description>日本産水産物の輸入再開をめぐって、中国政府は、必要な手続きが不十分だとして、日本政府に追加の対応を求めています。日本側と…</description>
+      <pubDate>Thu, 20 Nov 2025 06:43:31 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
