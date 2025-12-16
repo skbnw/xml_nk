@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>【地震速報】北海道で震度3 津波の心配なし</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015005461000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015005461000</guid>
+      <description>16日午後2時38分ごろ、北海道で震度3の揺れを観測する地震がありました。</description>
+      <pubDate>Tue, 16 Dec 2025 15:01:37 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>東京 赤坂サウナ火事の男女2人 ドアノブ外れ閉じ込められたか</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015004811000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015004811000</guid>
+      <description>15日、東京 赤坂のサウナ店で客の男女2人が死亡した火災で、2人が倒れているのが見つかった際、サウナ室のドアノブが外れて回らない状態だったことが捜査関係者への取材でわかりました。警視庁などは、2人が閉…</description>
+      <pubDate>Tue, 16 Dec 2025 15:00:31 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>自民 鈴木幹事長 “定数削減法案成立見込めず会期延長考えず”</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015005441000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015005441000</guid>
+      <description>国会の会期末が17日に迫る中、自民党の鈴木幹事長は記者会見で会期を延長しても衆議院議員の定数削減法案の成立は見込めないとして、延長は考えていないと述べました。</description>
+      <pubDate>Tue, 16 Dec 2025 14:25:09 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>与野党 選択的夫婦別姓めぐり 氏制度をテーマに閉会中審査へ</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015005351000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015005351000</guid>
+      <description>選択的夫婦別姓をめぐり、与野党は衆議院法務委員会で氏制度をテーマに閉会中審査を開くことで合意しました。</description>
+      <pubDate>Tue, 16 Dec 2025 13:45:39 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>ローマ字表記 約70年ぶり見直し 「訓令式」から「ヘボン式」に</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015005321000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015005321000</guid>
+      <description>政府はローマ字の表記について、今月22日からこれまでの「訓令式」を改め、多くの人が慣れ親しんでいる「ヘボン式」とすることを決定しました。ローマ字の表記の見直しはおよそ70年ぶりとなります。</description>
+      <pubDate>Tue, 16 Dec 2025 13:19:53 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>“重要区域の土地建物” 昨年度 約3％外国人など取得 中国最多</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015005061000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015005061000</guid>
+      <description>安全保障上重要と位置づける区域をめぐり、政府は昨年度1年間の土地や建物の取得状況を公表しました。全体のおよそ3％を外国人や外国法人が取得し、その半数近くが中国人や中国の法人だったとしています。</description>
+      <pubDate>Tue, 16 Dec 2025 14:49:46 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>後発地震注意情報 呼びかけ期間終了 国“備えは続けて”</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015004791000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015004791000</guid>
+      <description>マグニチュード7.5の青森県東方沖の地震の発生を受けて発表された「北海道・三陸沖後発地震注意情報」の呼びかけの期間は16日午前0時に終わりました。国は、大規模地震が発生する可能性がなくなったわけではな…</description>
+      <pubDate>Tue, 16 Dec 2025 14:46:16 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
