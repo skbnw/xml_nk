@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>台北 殺傷事件 3人死亡 容疑者は事前に現場に 計画的犯行か</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015009081000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015009081000</guid>
+      <description>台湾の台北中心部で19日、男が複数の人を刺すなどして3人が死亡した事件で、警察は、容疑者が事前に現場を訪れていたとして、計画的に犯行に及んだとみて調べています。</description>
+      <pubDate>Sat, 20 Dec 2025 19:10:16 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>立民 枝野元代表 核保有発言 “国際情勢理解せず更迭すべき”</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015009411000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015009411000</guid>
+      <description>総理大臣官邸の幹部が「核保有すべきだと思っている」と発言したことについて、立憲民主党の枝野元代表は「国際情勢の基本的な理解ができていない」と指摘した上で、幹部を更迭すべきだという考えを示しました。</description>
+      <pubDate>Sat, 20 Dec 2025 20:49:23 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>維新 吉村代表 衆院定数削減法案 来年通常国会での成立に全力</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015009421000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015009421000</guid>
+      <description>衆議院議員の定数削減法案をめぐり、日本維新の会の吉村代表は、来年の通常国会での成立に全力を尽くす考えを示しました。一方で、法案が成立しなかった場合の対応を問われ、連立離脱には否定的な考えを示しました。</description>
+      <pubDate>Sat, 20 Dec 2025 20:21:33 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>宮城 大和町の山林で倒れた男性 死亡確認 クマに襲われたか</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015009221000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015009221000</guid>
+      <description>宮城県大和町の山林で80代の男性が倒れているのが見つかり、その後、死亡が確認されました。警察は、クマに襲われた可能性があるとみて当時の詳しい状況を調べています。</description>
+      <pubDate>Sat, 20 Dec 2025 19:01:36 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>JAXA H3ロケット8号機打ち上げ中止 原因は作業手順の変更</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015009401000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015009401000</guid>
+      <description>12月17日、H3ロケット8号機の打ち上げが直前で中止された原因について、JAXA＝宇宙航空研究開発機構は、異常が見つかった種子島宇宙センターの注水設備で水の流量を調整するバルブを開ける作業手順を変更…</description>
+      <pubDate>Sat, 20 Dec 2025 22:12:59 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>北海道東部で地震相次ぐ 根室市で震度3の揺れを2回観測</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015009521000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015009521000</guid>
+      <description>今夜、根室半島南東沖を震源とする地震が相次ぎ、北海道根室市で震度3の揺れを2回、観測しました。これらの地震による津波の心配はありません。</description>
+      <pubDate>Sat, 20 Dec 2025 22:33:29 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>スキージャンプ女子W杯個人 第9戦 丸山希が今シーズン5勝目</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015009541000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015009541000</guid>
+      <description>スキージャンプ女子、ワールドカップ個人の第9戦がスイスで行われ、丸山希選手がライバルに競り勝って優勝し、今シーズン5勝目をあげました。</description>
+      <pubDate>Sat, 20 Dec 2025 23:42:27 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
