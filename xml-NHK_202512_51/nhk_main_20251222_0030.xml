@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>静岡 長泉町 店舗兼住宅に強盗 “約1000万円奪われた”</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015010161000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015010161000</guid>
+      <description>22日未明、静岡県長泉町にある店舗を兼ねた住宅に複数の男らが押し入ってこの家に住む80代の夫婦を脅し、現金を奪って逃げました。夫は「およそ1000万円を奪われた」と話しているということで、警察が強盗事…</description>
+      <pubDate>Mon, 22 Dec 2025 08:47:09 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>被害急増 自動音声で誘導「ボイスフィッシング」手口と対策は</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015009001000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015009001000</guid>
+      <description>銀行をかたる自動音声の電話などで偽サイトに誘導し、口座情報をだまし取る「ボイスフィッシング」と呼ばれる手口の被害が急増しています。地方の中小企業が被害にあうケースが多く確認されていて、各地の金融機関が…</description>
+      <pubDate>Mon, 22 Dec 2025 06:26:27 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>H3ロケット8号機 みちびき5号機を搭載 きょう午前 打ち上げへ</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015009941000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015009941000</guid>
+      <description>ロケットの不具合や設備の異常などで打ち上げの延期や中止が相次いでいるH3ロケット8号機は、日本版GPS衛星「みちびき5号機」を搭載して、22日午前、鹿児島県の種子島宇宙センターから打ち上げられます。</description>
+      <pubDate>Mon, 22 Dec 2025 06:13:25 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>【地震情報】岩手 宮古市で震度3 津波の心配なし（8:33）</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015009651000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015009651000</guid>
+      <description>22日午前8時33分ごろ、岩手県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。各地の震度は、震度3が岩手県宮古市、震度2が岩手県釜石市と山田町でした。このほか震度1の…</description>
+      <pubDate>Mon, 22 Dec 2025 08:49:53 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>村上宗隆 大リーグホワイトソックスと契約合意“2年53億円余”</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015009981000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015009981000</guid>
+      <description>プロ野球・ヤクルトからポスティングシステムを使って大リーグへの移籍を目指している村上宗隆選手がホワイトソックスと契約に合意しました。複数のアメリカメディアは、契約は2年総額3400万ドル、日本円で53…</description>
+      <pubDate>Mon, 22 Dec 2025 06:34:29 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>埼玉 狭山 車にはねられ25歳男性死亡 ひき逃げ事件として捜査</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015010171000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015010171000</guid>
+      <description>22日未明、埼玉県狭山市で横断歩道を渡っていた25歳の男性が車にはねられて死亡しました。警察はひき逃げ事件として捜査していて、特徴の似た車の運転手から事情を聴いて関連を調べています。</description>
+      <pubDate>Mon, 22 Dec 2025 08:35:47 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>大相撲 初場所の番付発表 先場所初優勝の安青錦は西の大関に</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015010111000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015010111000</guid>
+      <description>1月11日に初日を迎える大相撲初場所の番付が発表され、先場所初優勝を果たした新大関の安青錦は西の大関に座りました。</description>
+      <pubDate>Mon, 22 Dec 2025 06:17:34 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
