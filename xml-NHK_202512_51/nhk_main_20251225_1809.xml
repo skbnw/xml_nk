@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>【地震情報】北海道 青森 岩手 宮城で震度3 津波の心配なし</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015010221000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015010221000</guid>
+      <description>26日午前1時17分ごろ、青森県東方沖を震源とする地震があり、北海道と青森県、岩手県、宮城県で震度3の揺れを観測しました。この地震による津波の心配はありません。</description>
+      <pubDate>Fri, 26 Dec 2025 01:22:53 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>ローマ教皇 クリスマスメッセージ ウクライナ対話進展など訴え</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015014211000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015014211000</guid>
+      <description>ローマ教皇レオ14世は、就任して初めてクリスマスのメッセージを出し、ウクライナ情勢をめぐって「当事国が対話に臨む勇気を見いだせますように」と述べるなど世界各地の紛争の終結と平和の実現を訴えました。</description>
+      <pubDate>Thu, 25 Dec 2025 23:12:37 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>「箱根駅伝」 4年に1回の記念大会は全国の大学が出場可能に</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015014201000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015014201000</guid>
+      <description>正月恒例の「箱根駅伝」での“全国化”が進むことになりました。4年に1回とする記念大会の予選会には全国の大学の出場が可能となり、突破すれば本選に出場できるほか、本選では全国の学生も対象になる選抜チームが…</description>
+      <pubDate>Thu, 25 Dec 2025 23:07:23 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>「介護殺人」などで死亡した高齢者 10年間で少なくとも129人に</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015014181000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015014181000</guid>
+      <description>介護疲れによって家族を殺害するいわゆる「介護殺人」などで亡くなった高齢者は、昨年度までの10年間で少なくとも129人に上ることが厚生労働省のまとめで分かりました。介護保険制度がスタートしてことしで25…</description>
+      <pubDate>Thu, 25 Dec 2025 22:16:31 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>大分 大規模火災 “風向き頻繁に変わり飛び火か” 国の検討会</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015014191000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015014191000</guid>
+      <description>先月、大分市佐賀関で発生した大規模火災を受けた国の検討会の初会合が開かれ、当時、風向きが頻繁に変わり周辺に飛び火して延焼が拡大したとみられることなどが報告されました。</description>
+      <pubDate>Thu, 25 Dec 2025 22:15:38 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>政府 女性特有の健康課題 会議立ち上げ支援体制など検討へ</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015014071000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015014071000</guid>
+      <description>更年期の症状や生理など女性特有の健康課題の解決に向けて、政府は、関係省庁の副大臣らによる会議を立ち上げ、診療拠点の整備をはじめ、全国的な支援体制の構築などを検討していくことになりました。</description>
+      <pubDate>Thu, 25 Dec 2025 21:00:45 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>楽天モバイル 契約回線数1000万件超に 収益性どう高めるか課題</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015013901000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015013901000</guid>
+      <description>携帯電話大手の楽天モバイルは契約回線数が1000万件を超えたと発表しました。ほかの大手が値上げするなか、料金を据え置いたことなどで契約数を伸ばした形ですが、携帯電話事業は赤字が続いていて、収益性をどう…</description>
+      <pubDate>Thu, 25 Dec 2025 20:12:13 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
