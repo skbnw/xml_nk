@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>能登半島地震から2年 被災地の復興はまだ道半ば</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015017331000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015017331000</guid>
+      <description>能登半島地震の発生から、1月1日で2年です。地震のあとに体調が悪化するなどして亡くなる「災害関連死」と認定された被災者は増え続け、地震による死者は700人を超える見通しです。被災地の復興はまだ道半ばで…</description>
+      <pubDate>Thu, 01 Jan 2026 00:15:32 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>富山 地震被害の建物解体ほぼ終了も液状化被害地域で人口減少</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015016501000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015016501000</guid>
+      <description>能登半島地震の発生から1日で2年です。富山県内では被害を受けた建物の解体がほぼ終わる一方、液状化の被害が大きかった地域では人口の減少に歯止めがかからず、コミュニティーの維持が課題となっています。</description>
+      <pubDate>Thu, 01 Jan 2026 08:08:49 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>能登半島地震から2年 追悼の1日</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015017481000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015017481000</guid>
+      <description>2026年元日。きょうで能登半島地震の発生から2年です。この地震では、石川県と富山県、新潟県で震災関連死も含めてあわせて698人が亡くなりました。</description>
+      <pubDate>Thu, 01 Jan 2026 08:21:27 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>北日本は2日にかけて 東日本と西日本は2日～3日 大雪のおそれ</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015017461000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015017461000</guid>
+      <description>強い寒気と冬型の気圧配置の影響で、北日本では2日にかけて、東日本と西日本では2日から3日にかけて、大雪のおそれがあります。ふだんあまり雪が降らない西日本の平地などでも積もる可能性があり、最新の気象や交…</description>
+      <pubDate>Thu, 01 Jan 2026 06:34:22 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>両陛下 東日本大震災15年 熊本地震10年のことし 被災地へ</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015017261000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015017261000</guid>
+      <description>東日本大震災から15年、熊本地震から10年となることし、天皇皇后両陛下は被災地を巡り、被災した人たちや震災の記憶を伝える人たちと交流される見通しです。</description>
+      <pubDate>Thu, 01 Jan 2026 00:00:19 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>NY株式市場 2025年最後の取り引き終える ダウ1年で約13％上昇</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015017471000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015017471000</guid>
+      <description>ニューヨーク株式市場は31日、2025年の取り引きを終え、ダウ平均株価のこの1年間の上昇率はおよそ13％となりました。アメリカのトランプ政権による関税措置などで不確実性が高まる中でも、生成AIブームの…</description>
+      <pubDate>Thu, 01 Jan 2026 08:26:19 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>中小企業の賃上げへ 下請け法を改正「取適法」1月1日に施行</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015017311000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015017311000</guid>
+      <description>中小企業の賃上げに向けて、これまでの下請け法を改正した「取適法」＝「中小受託取引適正化法」が1日に施行されました。中小企業の利益を守るため、発注者が受注者と協議せず、一方的に取り引き価格を決めることな…</description>
+      <pubDate>Thu, 01 Jan 2026 05:04:39 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
