@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>アメリカの攻撃で死者100人に ベネズエラが発表</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015021621000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015021621000</guid>
+      <description>アメリカ・CNNテレビなどによりますと、ベネズエラの内相は7日、3日のアメリカによる攻撃で死亡した人の数が100人に上り、けがをした人も同じくらいいると発表しました。</description>
+      <pubDate>Thu, 08 Jan 2026 11:44:50 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>トランプ大統領“66の国際機関・条約などから脱退や離脱指示”</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015021461000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015021461000</guid>
+      <description>アメリカのホワイトハウスはトランプ大統領があわせて66の国際機関や条約などからの脱退や離脱を指示する文書に署名したと発表しました。これらの中には、国連気候変動枠組み条約や、国連人口基金、それに、東京に…</description>
+      <pubDate>Thu, 08 Jan 2026 12:00:49 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>官房長官“必要な対応行う” 中国によるダンピング疑い調査で</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015021511000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015021511000</guid>
+      <description>中国政府が日本から輸入され、半導体の製造工程で使われる化学物質の価格が不当に安く抑えられている疑いがあるとして調査を始めると発表したことをめぐり、木原官房長官は、影響の精査など、必要な対応を行う考えを…</description>
+      <pubDate>Thu, 08 Jan 2026 11:58:44 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>山梨 上野原で山林火災 延焼続く これまでのところけが人なし</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015021771000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015021771000</guid>
+      <description>8日午前、山梨県の大月市と上野原市にまたがる山で山林火災が発生し、現在も延焼が続いています。これまでにけが人の情報は入っていないということで、消防などが消火活動にあたっています。</description>
+      <pubDate>Thu, 08 Jan 2026 15:09:07 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>福島第一原発 「凍土壁」の冷却装置が一時停止 原因調査へ</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015021721000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015021721000</guid>
+      <description>東京電力は、廃炉作業を進めている福島第一原子力発電所で、地下水が建屋に流入するのを抑えるために周りの地盤を凍らせる「凍土壁」の冷却装置が一時的に停止したと発表しました。凍土壁がある地中の温度に大きな変…</description>
+      <pubDate>Thu, 08 Jan 2026 14:49:55 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>大阪 車が警察官ボンネットに乗せ走行 似た車隣接市で乗り捨て</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015021631000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015021631000</guid>
+      <description>7日、大阪 岸和田市の商店街で乗用車が警察官に突っ込み、ボンネットに乗せたまま700メートルほど走ったあと振り落として逃げた事件で、よく似た車が隣の市で乗り捨てられていたことが警察への取材で分かりまし…</description>
+      <pubDate>Thu, 08 Jan 2026 12:55:26 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>コメ“価格下落する”見方強まる 見通しの指数 4か月連続低下</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015021551000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015021551000</guid>
+      <description>コメの価格はこの先下落するとの見方が、関係者の間で一層強まっています。向こう3か月の価格の見通しを示す指数は先月、4か月連続で低下し、調査した団体は在庫水準の高まりが値下がりの見方につながっているとみ…</description>
+      <pubDate>Thu, 08 Jan 2026 11:55:26 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
