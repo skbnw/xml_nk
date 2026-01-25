@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>福井県知事選挙 新人の石田嵩人氏当選 全国で最も若い知事に</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015032001000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015032001000</guid>
+      <description>セクハラ問題で知事が辞職したことに伴う福井県知事選挙は、新人で元外務省職員の石田嵩人氏が初めての当選を果たしました。石田氏は35歳で、全国で最も若い知事となります。</description>
+      <pubDate>Sun, 25 Jan 2026 23:55:30 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>北日本など雪強まる見込み 交通影響に警戒</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015035001000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015035001000</guid>
+      <description>24日夜から25日朝にかけて、一連の寒波で2度目の大雪のピークとなり、石川県では除雪が困難になるほどの大雪となりました。北陸から山陰では大雪のピークは過ぎたものの、北日本を中心に断続的に雪が強まる見込…</description>
+      <pubDate>Sun, 25 Jan 2026 23:07:57 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>青森 JR奥羽本線の列車 積雪の影響で一時立往生</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015035531000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015035531000</guid>
+      <description>25日午後、青森県内を走行していたJR奥羽本線の列車が線路に積もった雪で動けなくなり、一時立往生しました。JR東日本によりますと、乗客82人のうち体調不良などを訴える人はいなかったということです。</description>
+      <pubDate>Mon, 26 Jan 2026 00:19:04 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>東大大学院教授収賄疑い 教授ら法人側にみずから接待を要求か</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015035401000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015035401000</guid>
+      <description>東京大学医学部附属病院の皮膚科長だった62歳の教授が、一般社団法人との共同研究をめぐって便宜を図った見返りに法人側から高級クラブなどで接待を受けたとして逮捕された事件で、教授らが法人側に対し、月に2回…</description>
+      <pubDate>Sun, 25 Jan 2026 20:58:25 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>【大雪被害】新潟 男性死亡 雪下ろしで転落か 各地でけが人も</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015035191000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015035191000</guid>
+      <description>今回の大雪による、各地の事故や被害の情報です。</description>
+      <pubDate>Sun, 25 Jan 2026 19:19:21 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>沖縄 名護市長選挙 現職 渡具知武豊氏が3回目の当選</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015031981000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015031981000</guid>
+      <description>アメリカ軍普天間基地の移設工事が進む沖縄県名護市の市長選挙は25日投票が行われ、現職の渡具知武豊氏が3回目の当選を果たしました。</description>
+      <pubDate>Mon, 26 Jan 2026 02:49:02 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>大相撲初場所 安青錦が2場所連続優勝 新大関の優勝は20年ぶり</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015035361000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015035361000</guid>
+      <description>大相撲初場所は千秋楽の25日、大関 安青錦が12勝3敗で並んだ平幕の熱海富士との優勝決定戦に勝って2場所連続2回目の優勝を果たしました。新大関の優勝は平成18年夏場所の白鵬以来、20年ぶりです。</description>
+      <pubDate>Sun, 25 Jan 2026 21:13:45 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
