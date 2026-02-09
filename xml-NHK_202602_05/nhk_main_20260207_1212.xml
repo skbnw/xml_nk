@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>衆院選 期日前投票は6日まで2079万人余 前回比約436万人増</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015045891000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015045891000</guid>
+      <description>今回の衆議院選挙で、6日までに期日前投票を行った人は、すべての有権者の5分の1にあたる2079万人余りで、前回の衆議院選挙の同じ時期と比べておよそ436万人増えています。</description>
+      <pubDate>Sat, 07 Feb 2026 20:59:26 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>衆院選 選挙戦最終日 党首の訴えで多く使われたことばは？</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015045611000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015045611000</guid>
+      <description>衆議院選挙は、8日が投票日です。各党の党首や候補者らは、街頭などで最後の支持を呼びかけました。NHKは、選挙戦最終日の各党党首の演説を「テキストマイニング」という手法で分析しました。演説の中で使われた…</description>
+      <pubDate>Sat, 07 Feb 2026 18:42:24 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>日本海側で積雪が急増 東京23区など当初より予想を引き上げ</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015045311000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015045311000</guid>
+      <description>冬型の気圧配置の影響で、日本海側を中心に雪が強まっているほか、関東でも積もっているところがあります。これから上空にいっそう強い寒気が流れ込んで日本海側では積雪が急増するほか、関東南部などふだん雪の少な…</description>
+      <pubDate>Sat, 07 Feb 2026 20:51:10 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>【大雪】交通機関への影響は 欠航や高速道路の通行止めも</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015045161000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015045161000</guid>
+      <description>各地で雪によって交通に影響が出ているところがあり、注意が必要です。</description>
+      <pubDate>Sat, 07 Feb 2026 20:52:05 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>スキー女子スロープスタイル 近藤心音 けが影響で五輪予選棄権</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015045871000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015045871000</guid>
+      <description>ミラノ・コルティナオリンピック、スキーフリースタイル女子スロープスタイルの近藤心音選手が練習中にけがをした左足の影響で7日、出場を予定していた予選を棄権しました。</description>
+      <pubDate>Sat, 07 Feb 2026 21:08:24 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>【地震速報】神奈川県西部 山梨東部富士五湖で震度３</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015045881000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015045881000</guid>
+      <description>7日午後8時1分ごろ、山梨県と神奈川県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。</description>
+      <pubDate>Sat, 07 Feb 2026 20:16:07 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>米ミネソタ州 ICE職員の発砲から1か月 移民支援の動き広がる</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015045551000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015045551000</guid>
+      <description>アメリカ中西部ミネソタ州で、ICE＝移民税関捜査局の職員による発砲で女性が死亡してから7日で1か月となります。トランプ政権が不法移民の摘発を掲げ作戦を続けるなか、現地では移民を支援する動きが広がってい…</description>
+      <pubDate>Sat, 07 Feb 2026 18:13:28 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>

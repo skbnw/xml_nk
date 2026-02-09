@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>山陰～北陸 積雪急増 都心でも一時5cmの積雪 今後の見通しは？</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015046071000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015046071000</guid>
+      <description>非常に強い寒気の影響で山陰から北陸にかけて積雪が急増していて、鳥取県と福井県、それに京都府で「顕著な大雪に関する情報」が発表されました。大規模な交通影響が発生する危険性が高まっていて、厳重な警戒が必要…</description>
+      <pubDate>Sun, 08 Feb 2026 14:50:31 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>衆議院選挙 投票進む 午前11時現在の投票率は7.17％</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015046241000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015046241000</guid>
+      <description>衆議院選挙は8日投票日を迎え、全国4万4600か所余りの投票所で投票が行われています。総務省がまとめた全国の投票率は、午前11時現在7.17％で、前回・おととしの選挙と比べ、3.26ポイント低くなって…</description>
+      <pubDate>Sun, 08 Feb 2026 13:06:23 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>東名 新東名高速道路 雪で静岡と神奈川の県境など通行止め</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015046341000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015046341000</guid>
+      <description>日本道路交通情報センターによりますと、この雪の影響で、東名高速道路と新東名高速道路のうち、静岡と神奈川の県境とその周辺のほとんどの区間が通行止めとなっていて、交通の大動脈にも影響が出ています。</description>
+      <pubDate>Sun, 08 Feb 2026 15:08:13 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>茨城 雪の影響などでスリップ事故が100件以上に</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015046271000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015046271000</guid>
+      <description>茨城県内では断続的に降っている雪の影響などで、7日夕方から8日朝までに起きたスリップ事故が100件以上にのぼりました。</description>
+      <pubDate>Sun, 08 Feb 2026 12:13:50 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>都内の大学入試 雪の影響で開始時間を変更するところも</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015046211000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015046211000</guid>
+      <description>雪の影響で、8日都内の大学では入学試験の開始時間を繰り下げるなどの措置をとるところもでています。</description>
+      <pubDate>Sun, 08 Feb 2026 10:59:16 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>ワシントン・ポスト紙CEOが辞任 従業員を大量解雇で社内反発か</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015046311000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015046311000</guid>
+      <description>アメリカの有力紙ワシントン・ポストで経営基盤強化のためとして従業員の3分の1が解雇されるなかCEOが辞任を表明し、アメリカメディアは解雇を巡り社内で反発が強まっていると伝えています。</description>
+      <pubDate>Sun, 08 Feb 2026 13:32:50 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>イタリア 鉄道設備放火など事件相次ぐ 五輪開幕の時期狙ったか</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015046251000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015046251000</guid>
+      <description>冬のオリンピックが開かれているイタリアで7日、鉄道の設備が放火されるなどの事件が相次いでミラノを発着する列車に大幅な遅れが生じ、地元当局はオリンピック開幕の時期を狙った犯行の可能性もあるとみて調べてい…</description>
+      <pubDate>Sun, 08 Feb 2026 12:27:57 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
