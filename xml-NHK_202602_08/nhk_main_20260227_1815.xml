@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>北海道 旭川 路上で倒れていた幼い女の子が死亡 ひき逃げか</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015062651000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015062651000</guid>
+      <description>27日夕方、北海道旭川市の路上で幼い女の子が倒れているのが見つかり、病院に搬送されましたが、死亡しました。警察は状況からひき逃げ事件の可能性もあるとみて捜査しています。</description>
+      <pubDate>Sat, 28 Feb 2026 01:32:17 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>ニデックの不適切な会計処理問題 第三者委が報告書 近く公表へ</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015062701000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015062701000</guid>
+      <description>不適切な会計処理をめぐる問題を受けて、創業者の永守重信氏が代表取締役を辞任した電子部品大手の旧「日本電産」、「ニデック」は、第三者委員会から一連の問題にかんするこれまでの調査結果をまとめた報告書の提出…</description>
+      <pubDate>Sat, 28 Feb 2026 02:15:33 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>NYダウ 一時800ドル超の値下がり</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015062711000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015062711000</guid>
+      <description>27日のニューヨーク株式市場では、取り引き開始直後から売り注文が出てダウ平均株価は前日の終値から一時、800ドルを超える値下がりとなりました。</description>
+      <pubDate>Sat, 28 Feb 2026 01:24:44 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>去年のGDP インドは3兆8000億ドルに増加も日本が上回ったか</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015062491000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015062491000</guid>
+      <description>高い経済成長が続くインドの去年1年間の名目GDP＝国内総生産はドル換算で見た場合、3兆8000億ドルに増加しました。IMF＝国際通貨基金は、ことし世界4位の日本が5位のインドに抜かれるという見通しを示…</description>
+      <pubDate>Fri, 27 Feb 2026 21:12:34 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>最低賃金 適用開始遅れ相次ぎ 厚労省審議会が運用のあり方議論</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015062631000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015062631000</guid>
+      <description>今年度の最低賃金の改定をめぐり、国の審議会が示した目安を大幅に上回る引き上げが各地で行われ、例年10月ごろの適用開始が遅れたところが相次いだことから、厚生労働省の審議会が適切な運用のあり方について議論…</description>
+      <pubDate>Sat, 28 Feb 2026 02:06:15 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>オープンAI アマゾンやソフトバンクなどから資金調達 17兆円余</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015062641000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015062641000</guid>
+      <description>生成AIのChatGPTを手がける「オープンAI」は27日、IT大手のアマゾンやソフトバンクグループ、それに半導体大手のエヌビディアから日本円で17兆円あまりの資金を調達すると発表しました。AIをめぐ…</description>
+      <pubDate>Sat, 28 Feb 2026 02:28:34 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>小学館編集部“略式命令受けた漫画家起用は問題”作品配信停止</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015062591000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015062591000</guid>
+      <description>小学館が運営する漫画アプリの編集部は、過去に児童ポルノ禁止法違反の罪で罰金の略式命令を受けた漫画家を、その後、別の名義で漫画の原作者として起用したことについて、「起用判断および確認体制に問題があった。…</description>
+      <pubDate>Fri, 27 Feb 2026 22:35:13 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
