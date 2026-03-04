@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>東北新幹線 全線で運転再開</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015065871000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015065871000</guid>
+      <description>東北新幹線は、倒木による停電の影響で、東京駅と盛岡駅の間の上下線で運転を見合わせていましたが、午前9時18分に全線で運転を再開しました。</description>
+      <pubDate>Wed, 04 Mar 2026 09:30:09 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>株価 一時1500円超値下がり イラン情勢で原油価格高止まり懸念</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015065891000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015065891000</guid>
+      <description>4日の東京株式市場、日経平均株価は、一時、1500円以上値下がりしています。アメリカなどとイランとの間で攻撃の応酬が続く中、事態が長期化し原油価格が高止まりして経済への悪影響が及ぶことへの懸念から世界…</description>
+      <pubDate>Wed, 04 Mar 2026 09:17:14 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>広島 福山の住宅で立てこもりか 拳銃のようなものの発砲音</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015065911000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015065911000</guid>
+      <description>警察によりますと、4日午前4時すぎ、福山市川口町にある住宅で、この家の住人からもめ事に関する通報があり、駆けつけた警察官が家の中から拳銃のようなものの発砲音を確認したということです。家の中には住人の知…</description>
+      <pubDate>Wed, 04 Mar 2026 09:06:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>トランプ大統領 イランへの軍事作戦「非常に順調」成果強調</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015065791000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015065791000</guid>
+      <description>アメリカのトランプ大統領はイランへの軍事作戦について、「非常に順調だ」として成果を強調した上で、現在の指導部に対し、新たな攻撃で打撃を与えたと明らかにしました。一方、イランはミサイルなどの発射を繰り返…</description>
+      <pubDate>Wed, 04 Mar 2026 09:21:56 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>旧統一教会の解散命令 東京高裁 きょう解散命じるかどうか判断</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015065451000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015065451000</guid>
+      <description>旧統一教会の高額献金や霊感商法の問題をめぐる解散命令の請求について、東京高等裁判所は4日、教団に解散を命じるかどうか判断を示します。東京地裁に続いて再び解散を命じた場合、直ちに効力が生じ、教団の財産の…</description>
+      <pubDate>Wed, 04 Mar 2026 04:50:48 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>フランス イギリス ギリシャ 空母や駆逐艦など地中海に派遣へ</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015065851000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015065851000</guid>
+      <description>アメリカなどとイランとの攻撃の応酬が続くなか、フランスは海上交通の安全などを確保するため、地中海への空母の派遣を決めたほか、イギリスも駆逐艦を展開すると発表しました。</description>
+      <pubDate>Wed, 04 Mar 2026 08:58:16 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>「カイロス3号機」きょう打ち上げ予定 和歌山</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015065531000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015065531000</guid>
+      <description>打ち上げが延期されていた東京のベンチャー企業の小型ロケット「カイロス3号機」が4日午前11時に和歌山県にある発射場から打ち上げられる予定です。初号機と2号機は失敗していて、今回の3号機で衛星を軌道に投…</description>
+      <pubDate>Wed, 04 Mar 2026 04:46:55 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
