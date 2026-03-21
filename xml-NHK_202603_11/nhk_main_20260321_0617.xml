@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>【地震速報】熊本 天草・芦北で震度3</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015080731000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015080731000</guid>
+      <description>２１日午後３時４分ごろ地震がありました。現在、震度３以上が観測されている地域は以下のとおりです。▼震度３が、熊本県天草・芦北。今後の情報に注意してください。</description>
+      <pubDate>Sat, 21 Mar 2026 15:07:44 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>トランプ氏“段階的縮小を検討”投稿も事態収束の見通し立たず</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015080621000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015080621000</guid>
+      <description>アメリカのトランプ大統領は、20日、イランへの軍事作戦についてSNSに「段階的に縮小することを検討している」と投稿しました。一方で、トランプ政権が海兵隊と海軍の兵士、数千人を中東に追加で向かわせている…</description>
+      <pubDate>Sat, 21 Mar 2026 11:55:23 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>三重 新名神6人死亡事故 警察が運送会社事務所を捜索</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015080601000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015080601000</guid>
+      <description>20日、三重県亀山市の新名神高速道路のトンネル内で、大型トラックが車3台に追突し、6人が死亡した事故で、大型トラックは東京方面から広島方面に向けて荷物を運んでいたということで、警察は21日、逮捕された…</description>
+      <pubDate>Sat, 21 Mar 2026 12:30:56 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>政府 シェルター確保で民間との連携推進へ 基本方針案まとめる</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015080801000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015080801000</guid>
+      <description>有事の際に住民が避難できるシェルターを確保するため、政府は民間との連携を進め、地下駐車場や地下街をはじめとした地下施設をさらに活用していくなどとした基本方針案をまとめました。</description>
+      <pubDate>Sat, 21 Mar 2026 14:37:09 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>アクション俳優 チャック・ノリスさん死去 86歳</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015080901000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015080901000</guid>
+      <description>ブルース・リーの映画「ドラゴンへの道」などに出演したことで知られるアメリカのアクション俳優、チャック・ノリスさんが亡くなりました。86歳でした。</description>
+      <pubDate>Sat, 21 Mar 2026 14:35:53 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>福井 防波堤で海に転落 ベトナム国籍の1人死亡 3人行方不明</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015080741000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015080741000</guid>
+      <description>21日未明、福井県坂井市で防波堤に釣りに来ていたベトナム国籍の技能実習生5人が海に転落し、2人は救助されましたが、このうち1人の死亡が確認されました。ほかの3人は行方不明となっていて、海上保安署などが…</description>
+      <pubDate>Sat, 21 Mar 2026 12:00:18 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>鹿児島トカラ列島の鳥 新種と確認 ヤンバルクイナ以来45年ぶり</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015080871000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015080871000</guid>
+      <description>鹿児島県のトカラ列島で分布が確認されていた鳥が、新種であることがわかり、「トカラムシクイ」と名付けられました。研究グループによりますと、国内で新種の鳥が確認されたのは、沖縄本島に生息するヤンバルクイナ…</description>
+      <pubDate>Sat, 21 Mar 2026 12:24:40 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
