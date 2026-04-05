@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>トランプ大統領 イランで撃墜された戦闘機の乗員救出 明らかに</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015092471000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015092471000</guid>
+      <description>アメリカのトランプ大統領は5日、イランで撃墜され行方がわからなくなっていた戦闘機の乗員1人を救出したと明らかにしました。</description>
+      <pubDate>Sun, 05 Apr 2026 14:59:48 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>イラン 石油化学施設が攻撃受け5人死亡 戦闘の激化が懸念</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015092351000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015092351000</guid>
+      <description>複数のイランメディアは4日、イラン南西部にある石油化学施設が攻撃を受け、5人が死亡170人がけがをしたと報じました。アメリカのトランプ大統領がイランのエネルギー施設への攻撃延期の期限を6日までと主張す…</description>
+      <pubDate>Sun, 05 Apr 2026 15:20:23 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>各地で気温上昇 25度以上の夏日も 関東は急な雷雨に注意</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015092381000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015092381000</guid>
+      <description>5日は各地で晴れて、25度以上の夏日となったところがあります。午後はさらに気温が上がっています。</description>
+      <pubDate>Sun, 05 Apr 2026 15:23:29 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>国立公園制度100年の2031年へ環境省 訪日外国人利用増やす方針</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015092321000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015092321000</guid>
+      <description>国立公園の制度が始まって2031年で100年になるのに向けて、環境省は今後5年間で園内の廃屋撤去などで景観を改善し、ブランド力向上を図ることで訪日外国人の利用者数をおよそ1.4倍に増やす方針を示しまし…</description>
+      <pubDate>Sun, 05 Apr 2026 05:30:44 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>ゼレンスキー大統領 トルコと安全保障面の協力強化で合意</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015092391000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015092391000</guid>
+      <description>ウクライナのゼレンスキー大統領はトルコのエルドアン大統領と会談し、安全保障面での協力を強化することで合意したほか、トルコ側は、ウクライナとロシアの間の交渉を引き続き支援する考えを示しました。</description>
+      <pubDate>Sun, 05 Apr 2026 07:42:07 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>ドジャース 大谷翔平 ヒット2本でチームの連勝に貢献</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015092371000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015092371000</guid>
+      <description>大リーグ、ドジャースの大谷翔平選手がナショナルズ戦でヒット2本を打ってチームの連勝に貢献しました。</description>
+      <pubDate>Sun, 05 Apr 2026 09:34:14 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>ホワイトソックス 村上宗隆 逆転のツーランホームラン</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015092361000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015092361000</guid>
+      <description>大リーグ、ホワイトソックスの村上宗隆選手が、岡本和真選手が所属するブルージェイズ戦に先発出場し、逆転のツーランホームランを打ってチームを勝利に導きました。</description>
+      <pubDate>Sun, 05 Apr 2026 14:02:27 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
