@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>【地震速報】長野県で震度3 津波の心配なし</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015105161000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015105161000</guid>
+      <description>23日午前2時42分ごろ、長野県北部で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。</description>
+      <pubDate>Thu, 23 Apr 2026 03:10:28 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>岩手 大槌町の山林火災延焼続く 消火活動23日朝に再開へ</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015105551000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015105551000</guid>
+      <description>22日午後、岩手県大槌町で発生した山林火災は延焼が続いています。消防による消火活動はいったん中断されましたが、消防は住宅に延焼しないか警戒に当たっていて、23日は午前5時前の日の出とともに活動を再開す…</description>
+      <pubDate>Wed, 22 Apr 2026 23:56:47 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>米イラン停戦延長「3～5日」報道も イラン側は封鎖解除迫る</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015105251000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015105251000</guid>
+      <description>イランとの停戦の期限が迫る中、アメリカのトランプ大統領は「停戦を延長する」と明らかにし、アメリカのメディアは、トランプ大統領が追加で3日から5日の停戦期間を与える意向だと伝えました。一方、イラン側では…</description>
+      <pubDate>Wed, 22 Apr 2026 21:55:48 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>「国家情報局」設置法案 衆院内閣委員会で賛成多数で可決</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015105371000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015105371000</guid>
+      <description>政府のインテリジェンス機能の強化に向けて「国家情報局」を設置する法案は衆議院内閣委員会で採決が行われ、自民・維新両党などの賛成多数で可決されました。与党側は23日の本会議で衆議院を通過させたい考えです…</description>
+      <pubDate>Wed, 22 Apr 2026 19:32:30 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>東京ドームシティ 遊具点検中の事故 操作盤に誰も触れずか</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015105281000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015105281000</guid>
+      <description>21日、東京 文京区にある「東京ドームシティ アトラクションズ」で、24歳の女性従業員が、定期点検中の遊具に体を挟まれて死亡した事故で、当時、遊具を作動させるための「コントロールパネル」と呼ばれる操作…</description>
+      <pubDate>Wed, 22 Apr 2026 19:23:44 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>津波警報直後に車避難の渋滞発生 浸水想定区域も 岩手 久慈</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015105781000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015105781000</guid>
+      <description>岩手県久慈市では、20日の地震で津波警報が発表された後、避難所につながる道路で渋滞が発生し、長さは最大で2キロほどに上っていたことがわかりました。同じ道路では去年の地震で津波警報が発表された時にも渋滞…</description>
+      <pubDate>Wed, 22 Apr 2026 20:53:14 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>北海道・三陸沖後発地震注意情報 日頃の備え学校でも呼びかけ</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015105201000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015105201000</guid>
+      <description>20日夕方に起きた三陸沖の大地震を受けて、気象庁は千島海溝・日本海溝沿いでは、巨大地震の発生の可能性がふだんより高まっているとして「北海道・三陸沖後発地震注意情報」を発表しています。北海道から千葉県に…</description>
+      <pubDate>Wed, 22 Apr 2026 18:26:31 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
