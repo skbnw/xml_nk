@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>磐越道 マイクロバスなど3台事故 高校生死亡 26人けが</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015115221000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015115221000</guid>
+      <description>6日午前、福島県の磐越自動車道で新潟県の高校生が乗ったマイクロバスなど、3台が関係する事故があり、マイクロバスに乗っていた17歳の男子生徒1人が死亡したほか、高校生を含む26人がけがをしたということで…</description>
+      <pubDate>Wed, 06 May 2026 15:03:58 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>岩手 大槌町「山林が燃えている」通報 消防</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015115341000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015115341000</guid>
+      <description>消防によりますと6日午後1時半ごろ、岩手県大槌町の町役場の近くで山林が燃えていると通報がありました。</description>
+      <pubDate>Wed, 06 May 2026 15:03:16 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>トランプ大統領“ホルムズ海峡通過させる取り組み短期間停止”</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015115211000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015115211000</guid>
+      <description>アメリカのトランプ大統領はペルシャ湾内の船舶を誘導し、ホルムズ海峡を通過させるための取り組み「プロジェクト・フリーダム」を短期間停止すると明らかにしました。理由について、「イランの代表団との完全かつ最…</description>
+      <pubDate>Wed, 06 May 2026 10:23:05 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>急速に円高進み 一時1ドル＝155円台に 再び市場介入との見方も</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015115351000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015115351000</guid>
+      <description>6日の外国為替市場では、午後に入って急速に円高が進む場面があり、円相場は一時、1ドル＝155円台前半まで値上がりしました。市場関係者からは政府・日銀による市場介入が再び行われたのではないかとの見方も出…</description>
+      <pubDate>Wed, 06 May 2026 15:37:45 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>ハンタウイルス集団感染疑いの船 カナリア諸島で受け入れへ</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015115241000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015115241000</guid>
+      <description>大西洋に停泊しているクルーズ船で「ハンタウイルス」の集団感染が疑われている問題で、スペインの保健当局は船を大西洋のカナリア諸島で受け入れると明らかにしました。そこで乗客・乗員の検査や治療を行った上で、…</description>
+      <pubDate>Wed, 06 May 2026 09:15:12 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>5連休最終日 新幹線や高速道路 空港はUターンで混雑</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015114731000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015114731000</guid>
+      <description>5連休最終日の6日、各交通機関はふるさとや行楽地などで過ごした人たちのUターンで混雑しています。</description>
+      <pubDate>Wed, 06 May 2026 14:42:34 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>米アンソロピック 「ミュトス」に中国が追いつく可能性 言及</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015115281000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015115281000</guid>
+      <description>アメリカのAI新興企業「アンソロピック」は5日、ソフトウエアのぜい弱性を発見する能力が高いとされる自社のAIモデルの性能に、中国が半年から1年ほどで追いつくとの認識を示しました。</description>
+      <pubDate>Wed, 06 May 2026 12:52:44 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
