@@ -58,3 +58,11 @@ jobs:
           git pull --rebase origin main
           git push
         working-directory: ${{ github.workspace }}
+
+      - name: Trigger Project_NewsDB Update
+        if: success()
+        run: |
+          curl -X POST https://api.github.com/repos/skbnw/Project_NewsDB/dispatches \
+          -H "Accept: application/vnd.github.v3+json" \
+          -H "Authorization: token ${{ secrets.SYNC_PAT }}" \
+          -d '{"event_type": "trigger-newsdb-update"}'
