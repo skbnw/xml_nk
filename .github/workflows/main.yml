@@ -2,8 +2,7 @@ name: Fetch NHK RSS Feed
 
 on:
   schedule:
-    - cron: '00 */6 * * *'  # Run every 6 hours (reduced from 1 hour)
-
+    - cron: '0 * * * *'  
 jobs:
   fetch-rss:
     runs-on: ubuntu-latest
