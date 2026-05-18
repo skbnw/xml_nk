@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>大阪 中央区 西心斎橋で火災 飲食店入る建物から延焼中</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015124321000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015124321000</guid>
+      <description>18日朝、大阪市中央区の西心斎橋にある飲食店が入る建物から火が出て近くの建物にも延焼し、消防が消火活動にあたっています。</description>
+      <pubDate>Mon, 18 May 2026 08:16:02 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>広島 福山 山林火災 一夜明けるも消火活動続く</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015124221000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015124221000</guid>
+      <description>17日、広島県福山市の山林で発生した火災の消火活動は、一夜明けた18日朝も続けられています。これまでのところ、けが人の情報はないということです。</description>
+      <pubDate>Mon, 18 May 2026 08:17:31 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>長期金利 2.8％まで上昇 29年ぶりの高い水準</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015124371000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015124371000</guid>
+      <description>18日の債券市場では長期金利が上昇し、代表的な指標である10年ものの国債の利回りが2.8％まで上昇しました。日本相互証券によりますと1997年5月以来、29年ぶりの高い水準です。</description>
+      <pubDate>Mon, 18 May 2026 09:26:12 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>栃木 強盗殺人事件 逮捕の6人は被害者と面識なし</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015124231000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015124231000</guid>
+      <description>栃木県上三川町の住宅で親子3人が強盗に襲われ死傷した事件で、警察は、17日、新たに指示役とみられる横浜市の20代の夫婦を逮捕しました。逮捕者は6人になり、いずれも神奈川県内に住んでいて被害者とは面識が…</description>
+      <pubDate>Mon, 18 May 2026 05:04:06 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>気温上昇 猛暑日予想も 熱中症への対策を</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015124181000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015124181000</guid>
+      <description>18日も全国的に晴れて気温が上がり、近畿や九州では35度以上の猛暑日になるところもある見込みです。こまめに水分を補給するなど熱中症への対策を心がけてください。</description>
+      <pubDate>Mon, 18 May 2026 06:09:09 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>東急池上線 車内でモバイルバッテリーが発火 1人軽傷</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015124361000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015124361000</guid>
+      <description>18日朝、東急池上線の車内で、モバイルバッテリーから火が出て女性1人が軽いけがをしました。火はすぐに消し止められましたが東急池上線は安全確認のため、一時、運転を見合わせました。</description>
+      <pubDate>Mon, 18 May 2026 09:28:44 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>ドジャース 大谷3安打2打点 佐々木7回1失点で2勝目</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015124351000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015124351000</guid>
+      <description>大リーグ、ドジャースの大谷翔平選手が古巣、エンジェルス戦でタイムリーを含む3安打2打点と活躍しました。また、先発登板した佐々木朗希投手は大リーグで自己最長の7回を投げて1失点と好投し、今シーズン2勝目…</description>
+      <pubDate>Mon, 18 May 2026 09:28:03 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
