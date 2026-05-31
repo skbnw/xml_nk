@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>新潟県知事選挙 現職の花角英世氏が3回目の当選</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015132921000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015132921000</guid>
+      <description>原発の再稼働への同意の手続きなどが争点となった新潟県知事選挙は、現職の花角英世氏（68）が3回目の当選を果たしました。</description>
+      <pubDate>Sun, 31 May 2026 22:45:28 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>【台風6号】沖縄・奄美に1日から接近 暴風や大雨など厳重警戒</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015136211000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015136211000</guid>
+      <description>台風6号は、6月1日には強い勢力で沖縄・奄美に接近し、その後、3日にかけて西日本と東日本にも暴風域を伴って近づくおそれがあります。沖縄・奄美では1日から猛烈な風が吹き、大雨になるおそれがあるほか、九州…</description>
+      <pubDate>Sun, 31 May 2026 22:55:54 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>サッカー日本代表 壮行試合でアイスランドに1対0で勝利</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015136691000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015136691000</guid>
+      <description>サッカー日本代表は、31日夜、東京で行われたワールドカップ北中米大会に向けた壮行試合でアイスランドと対戦し、後半の小川航基選手のゴールで1対0で勝ちました。</description>
+      <pubDate>Sun, 31 May 2026 23:17:36 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>4月のナフサ輸入量は減少も 代替調達先の米国からは209倍</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015136681000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015136681000</guid>
+      <description>中東情勢の影響が続く中、貿易統計によりますとことし4月の日本のナフサの輸入量は、中東からの輸入が大きく落ち込んだことから、去年の同じ月と比べて47％減少しました。一方、アメリカからの輸入量が209倍に…</description>
+      <pubDate>Sun, 31 May 2026 21:22:40 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>米大統領が覚書の修正要求か イスラエルはヒズボラへの攻撃も</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015136521000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015136521000</guid>
+      <description>アメリカとイランの協議の担当者が暫定的に一致したとされる覚書について、アメリカのメディアは、トランプ大統領が核問題に関する内容を修正するよう求めたと報じました。一方、イスラエル軍は隣国レバノンでイスラ…</description>
+      <pubDate>Sun, 31 May 2026 19:09:55 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>ロシア “ウクライナが原発を攻撃” ウクライナは否定</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015136671000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015136671000</guid>
+      <description>ロシア軍が占拠を続けるウクライナ南部のザポリージャ原子力発電所を巡りロシア側は、ウクライナの無人機による攻撃があり、タービン建屋の壁に穴が開いたと主張しました。一方、ウクライナ側は攻撃を否定しています…</description>
+      <pubDate>Sun, 31 May 2026 21:18:19 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>沖縄 宮古島 市内全域に高齢者等避難情報</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015136611000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015136611000</guid>
+      <description>沖縄県宮古島市は台風6号の接近に伴い31日午後5時、市内全域に高齢者等避難の情報を出しました。高齢者や体の不自由な人などに避難を始めるよう呼びかけています。</description>
+      <pubDate>Sun, 31 May 2026 19:51:31 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
