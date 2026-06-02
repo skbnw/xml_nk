@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>台風6号 徳島で土砂災害危険警報 関東甲信も線状降水帯おそれ</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015137661000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015137661000</guid>
+      <description>四国の沖合を進む台風6号の影響でこの時間、四国や東海で雨が強まっていて、徳島県南部では「レベル4土砂災害危険警報」が発表されているほか、気象庁は、高知県と徳島県では線状降水帯が発生する可能性が高まって…</description>
+      <pubDate>Tue, 02 Jun 2026 23:44:42 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>線状降水帯直前予測 高知中部と西部 徳島北部で発生おそれ</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015138771000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015138771000</guid>
+      <description>気象庁は午後8時53分、高知県の中部と西部、徳島県の北部では、3時間以内に線状降水帯が発生する可能性が高まっていると発表しました。</description>
+      <pubDate>Tue, 02 Jun 2026 21:31:51 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>気象庁 線状降水帯情報 発表システム不具合 “復旧までHPで”</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015138651000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015138651000</guid>
+      <description>3時間以内に線状降水帯が発生する可能性が高まっていることを知らせる「線状降水帯直前予測」と、「線状降水帯発生」の情報を発表するシステムについて、気象庁は不具合が起きていることを明らかにしました。システ…</description>
+      <pubDate>Tue, 02 Jun 2026 22:46:58 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>【台風被害・影響】各地でけが人 3日の臨時休校決めた自治体も</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015137841000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015137841000</guid>
+      <description>台風6号の影響で風にあおられて転倒するなどして沖縄県と鹿児島県でけが人が出ています。また台風の接近に伴い、3日の臨時休校を決めた自治体もあります。各地の被害や影響などをまとめています。</description>
+      <pubDate>Tue, 02 Jun 2026 19:51:06 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>【台風影響】3日も羽田発着便など欠航 新幹線も運休の可能性</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015137741000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015137741000</guid>
+      <description>台風6号の影響で、空の便は2日、九州地方を発着する便を中心に400便余りが欠航しました。3日も羽田空港を発着する便などで370便余りの欠航が決まっています。また新幹線は3日の始発から東海道新幹線の運行…</description>
+      <pubDate>Tue, 02 Jun 2026 23:15:59 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>首都圏の在来線 3日の始発から運休する路線【一覧あり】</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015138791000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015138791000</guid>
+      <description>3日は、台風6号の影響で首都圏の複数の在来線で運休が決まっているほか、始発から東海道新幹線の運行に影響が出る可能性があります。鉄道各社はホームページなどで最新の運行情報を確認するよう呼びかけています。</description>
+      <pubDate>Tue, 02 Jun 2026 21:59:22 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>徳島市 一部に避難指示</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015138901000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015138901000</guid>
+      <description>徳島市は台風の接近に伴い、川の氾濫の危険性が高まっているとして、2日午後11時半、上八万地区の一部の地域、あわせて165世帯344人に避難指示を出しました。5段階の警戒レベルのうち警戒レベル4の情報で…</description>
+      <pubDate>Tue, 02 Jun 2026 23:50:27 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
