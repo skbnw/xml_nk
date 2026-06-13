@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>米・イラン覚書“数日中に署名の可能性”双方が言及</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015148801000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015148801000</guid>
+      <description>アメリカとイランの戦闘終結に向けた協議をめぐり、双方の高官は、数日中に覚書について合意に至る可能性があると表明しました。覚書の内容についてトランプ政権の高官は、ホルムズ海峡の封鎖の解除などが含まれると…</description>
+      <pubDate>Sat, 13 Jun 2026 21:08:46 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>兵庫 西宮の住宅街近くでクマ目撃情報相次ぐ</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015149241000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015149241000</guid>
+      <description>12日の夜遅く、兵庫県西宮市の住宅街の近くでクマの目撃情報が2件相次ぎ、警察や市が住民に注意を呼びかけています。また、11日クマの姿が確認された神戸市北区の山林には13日、わなが設置されました。</description>
+      <pubDate>Sat, 13 Jun 2026 18:38:02 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>アンソロピック 最新AIモデルの提供を停止 米政府の命令受け</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015149041000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015149041000</guid>
+      <description>アメリカのAI新興企業「アンソロピック」は12日、アメリカ政府からの命令を受けてソフトウエアのぜい弱性を発見する能力が極めて高いとされるAIモデル「クロード・ミュトス5」などについて、すべての顧客への…</description>
+      <pubDate>Sat, 13 Jun 2026 18:00:08 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>【動画】水戸でひょうのような白い粒が激しく降る</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015149371000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015149371000</guid>
+      <description>13日の関東甲信は気温が上がり、真夏日となったところもありました。関東北部を中心に大気の状態が非常に不安定になっていて、13日夜遅くにかけて低い土地の浸水や急な川の増水に十分注意が必要です。水戸市では…</description>
+      <pubDate>Sat, 13 Jun 2026 19:13:56 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>高市首相 G7サミットなどへ出発 “G7連携し課題対応を主導”</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015149091000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015149091000</guid>
+      <description>高市総理大臣はフランスで開催されるG7サミット＝主要7か国首脳会議などに出席するため13日午後、羽田空港を出発しました。これに先立ち記者団に対し、G7が連携して国際社会の課題への対応を主導していく姿勢…</description>
+      <pubDate>Sat, 13 Jun 2026 15:21:31 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>北朝鮮外務省 “核保有国”認めぬ韓国とEUの共同声明へ反発</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015149421000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015149421000</guid>
+      <description>ヨーロッパを訪問中の韓国のイ・ジェミョン（李在明）大統領は10日、北朝鮮が核保有国として認められることはないなどとする共同声明を、EU＝ヨーロッパ連合と発表しました。これについて北朝鮮外務省は「韓国を…</description>
+      <pubDate>Sat, 13 Jun 2026 21:57:37 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>サッカーW杯 アメリカがパラグアイに快勝 バログンが2得点</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015149101000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015149101000</guid>
+      <description>サッカーワールドカップ北中米大会の1次リーグ、グループDの初戦、アメリカ対パラグアイはアメリカが4対1で勝ちました。</description>
+      <pubDate>Sat, 13 Jun 2026 15:50:48 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
