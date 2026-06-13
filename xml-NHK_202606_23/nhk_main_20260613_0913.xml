@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>米・イラン覚書“数日中に署名の可能性”双方が言及</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015148801000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015148801000</guid>
+      <description>アメリカとイランの戦闘終結に向けた協議をめぐり、トランプ政権の高官は12日、「今後数日中に覚書への署名を見込んでいる」と記者団に述べました。イラン側も、アラグチ外相が「数日以内に実現する可能性がある」…</description>
+      <pubDate>Sat, 13 Jun 2026 07:55:40 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>アンソロピック 最新AIモデルの提供を停止 米政府の命令受け</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015149041000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015149041000</guid>
+      <description>アメリカのAI新興企業「アンソロピック」は12日、アメリカ政府からの命令を受けてソフトウエアのぜい弱性を発見する能力が極めて高いとされるAIモデル「クロード・ミュトス5」などについて、すべての顧客への…</description>
+      <pubDate>Sat, 13 Jun 2026 18:00:08 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>気温上がり真夏日の予想 北日本と関東甲信は天気急変のおそれ</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015149081000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015149081000</guid>
+      <description>本州付近は広く高気圧に覆われて西日本や東日本では気温が上がり、真夏日のところもある見込みです。一方、上空の寒気などの影響で、北日本と関東甲信では天気が急変するおそれがあり、落雷や竜巻などの激しい突風、…</description>
+      <pubDate>Sat, 13 Jun 2026 11:51:30 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>高市首相 G7サミットなどへ出発 “G7連携し課題対応を主導”</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015149091000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015149091000</guid>
+      <description>高市総理大臣はフランスで開催されるG7サミット＝主要7か国首脳会議などに出席するため13日午後、羽田空港を出発しました。これに先立ち記者団に対し、G7が連携して国際社会の課題への対応を主導していく姿勢…</description>
+      <pubDate>Sat, 13 Jun 2026 15:21:31 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>自民 鈴木幹事長 終盤国会“皇室典範改正 優先で取り組む”</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015149231000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015149231000</guid>
+      <description>国会の会期末まで1か月余りとなる中、自民党の鈴木幹事長は、会期末までの皇室典範の改正などの実現に優先して取り組む考えを重ねて強調しました。</description>
+      <pubDate>Sat, 13 Jun 2026 17:50:51 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>全国で唯一自動改札機がなかった徳島県に自動改札機導入</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015149131000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015149131000</guid>
+      <description>全国の都道府県で唯一、自動改札機がなかった徳島県内にQRコードの読み取りに対応した自動改札機が導入され、13日から運用が始まりました。自動改札機の「空白県」が解消されたことになります。</description>
+      <pubDate>Sat, 13 Jun 2026 14:08:29 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>カブス 鈴木誠也 ツーベース2本1打点の活躍</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015149221000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015149221000</guid>
+      <description>大リーグ、カブスの鈴木誠也選手はジャイアンツ戦で先制のタイムリーツーベースなど2安打1打点の活躍で、チームの勝利に貢献しました。</description>
+      <pubDate>Sat, 13 Jun 2026 17:02:32 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
