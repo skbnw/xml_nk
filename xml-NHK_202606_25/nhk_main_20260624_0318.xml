@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>鹿児島県で線状降水帯が発生し猛烈な雨 九州南部 厳重警戒を</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015157571000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015157571000</guid>
+      <description>停滞する梅雨前線の影響で九州では雨雲が発達し、鹿児島県では昼前にかけて線状降水帯が発生し、猛烈な雨が降りました。九州南部では土砂災害や氾濫などの危険性が非常に高まり、レベル4の危険警報が発表されている…</description>
+      <pubDate>Wed, 24 Jun 2026 12:05:31 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>台風7号 沖縄の南の海上を進む あす以降 警報級の大雨のおそれ</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015157901000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015157901000</guid>
+      <description>強い台風7号は沖縄の南の海上を北寄りに進んでいます。沖縄県へは25日以降、暴風域を伴って接近する見込みで、大荒れや大しけ、警報級の大雨のおそれがあります。</description>
+      <pubDate>Wed, 24 Jun 2026 11:27:52 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>“日本人2人 先月 中国 大連で税関当局に拘束” 木原官房長官</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015158031000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015158031000</guid>
+      <description>木原官房長官は先月、中国の遼寧省大連で日本人2人が税関当局に拘束されたと明らかにしました。2人の健康状態に問題はないという報告を受けているとしたうえで、本人や関係者と連絡を取るなど適切に対応していく考…</description>
+      <pubDate>Wed, 24 Jun 2026 12:00:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>【大雨影響】熊本 増水した川で女性が流される 約50分後に救助</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015157861000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015157861000</guid>
+      <description>停滞する梅雨前線の影響で九州では非常に激しい雨が降っています。24日午前には、熊本県阿蘇市で増水した川に女性が流されました。およそ50分後に救助され、命に別状はないということです。被害の情報をまとめて…</description>
+      <pubDate>Wed, 24 Jun 2026 12:16:12 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>自民・中道国対委員長会談 中道“集中審議と参考人招致を”</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015158081000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015158081000</guid>
+      <description>高市総理大臣の陣営がほかの候補をひぼう中傷する動画を投稿したと週刊文春で報じられたことなどをめぐり、自民党と中道改革連合の国会対策委員長が会談し、中道は予算委員会の集中審議と高市総理大臣の秘書の参考人…</description>
+      <pubDate>Wed, 24 Jun 2026 12:03:17 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>サッカーW杯 日本代表が1次リーグ第3戦の地 米ダラスに到着</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015157921000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015157921000</guid>
+      <description>サッカーワールドカップ北中米大会、日本代表は1次リーグ第3戦のスウェーデン戦が行われるアメリカのダラスに入りました。</description>
+      <pubDate>Wed, 24 Jun 2026 10:39:11 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>サッカーW杯 イラン代表 第3戦は試合2日前に米入国が許可</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015157911000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015157911000</guid>
+      <description>サッカーワールドカップ北中米大会でイラン代表チームは、決勝トーナメント進出を目指して26日、アメリカ西部シアトルでエジプト代表と対戦します。</description>
+      <pubDate>Wed, 24 Jun 2026 11:39:48 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
