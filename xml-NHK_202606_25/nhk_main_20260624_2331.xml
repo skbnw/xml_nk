@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>【地震速報】青森県で震度6強 津波被害の心配なし</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015158201000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015158201000</guid>
+      <description>午前7時半ごろ、青森県で震度6強の揺れを観測する地震がありました。この地震で沿岸では若干の海面変動があるかもしれませんが被害の心配はありません。</description>
+      <pubDate>Thu, 25 Jun 2026 08:19:30 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>東北新幹線 東京～新青森の上下線と秋田新幹線で運転見合わせ</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015159011000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015159011000</guid>
+      <description>JR東日本によりますと、先ほどの地震の影響で、東北新幹線は東京駅と新青森駅の間の上下線で運転を見合わせているということです。運転の再開見込みは立っていないということです。</description>
+      <pubDate>Thu, 25 Jun 2026 08:07:33 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>【青森で震度6強】東北 北海道で長周期地震動 階級2観測</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015159091000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015159091000</guid>
+      <description>青森県で震度6強の揺れを観測した地震で、青森県と北海道、岩手県、宮城県、秋田県では長くゆっくりとした揺れ、長周期地震動の「階級2」が観測されました。</description>
+      <pubDate>Thu, 25 Jun 2026 08:06:06 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>【震度6強】木原官房長官 午前8時半から臨時の記者会見予定</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015159111000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015159111000</guid>
+      <description>今回の地震を受けて、政府は木原官房長官が午前8時半をメドに臨時の記者会見を行うと発表しました。</description>
+      <pubDate>Thu, 25 Jun 2026 08:10:55 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>八戸道 八戸IC～浄法寺IC 八戸JCT～下田百石IC 上下線通行止め</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015159121000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015159121000</guid>
+      <description>八戸自動車道は、青森県の八戸インターチェンジと岩手県の浄法寺インターチェンジの間、それに青森県の八戸ジャンクションと下田百石インターチェンジの間の上下線で地震のため午前7時半から通行止めになっています…</description>
+      <pubDate>Thu, 25 Jun 2026 08:17:13 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>震度6強 気象庁が午前9時半から記者会見へ</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015159051000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015159051000</guid>
+      <description>青森県で震度6強の揺れを観測した地震について気象庁は、午前9時半から記者会見を開き、今後の注意点や地震活動の状況などについて説明することにしています。</description>
+      <pubDate>Thu, 25 Jun 2026 08:01:37 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>九州北部で非常に激しい雨 昼前にかけ線状降水帯発生おそれ</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015158771000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015158771000</guid>
+      <description>停滞する梅雨前線の影響で九州北部では非常に激しい雨が降っていて、「レベル4土砂災害危険警報」が発表されている地域があります。九州北部では25日昼前にかけて線状降水帯が発生して、災害の危険度が急激に高ま…</description>
+      <pubDate>Thu, 25 Jun 2026 06:38:05 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
