@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>【地震情報】青森県で震度6強 「後発地震注意情報」発表せず</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015158201000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015158201000</guid>
+      <description>25日朝、岩手県沖を震源とするマグニチュード7.2の地震が発生し、青森県では震度6強や6弱の激しい揺れを観測しました。この地震に関して今後の巨大地震の発生に注意を呼びかける「北海道・三陸沖後発地震注意…</description>
+      <pubDate>Thu, 25 Jun 2026 12:07:40 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>梅雨前線で九州北部で雨降り続く 台風は北上 厳重警戒を</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015158771000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015158771000</guid>
+      <description>停滞する梅雨前線の影響で九州北部では雨が降り続き、「レベル4土砂災害危険警報」が発表されている地域があります。台風7号の北上に伴って西日本と東日本ではさらに雨量が増えるおそれがあるほか、沖縄・奄美では…</description>
+      <pubDate>Thu, 25 Jun 2026 10:39:57 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>【台風情報】台風7号 沖縄・奄美で暴風のおそれ 厳重警戒を</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015159351000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015159351000</guid>
+      <description>台風7号の北上に伴って西日本と東日本ではさらに雨量が増えるおそれがあるほか、沖縄・奄美では暴風のおそれがあり、厳重に警戒してください。</description>
+      <pubDate>Thu, 25 Jun 2026 10:38:17 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>青森県で震度6強 現地の被害・影響は</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015159131000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015159131000</guid>
+      <description>消防によりますと震度6強の揺れを観測した青森県内階上町と震度6弱を観測した八戸市では午前10時の時点で、あわせて4人がけがをしたということです。また、今回の地震を受けて、防衛省は自衛隊の航空機を揺れが…</description>
+      <pubDate>Thu, 25 Jun 2026 12:01:10 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>気象庁「後発地震注意情報」発表せず 今後も地震活動に注意を</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015159051000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015159051000</guid>
+      <description>今回の岩手県沖の地震に関して、気象庁は、地震の規模が基準を満たさなかったため、「北海道・三陸沖後発地震注意情報」を発表しませんでした。一方、呼びかけの有無にかかわらず、今回の震源周辺では規模の大きな地…</description>
+      <pubDate>Thu, 25 Jun 2026 11:49:28 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>山口 下関 木屋川と友田川の流域に避難指示</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015159341000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015159341000</guid>
+      <description>山口県下関市は、木屋川と友田川が氾濫する危険があるとして、25日午前9時45分にそれぞれの流域で避難指示を出しました。避難指示は、5段階の警戒レベルのうちレベル4にあたる情報で、危険な場所から全員避難…</description>
+      <pubDate>Thu, 25 Jun 2026 10:32:04 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>【交通影響】東北新幹線 秋田新幹線 一部で運転再開</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015159071000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015159071000</guid>
+      <description>午前7時半ごろ、青森県で震度6強の揺れを観測する地震がありました。この地震で沿岸では若干の海面変動があるかもしれませんが被害の心配はありません。交通への影響をまとめています。</description>
+      <pubDate>Thu, 25 Jun 2026 11:19:09 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
