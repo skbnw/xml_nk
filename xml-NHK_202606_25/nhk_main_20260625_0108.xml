@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>【地震速報】青森県で震度6強 津波被害の心配なし</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015158201000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015158201000</guid>
+      <description>午前7時半ごろ、青森県で震度6強の揺れを観測する地震がありました。この地震で沿岸では若干の海面変動があるかもしれませんが被害の心配はありません。</description>
+      <pubDate>Thu, 25 Jun 2026 10:02:57 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>九州北部で非常に激しい雨 昼前にかけ線状降水帯発生おそれ</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015158771000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015158771000</guid>
+      <description>停滞する梅雨前線の影響で九州北部では非常に激しい雨が降っていて、「レベル4土砂災害危険警報」が発表されている地域があります。九州北部では25日昼前にかけて線状降水帯が発生して、災害の危険度が急激に高ま…</description>
+      <pubDate>Thu, 25 Jun 2026 06:38:05 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>気象庁が会見“後発地震注意情報は発表しないが地震へ備えを”</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015159051000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015159051000</guid>
+      <description>25日午前7時半ごろ岩手県沖で発生したマグニチュード6.9の地震について、気象庁は午前9時半から会見を開いています。このなかで、海老田綾貴地震津波監視課長は「揺れの強かった地域では今後の地震や雨には十…</description>
+      <pubDate>Thu, 25 Jun 2026 09:56:39 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>【交通影響】東北新幹線 一部再開 秋田新幹線 運転見合わせ</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015159071000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015159071000</guid>
+      <description>午前7時半ごろ、青森県で震度6強の揺れを観測する地震がありました。この地震で沿岸では若干の海面変動があるかもしれませんが被害の心配はありません。交通への影響をまとめています。</description>
+      <pubDate>Thu, 25 Jun 2026 09:58:58 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>高市首相「災害応急対策に総力挙げ取り組む」</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015159181000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015159181000</guid>
+      <description>高市総理大臣は予定を早めて午前8時半ごろ、総理大臣官邸に入った際、記者団に対し「政府としては地震発生後、ただちに官邸危機管理センターに官邸対策室を設置し、関係省庁の局長級による緊急参集チームを招集し、…</description>
+      <pubDate>Thu, 25 Jun 2026 08:52:52 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>震度6弱 青森 八戸のスーパーでビンなど散乱 きょうは臨時休業</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015159231000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015159231000</guid>
+      <description>震度6弱の揺れを観測した青森県八戸市にあるスーパーが地震発生直後に撮影し、SNSに投稿した画像です。</description>
+      <pubDate>Thu, 25 Jun 2026 09:44:36 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>日経平均株価 一時2000円以上値上がり 7万1000円台に回復</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015159251000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015159251000</guid>
+      <description>25日の東京株式市場、日経平均株価は一時2000円以上値上がりし、7万1000円台を回復しています。24日に発表されたアメリカの半導体大手「マイクロンテクノロジー」の決算が好調だったことから、東京市場…</description>
+      <pubDate>Thu, 25 Jun 2026 09:31:12 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
