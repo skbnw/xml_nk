@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>台風8号 関東に接近 台風7号も西日本と東日本へ近づく</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015162281000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015162281000</guid>
+      <description>台風8号はこの時間、関東に最も接近していて、関東と静岡県では雨が強まり、レベル4土砂災害危険警報が発表されている地域があります。このあと台風7号も西日本と東日本へ近づくため、総雨量が多くなるおそれがあ…</description>
+      <pubDate>Sat, 27 Jun 2026 08:29:32 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>【被害まとめ】山梨で震度6弱 各地の被害状況は</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015161971000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015161971000</guid>
+      <description>山梨県富士河口湖町で震度6弱の揺れを観測した地震によって、各地で被害が確認されています。</description>
+      <pubDate>Sat, 27 Jun 2026 06:02:43 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>米軍“イラン軍事施設を攻撃” 前日の貨物船への攻撃受け</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015162291000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015162291000</guid>
+      <description>中東地域を管轄するアメリカ中央軍は26日、イランのミサイルや無人機の保管施設、それに沿岸部にあるレーダー施設を航空機で攻撃したと発表しました。前日の25日にホルムズ海峡を出ようとしていたシンガポール船…</description>
+      <pubDate>Sat, 27 Jun 2026 06:27:12 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>山口 平生町 住宅の裏山崩れ1人行方不明 3人けが</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015162131000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015162131000</guid>
+      <description>26日夜、山口県平生町で住宅の裏山が崩れて家の中に土砂が流れ込み、1人の行方が分からなくなっているほか、3人がけがをしました。山口県は救助活動のため、陸上自衛隊に災害派遣要請を行ったということです。</description>
+      <pubDate>Sat, 27 Jun 2026 06:49:09 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>【交通影響】鉄道の運休区間 高速道路 空の便は</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015162221000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015162221000</guid>
+      <description>台風8号と7号の接近に伴って局地的に雨が強まっています。27日の交通への影響をまとめています。</description>
+      <pubDate>Sat, 27 Jun 2026 07:33:25 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>ゼレンスキー大統領 ロシアに対する「40日間作戦」を承認</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015161801000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015161801000</guid>
+      <description>ウクライナのゼレンスキー大統領はウクライナ保安庁がロシアに対して40日間の作戦を行うことを承認したと明らかにし、一定の期間、作戦を強化することでロシアに戦闘の終結に向かうよう圧力をかけるねらいがあると…</description>
+      <pubDate>Sat, 27 Jun 2026 07:24:40 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>北京の高層ビルに小型機衝突か 当局発表なく詳細不明</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015162151000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015162151000</guid>
+      <description>中国の首都・北京の中心部で26日、小型機が高層ビルに衝突したとみられると複数の香港メディアが伝えました。ビルの周辺では多くの警察官が警戒に当たっていましたが、これまでのところ中国当局の発表はなく、詳し…</description>
+      <pubDate>Sat, 27 Jun 2026 07:23:57 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
