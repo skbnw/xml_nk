@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>【ライブ配信予定】サッカーW杯 森保監督が帰国後記者会見</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015166871000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015166871000</guid>
+      <description>森保監督はこのあと午後６時半から日本サッカー協会の宮本恒靖会長らとともに都内で会見を行う予定です。</description>
+      <pubDate>Thu, 02 Jul 2026 17:52:03 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>【動画】サッカーW杯 日本代表が帰国 ファンが出迎え</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015166851000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015166851000</guid>
+      <description>サッカーワールドカップ北中米大会の戦いを終えた日本代表が2日帰国し、羽田空港では森保一監督や日本選手初の5大会連続出場を果たした長友佑都選手らがファンの出迎えを受けました。</description>
+      <pubDate>Thu, 02 Jul 2026 17:32:35 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>台風9号が発生 今後の情報に注意</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015166891000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015166891000</guid>
+      <description>2日午前、日本のはるか南東の太平洋で台風9号が発生しました。気象庁は今後の情報に注意するよう呼びかけています。</description>
+      <pubDate>Thu, 02 Jul 2026 11:03:06 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>福岡 久留米 農業用ハウス10棟超壊れる 突風被害の可能性も</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015167061000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015167061000</guid>
+      <description>2日朝早く、福岡県久留米市で少なくとも10棟の農業用ハウスが壊れる被害が確認され、気象台は突風が発生した可能性があるとみて調べています。</description>
+      <pubDate>Thu, 02 Jul 2026 17:49:13 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>大手企業 夏のボーナス 初の100万円超 経団連調査</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015167251000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015167251000</guid>
+      <description>大手企業のこの夏のボーナスは、従業員1人当たりの平均で100万8000円余りと、去年の夏より1.88％増加し、今の方法で調査を始めた1981年以降、夏のボーナスとして初めて100万円を超えたことが分か…</description>
+      <pubDate>Thu, 02 Jul 2026 17:31:05 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>夏休み旅行者は去年より4.6％減少見通し</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015167201000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015167201000</guid>
+      <description>ことしの夏休み期間に旅行を検討している人は、去年より4.6％減るという見通しを大手旅行会社がまとめました。会社では、物価高や中東情勢が影響しているとみています。</description>
+      <pubDate>Thu, 02 Jul 2026 16:32:56 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>日印首脳会談 インドで2兆円超の事業創出へ</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015166401000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015166401000</guid>
+      <description>インドを訪問中の高市総理大臣は日本時間の2日午後、モディ首相と首脳会談を行いました。会談にあわせて両国の企業などによるおよそ120件の協力文書が交わされ、2兆円を超えるインドでの事業創出が発表される見…</description>
+      <pubDate>Thu, 02 Jul 2026 16:42:07 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
