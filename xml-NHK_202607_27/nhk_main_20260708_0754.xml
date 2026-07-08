@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>【地震速報】青森 岩手で震度３ 津波の心配なし</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015170371000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015170371000</guid>
+      <description>８日午後４時３５分ごろ地震がありました。この地震による津波の心配はありません。震源地は岩手県沖で震源の深さは４０キロ、地震の規模を示すマグニチュードは４．４と推定されます。各市町村の震度は以下のとおり…</description>
+      <pubDate>Wed, 08 Jul 2026 16:44:06 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>一連のオウム事件で捜査指揮 井上幸彦 元警視総監が死去 88歳</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015171901000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015171901000</guid>
+      <description>警視庁のトップとしてオウム真理教の一連の事件の捜査を指揮した、井上幸彦元警視総監が、今月、入院先の病院で亡くなりました。88歳でした。</description>
+      <pubDate>Wed, 08 Jul 2026 16:45:35 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>個人情報保護法改正案 参議院特別委員会で可決</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015171871000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015171871000</guid>
+      <description>AIの開発促進に向けて、個人情報を取得する際の規制を緩和することなどを盛り込んだ、個人情報保護法の改正案は、参議院の特別委員会で、自民・維新両党と国民民主党、チームみらいの賛成多数で可決されました。改…</description>
+      <pubDate>Wed, 08 Jul 2026 16:36:28 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>参院本会議 有人国境離島保全で改正法成立 6島を追加</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015171891000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015171891000</guid>
+      <description>国境に近い離島を無人島にしないよう、船や航空便の運賃を低く抑えるなどの支援策を盛り込んだ法律について、対象となる島を新たに6つ追加し、有効期限を10年間延長する改正法が、参議院本会議で成立しました。</description>
+      <pubDate>Wed, 08 Jul 2026 16:49:25 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>株価 大きく値下がり AIや半導体関連の過熱感が意識され</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015171681000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015171681000</guid>
+      <description>8日の東京株式市場、AIや半導体関連の株価の過熱感が意識され、日経平均株価は大きく値下がりしました。</description>
+      <pubDate>Wed, 08 Jul 2026 16:20:55 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>コメめぐり「需要に応じた生産」明記の改正食糧法が成立</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015171601000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015171601000</guid>
+      <description>コメについて生産者が「需要に応じた生産」に主体的に努力することを明記した改正食糧法が、8日の参議院本会議で可決され成立しました。</description>
+      <pubDate>Wed, 08 Jul 2026 16:03:59 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>【詳しく】ドジャース 大谷翔平20号HR 大リーグ通算300号到達</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015171641000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015171641000</guid>
+      <description>大リーグ、ドジャースの大谷翔平選手がロッキーズ戦で2試合連続となる今シーズン20号のホームランを打ち、大リーグ9年目で通算300号に到達しました。日本選手の300号到達は初めてです。</description>
+      <pubDate>Wed, 08 Jul 2026 15:14:24 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
