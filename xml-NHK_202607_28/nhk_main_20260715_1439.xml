@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>芥川賞に小砂川チトさん 直木賞に朝倉かすみさん</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015176901000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015176901000</guid>
+      <description>第175回芥川賞と直木賞の選考会が15日、都内で開かれ、芥川賞に小砂川チトさんの「ゾンビ回収婦」が、直木賞に朝倉かすみさんの「けんぐゎい」がそれぞれ選ばれました。</description>
+      <pubDate>Wed, 15 Jul 2026 22:51:52 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>ニチレイ サイバー攻撃を公表 外食企業や食品メーカーに影響</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015177751000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015177751000</guid>
+      <description>冷凍食品大手の「ニチレイ」でシステム障害が発生し、外食チェーンなどの間で商品の欠品などの影響が出ている問題で、会社はサイバー攻撃を受けたと公表しました。</description>
+      <pubDate>Wed, 15 Jul 2026 20:58:18 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>首相 国民会議の消費税減税議論 “8月頭ぐらいなら間に合う”</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015177561000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015177561000</guid>
+      <description>国会では、高市総理大臣と野党6党の党首による党首討論が行われました。高市総理大臣は、食料品の消費税減税をめぐり、来月はじめごろまでに超党派の「国民会議」で議論がまとまれば法整備などに向けた作業は間に合…</description>
+      <pubDate>Wed, 15 Jul 2026 19:50:06 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>皇室典範改正案 参議院で審議入り 委員会採決はあすに見送り</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015176941000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015176941000</guid>
+      <description>皇族数の確保に向けた皇室典範改正案が、15日、参議院で審議入りしました。改正案をめぐり、参議院自民党と立憲民主党の国会対策委員長が会談し、野党側が十分な審議を求めていることも踏まえ特別委員会での採決は…</description>
+      <pubDate>Wed, 15 Jul 2026 17:32:52 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>不祥事相次いだ東京大学附属病院を「東京大学病院」に変更へ</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015177821000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015177821000</guid>
+      <description>東京大学は医学部附属病院で相次いだ不祥事を受けて、ガバナンスを強化するため附属病院を本部直轄の組織に改編したうえで、名称を「東京大学病院」に変更することを公表しました。</description>
+      <pubDate>Wed, 15 Jul 2026 21:00:39 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>「線状降水帯直前予測」気象庁長官 “情報の普及や啓発必要”</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015177971000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015177971000</guid>
+      <description>大雨災害をもたらす線状降水帯について、気象庁は、3時間以内に発生する可能性が高まった場合、「線状降水帯直前予測」という情報をことしから発表しています。この情報のあと、線状降水帯が発生したと発表されるま…</description>
+      <pubDate>Wed, 15 Jul 2026 22:02:59 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>あすは北海道～九州で猛暑予想 北日本は今夜非常に激しい雨</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015176981000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015176981000</guid>
+      <description>15日は東北から九州の各地で猛暑日となり、38度以上の危険な暑さになったところも相次ぎました。16日は北海道を含めた広い範囲で猛烈な暑さとなる見込みで、熱中症対策を徹底してください。一方、台風9号から…</description>
+      <pubDate>Wed, 15 Jul 2026 22:24:04 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
