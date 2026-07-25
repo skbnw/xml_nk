@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>東海道新幹線 小田原～熱海再び運転見合わせ 雨量計規制値超え</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015186171000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015186171000</guid>
+      <description>JR東海によりますと、東海道新幹線は雨量計が規制値を超えたため、午後9時ごろから小田原駅と熱海駅の間の上下線で再び運転を見合わせています。</description>
+      <pubDate>Sat, 25 Jul 2026 21:19:34 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>山梨 笛吹市付近で記録的な大雨 災害の危険迫る</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015186061000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015186061000</guid>
+      <description>気象庁によりますと、山梨県の笛吹市付近では、レーダーによる解析で午後5時50分までの1時間におよそ110ミリの猛烈な雨が降ったとみられます。災害の危険が迫っていることから、気象庁は「記録的短時間大雨」…</description>
+      <pubDate>Sat, 25 Jul 2026 18:13:46 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>新潟 新発田の1890世帯 4543人に避難指示</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015186181000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015186181000</guid>
+      <description>新潟県新発田市は大雨による土砂災害の危険が高まっているとして、午後5時35分、山沿いの菅谷地区と加治地区、それに加治川地区のあわせて1890世帯、4543人に避難指示を出しました。避難指示は5段階の警…</description>
+      <pubDate>Sat, 25 Jul 2026 21:02:51 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>5日連続「酷暑日」で最長に 26日も各地猛暑予想 熱中症対策を</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015185701000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015185701000</guid>
+      <description>25日、東海と山梨県では最高気温40度以上の「酷暑日」となり、国内では5日連続と最も長くなりました。26日も危険な暑さになるところがあると予想されていて、熱中症対策を徹底してください。一方、湿った空気…</description>
+      <pubDate>Sat, 25 Jul 2026 20:04:04 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>東京 隅田川花火大会 2万発余が夏の夜空彩る</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015186031000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015186031000</guid>
+      <description>東京の夏の風物詩の1つ「隅田川花火大会」が25日夜に開かれ、2万発余りの色鮮やかな花火が夜空を彩りました。</description>
+      <pubDate>Sat, 25 Jul 2026 20:57:14 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>「クビアカツヤカミキリ」被害拡大 昨年度全国で3万7000本超</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015186041000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015186041000</guid>
+      <description>サクラやウメなどの木を食い荒らす特定外来生物の「クビアカツヤカミキリ」による被害が全国各地で相次いでいます。NHKが全国の自治体に被害について取材したところ、昨年度確認されただけで少なくとも3万700…</description>
+      <pubDate>Sat, 25 Jul 2026 20:30:57 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>相模原 障害者施設殺傷事件から10年を前に追悼式</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015186011000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015186011000</guid>
+      <description>相模原市の知的障害者施設で19人が殺害された事件から10年となるのを前に25日、市内で追悼式が行われました。</description>
+      <pubDate>Sat, 25 Jul 2026 20:25:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
