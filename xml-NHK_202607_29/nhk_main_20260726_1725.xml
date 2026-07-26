@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>【地震速報】鹿児島 阿久根で震度3 津波の心配なし</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015184621000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015184621000</guid>
+      <description>27日午前2時ごろ鹿児島県薩摩地方で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。</description>
+      <pubDate>Mon, 27 Jul 2026 02:21:43 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>新潟と富山で再び局地的に雨が強まる 土砂災害など厳重警戒</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015186311000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015186311000</guid>
+      <description>26日、新潟県や東北、北陸では大雨となり、関東でも局地的な雷雨となりました。新潟県と富山県では再び局地的に雨が強まり、新潟県糸魚川市付近では猛烈な雨が降ったとみられます。気象庁は、土砂災害などに厳重な…</description>
+      <pubDate>Mon, 27 Jul 2026 02:13:06 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>大相撲名古屋場所 安青錦が優勝 ことし初場所以来3回目</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015186751000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015186751000</guid>
+      <description>大相撲名古屋場所は千秋楽の26日、関脇 安青錦が、12勝3敗で並んだ大関 霧島、関脇 熱海富士との3人による優勝決定戦を制し、ことしの初場所以来、3場所ぶり3回目の優勝を果たしました。</description>
+      <pubDate>Sun, 26 Jul 2026 21:52:51 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>ゼレンスキー大統領“ロシアが北朝鮮兵士3万人 受け入れ準備”</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015186801000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015186801000</guid>
+      <description>ウクライナのゼレンスキー大統領は、ロシアが協力関係にある北朝鮮から追加で3万人の兵士を受け入れる準備を進めていると指摘しました。</description>
+      <pubDate>Sun, 26 Jul 2026 20:26:36 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>ヨーロッパ山火事拡大 フランスとスペインで30万人以上が避難</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015186461000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015186461000</guid>
+      <description>ヨーロッパでは、各地で山火事が発生して火が燃え広がっていて、フランスとスペインで合わせて30万人以上が避難する事態となっているほか、スペイン東部では1人が死亡しました。</description>
+      <pubDate>Sun, 26 Jul 2026 19:05:12 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>相模原 障害者施設殺傷事件から10年 多くの人が献花し追悼</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015186241000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015186241000</guid>
+      <description>相模原市の知的障害者施設で19人が殺害された事件から、10年となった26日、現場に再建された施設には多くの人が訪れ、花を手向けて犠牲になった人たちを追悼しました。</description>
+      <pubDate>Sun, 26 Jul 2026 18:12:31 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>フェンシング世界選手権 男子エペ 山田優が銅メダル</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015186831000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015186831000</guid>
+      <description>香港で行われているフェンシングの世界選手権、男子エペ個人で、山田優選手が2大会連続の銅メダルを獲得しました。</description>
+      <pubDate>Sun, 26 Jul 2026 21:28:36 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
