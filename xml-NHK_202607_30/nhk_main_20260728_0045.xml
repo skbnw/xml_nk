@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>【地震速報】鹿児島 薩摩地方で震度３</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015186931000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015186931000</guid>
+      <description>２８日午前９時３９分ごろ地震がありました。現在、震度３以上が観測されている地域は以下のとおりです。▼震度３が、鹿児島県薩摩地方。今後の情報に注意してください。</description>
+      <pubDate>Tue, 28 Jul 2026 09:42:03 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>株価 一時2000円以上値下がり NY市場 半導体関連の値下がりで</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015187711000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015187711000</guid>
+      <description>28日の東京株式市場、日経平均株価は一時、2000円以上値下がりしています。27日のニューヨーク株式市場で半導体関連の銘柄が値下がりしたことを受けて、東京市場でも売り注文が広がっています。</description>
+      <pubDate>Tue, 28 Jul 2026 09:27:25 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>東北～九州 局地的に非常に激しい雨 西日本中心に危険な暑さ</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015187561000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015187561000</guid>
+      <description>低気圧の影響などで、28日は東北から九州にかけての広い範囲で大気の状態が非常に不安定になり、局地的に非常に激しい雨が降って大雨になるおそれがあります。気象庁は土砂災害や低い土地の浸水などに警戒するよう…</description>
+      <pubDate>Tue, 28 Jul 2026 06:47:37 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>消費税減税 自民内税率1％案で進めるべきの意見も 首相判断へ</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015187501000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015187501000</guid>
+      <description>食料品の消費税減税をめぐり、超党派の「国民会議」の実務者会議では意見の一致に至らなかったと明記した中間とりまとめ案の修正案が示され、方向性は打ち出されませんでした。自民党内では、来年4月から2年間、税…</description>
+      <pubDate>Tue, 28 Jul 2026 05:11:24 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>ディズニーのチケット1万2000円超に 入園料値上げの動き相次ぐ</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015187511000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015187511000</guid>
+      <description>東京ディズニーランドとディズニーシーのチケットの料金が、最も混雑する時期でことし10月から初めて1万2000円を超えることになりました。全国のテーマパークでチケットの値上げの動きが続いています。</description>
+      <pubDate>Tue, 28 Jul 2026 08:45:05 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>米大統領「合意の可能性ある」 イランは妥協しない姿勢</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015187571000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015187571000</guid>
+      <description>アメリカのトランプ大統領は27日、イランとの協議をめぐり「合意にいたる可能性はある」と述べる一方、協議に進展がなければ再び軍事作戦に踏み切る考えを強調しました。イラン側も妥協しない姿勢を示していて、双…</description>
+      <pubDate>Tue, 28 Jul 2026 07:36:55 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>エディオン会長 ヤマダHDとの統合「対等の精神は譲れない」</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015187521000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015187521000</guid>
+      <description>家電量販店最大手の「ヤマダホールディングス」と経営統合に向けた協議を進める「エディオン」の久保允誉会長が、NHKのインタビューに応じました。この中で、統合協議について「対等の精神は譲れない」と強調した…</description>
+      <pubDate>Tue, 28 Jul 2026 06:59:30 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
