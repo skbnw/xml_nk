@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>【ライブ】熊本で震度7 気象庁が午後8時半から再び会見</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015188481000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015188481000</guid>
+      <description>熊本県で震度7の揺れを観測した地震について、気象庁は、午後8時半から再び、記者会見を開き、その後の地震活動や警戒点について説明することにしています。</description>
+      <pubDate>Tue, 28 Jul 2026 20:30:47 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>【速報】イオンモール熊本で爆発 「従業員と連絡取れず」</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015188721000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015188721000</guid>
+      <description>28日夕方、熊本県嘉島町にあるショッピングセンター「イオンモール熊本」で爆発があり、地元の消防によりますとけが人が出ているほか、多数の人が閉じ込められているということです。</description>
+      <pubDate>Tue, 28 Jul 2026 20:36:19 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>熊本で震度7 けが人多数 交通網遮断 被害全容つかめず</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015188221000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015188221000</guid>
+      <description>28日午後4時27分ごろ、熊本県熊本地方を震源とする地震があり、熊本県の宇城市と氷川町で震度7の揺れを観測しました。熊本県嘉島町にあるショッピングセンター「イオンモール熊本」で爆発があり、地元の消防に…</description>
+      <pubDate>Tue, 28 Jul 2026 20:21:04 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>熊本市の病院に搬送 少なくとも1人意識なし 50人以上のけが人</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015188851000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015188851000</guid>
+      <description>震度6強を観測した熊本市南区にある済生会熊本病院によりますと、午後7時半の時点で50人以上のけが人が搬送されていて、このうち少なくとも1人は意識がない状態だということです。</description>
+      <pubDate>Tue, 28 Jul 2026 20:41:09 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>東北から近畿 29日にかけ大雨のおそれ 熊本 雨の降り方に注意</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015187561000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015187561000</guid>
+      <description>低気圧の影響などで、東北から西日本にかけての広い範囲で大気の状態が非常に不安定になり、北陸では非常に激しい雨が降っています。夕方の地震で震度7の揺れを観測した熊本県など、九州北部では29日も日中の気温…</description>
+      <pubDate>Tue, 28 Jul 2026 19:47:17 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>熊本 氷川町 地震影響で少なくとも50人以上けがなどで搬送か</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015188641000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015188641000</guid>
+      <description>震度7を観測した熊本県氷川町にある八代北部地域医療センターによりますと、午後6時前の時点で、地震の影響で少なくとも50人以上がけがをして、搬送されるなどしているということです。</description>
+      <pubDate>Tue, 28 Jul 2026 20:07:03 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>トヨタ 福岡の3工場で稼働停止 ホンダも熊本の工場で稼働停止</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015188891000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015188891000</guid>
+      <description>トヨタ自動車は、今回の地震の影響で福岡県にある3つの工場で稼働を停止したと明らかにしました。従業員の安全確保や設備の安全点検を行うためだとしていて、取引先の部品メーカーの被害状況などについても確認を進…</description>
+      <pubDate>Tue, 28 Jul 2026 20:29:41 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
