@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>【地震情報】熊本県で震度5弱 津波の心配なし（22:19）</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015190171000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015190171000</guid>
+      <description>29日午後10時19分ごろ、熊本県の天草・芦北地方を震源とする地震があり震度5弱の揺れを観測しました。この地震による津波の心配はありません。</description>
+      <pubDate>Wed, 29 Jul 2026 23:04:22 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>【震度5弱】川内原発 玄海原発 伊方原発 異常なし</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015190181000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015190181000</guid>
+      <description>原子力規制庁によりますと、鹿児島県薩摩川内市にある九州電力の川内原子力発電所は1号機と2号機が運転中で、地震による異常は確認されていないということです。佐賀県玄海町にある九州電力の玄海原発は3号機が定…</description>
+      <pubDate>Wed, 29 Jul 2026 22:52:30 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>【地震情報】熊本県熊本地方で震度4  津波の心配なし（23:02）</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015190201000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015190201000</guid>
+      <description>２９日午後１１時２分ごろ地震がありました。この地震による津波の心配はありません。震源地は熊本県熊本地方で震源の深さは１０キロ、地震の規模を示すマグニチュードは４．３と推定されます。各市町村の震度は以下…</description>
+      <pubDate>Wed, 29 Jul 2026 23:08:10 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>【熊本被害情報】12人死亡 6人心肺停止 少なくとも4人安否不明</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015189221000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015189221000</guid>
+      <description>熊本県によりますと、29日午後7時の時点で、今回の地震による死者が12人、心肺停止の状態が6人で、けが人は64人にのぼっています。また、安否不明となっている人が少なくとも4人いるということです。</description>
+      <pubDate>Wed, 29 Jul 2026 22:51:07 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>イオン 3人死亡1人心肺停止明らかに 「夏休みで約3000人来店」</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015189531000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015189531000</guid>
+      <description>「イオンモール熊本」で起きた地震のあとの爆発について、イオンの吉田昭夫社長らが29日午後、熊本市内で会見し、爆発によっていずれもテナントの従業員の3人が死亡、1人が心肺停止、3人が安否不明になっている…</description>
+      <pubDate>Wed, 29 Jul 2026 19:26:53 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>日本製紙 八代工場で5人死亡 2人けが 4人が安否不明</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015189721000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015189721000</guid>
+      <description>熊本県によりますと、今回の地震で煙突が倒壊するなどの被害が出た八代市の日本製紙の八代工場では、29日午後2時の時点で11人が閉じ込められ、7人が救助されました。救助された7人のうち5人が死亡し、2人が…</description>
+      <pubDate>Wed, 29 Jul 2026 21:21:19 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>【29日】熊本で震度7 同程度地震に1週間ほど注意 熱中症対策を</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015189251000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015189251000</guid>
+      <description>28日、熊本県熊本地方でマグニチュード7.1の大地震が発生して熊本県の宇城市と氷川町で震度7の揺れを観測し、大きな被害が出ています。29日午後10時19分ごろにも震度5弱の揺れを観測する地震が発生する…</description>
+      <pubDate>Wed, 29 Jul 2026 23:24:37 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
