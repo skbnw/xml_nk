@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>熊本地震 関連調査中含め34人死亡 県災害対策本部が発表</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015190421000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015190421000</guid>
+      <description>熊本県は30日午後4時から6回目の災害対策本部会議を開き、災害との関連を調査している人を含めて34人が死亡したと発表しました。</description>
+      <pubDate>Thu, 30 Jul 2026 20:13:56 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>食料品消費税 来年4月から2年間 1％ 高市首相が役員会で表明</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015190631000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015190631000</guid>
+      <description>食料品の消費税減税をめぐり、高市総理大臣は自民党の臨時役員会に出席し、来年4月から2年間、税率を1％に引き下げ、あわせて中低所得の人への給付を行い実質ゼロとする方針を表明しました。その上で来月上旬まで…</description>
+      <pubDate>Thu, 30 Jul 2026 20:50:06 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>横浜市長が重大なパワハラ行為 外部調査委員が認定</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015190641000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015190641000</guid>
+      <description>横浜市の山中市長がパワハラが疑われる言動を繰り返したとする幹部職員の訴えを受け、事実関係を調査していた外部の調査委員は、30日に報告書を公表し、不適切な言動を日常的に行う看過できない重大なパワハラ行為…</description>
+      <pubDate>Thu, 30 Jul 2026 18:49:34 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>プロ野球 広島カープ 矢野選手と前川選手の自宅など警察が捜索</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015190911000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015190911000</guid>
+      <description>プロ野球、広島は矢野雅哉選手と前川誠太選手の自宅などが警察の捜索を受けたと明らかにしました。球団は「捜査に全面的に協力する」とコメントしています。</description>
+      <pubDate>Thu, 30 Jul 2026 19:19:02 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>熊本県や八代市など管理の9港 液状化や亀裂などの被害 国交省</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015191251000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015191251000</guid>
+      <description>国土交通省のまとめによりますと、震度4以上の揺れを観測した熊本県、長崎県、福岡県、佐賀県、鹿児島県の99の港のうち、熊本県や八代市などが管理するあわせて9つの港が液状化や亀裂などの被害を受けたというこ…</description>
+      <pubDate>Thu, 30 Jul 2026 21:25:41 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>【熊本地震 企業影響 30日】半導体関連 稼働再開の動きも</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015190621000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015190621000</guid>
+      <description>今回の地震の影響で、熊本県など九州にある大手メーカーの工場では操業に影響が出ています。</description>
+      <pubDate>Thu, 30 Jul 2026 20:55:01 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>熊本地震 日本赤十字社が31日から義援金の受け付け開始</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015191191000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015191191000</guid>
+      <description>今回の地震で日本赤十字社は31日から義援金の受け付けを始めます。</description>
+      <pubDate>Thu, 30 Jul 2026 21:02:28 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
