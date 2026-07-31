@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>【被害状況】熊本地震 関連調査中含め35人死亡 熊本県発表</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015191421000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015191421000</guid>
+      <description>熊本県は、31日午前7時半時点で今回の地震で県内では災害との関連を調査している人も含めて死者が35人になったと発表しました。</description>
+      <pubDate>Fri, 31 Jul 2026 09:40:02 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>円相場 一時1ドル=157円台まで値上がり 市場介入との見方</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015191381000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015191381000</guid>
+      <description>外国為替市場では、30日夜、円相場がおよそ5円、円高方向に動いて1ドル＝157円台まで値上がりし、市場では政府・日銀が市場介入に踏み切ったのではないかという見方が強まっています。</description>
+      <pubDate>Fri, 31 Jul 2026 09:55:11 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>米大統領 “ハマスの武装解除で合意”とSNS投稿 BBCも報じる</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015191691000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015191691000</guid>
+      <description>パレスチナ・ガザ地区での和平計画をめぐり、アメリカのトランプ大統領は、30日、SNSに「ガザ地区の暫定的な統治を監督する『平和評議会』がハマスの完全な武装解除で、歴史的な合意に至った」と投稿しました。</description>
+      <pubDate>Fri, 31 Jul 2026 09:56:51 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>熊本で震度7 同程度の地震に注意 きょうは猛烈な暑さに</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015191461000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015191461000</guid>
+      <description>28日に最大震度7の揺れを観測し、大きな被害が出ている熊本県では地震活動が活発な状態が続いています。気象庁は1週間ほどは最大震度7程度の地震に注意するよう呼びかけています。また、熊本県では31日は各地…</description>
+      <pubDate>Fri, 31 Jul 2026 05:42:46 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>イオンモール熊本 取り残された人いないか 警察の捜索続く</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015191471000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015191471000</guid>
+      <description>地震後に大規模な爆発が起きた熊本県嘉島町の「イオンモール熊本」では31日も、取り残された人がいないかを確認するため、警察による捜索が行われています。</description>
+      <pubDate>Fri, 31 Jul 2026 07:10:12 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>東～西日本中心に危険な暑さ 熊本県内も猛烈な暑さ予想</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015191291000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015191291000</guid>
+      <description>31日も東日本と西日本を中心に危険な暑さになる見込みです。熊本県の地震の被災地では30日より気温が高く猛烈な暑さになると予想されていて、熱中症を防ぐためにできるかぎりの対策を行ってください。</description>
+      <pubDate>Fri, 31 Jul 2026 06:09:15 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>株価 一時3200円以上値上がり AI・半導体市場拡大への期待</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015191661000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015191661000</guid>
+      <description>31日の東京株式市場、日経平均株価は一時、3200円以上値上がりしています。アメリカのIT大手「マイクロソフト」が発表した先月までの3か月間の決算が大幅な増益となったことを受けて、AIや半導体の市場拡…</description>
+      <pubDate>Fri, 31 Jul 2026 09:36:26 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
