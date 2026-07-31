@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>【被害状況】熊本地震 関連調査中含め36人死亡 熊本県発表</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015191421000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015191421000</guid>
+      <description>熊本県は、31日午後7時時点で、今回の地震で県内では死者が1人増えて36人になったと発表しました。災害との関連を調査している死者が1人から2人になったということです。</description>
+      <pubDate>Fri, 31 Jul 2026 21:38:49 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>九州新幹線 熊本～新水俣間「8月中の運転再開は困難」JR九州</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015192431000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015192431000</guid>
+      <description>JR九州は今回の地震の影響で熊本駅と鹿児島中央駅の間で運行を取りやめている九州新幹線について、線路や橋りょうに大きな破損が確認された熊本駅と新水俣駅間の8月中の運行再開は困難だと発表しました。一方で、…</description>
+      <pubDate>Fri, 31 Jul 2026 19:44:06 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>日銀 政策金利を1％程度に据え置き決定</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015191761000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015191761000</guid>
+      <description>日銀は、31日まで開いた金融政策決定会合で、今の政策を維持することを決めました。6月、利上げに踏み切ったばかりで、家計や企業への影響を見極める必要があると判断したとみられます。</description>
+      <pubDate>Fri, 31 Jul 2026 18:56:07 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>熊本 災害拠点病院では 被災病院の患者受け入れに追われる</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015192821000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015192821000</guid>
+      <description>災害拠点病院に指定されている熊本市の病院では、被災した病院からの患者の受け入れに追われています。</description>
+      <pubDate>Fri, 31 Jul 2026 21:24:06 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>被災地外のホテル・旅館の空室活用で避難生活環境改善を 首相</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015192811000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015192811000</guid>
+      <description>今回の地震を受けて高市総理大臣は、避難生活の環境を早期に改善するため、被災地の外にあるホテルや旅館の空室を積極的に活用していく考えを示しました。</description>
+      <pubDate>Fri, 31 Jul 2026 21:08:43 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>“原発建て替え 2040年代までに最大5基”政府が正式決定</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015192391000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015192391000</guid>
+      <description>政府は、2040年代までに最大で5基の原子力発電所を建て替える必要があるとする見通しを盛り込んだ、今後の原子力政策の方針を正式に決定しました。電力需要の増加が見込まれる中、老朽化した原発を新しくするこ…</description>
+      <pubDate>Fri, 31 Jul 2026 21:38:21 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>福島 須賀川 7月30日に住宅など30棟被害 気象台調査“突風か”</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015192791000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015192791000</guid>
+      <description>7月30日、福島県須賀川市の住宅や倉庫などあわせて30棟で、屋根の一部が飛ばされるなどの被害が出ました。気象台は現地調査を行い、突風による被害とみています。</description>
+      <pubDate>Fri, 31 Jul 2026 21:06:55 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
