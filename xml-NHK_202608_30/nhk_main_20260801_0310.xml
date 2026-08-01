@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>熊本地震 関連調査中含め36人死亡 9200人余りが避難 県発表</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015193131000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015193131000</guid>
+      <description>熊本県は今回の地震で県内では災害との関連を調査している2人を含めて36人が死亡し、9200人余りが避難していると発表しました。県内では猛烈な暑さが続くと予想され、県は飲料水の確保や避難所での暑さ対策を…</description>
+      <pubDate>Sat, 01 Aug 2026 11:59:45 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>千葉 市川 マンション爆発2人けが 周辺の建物にも被害</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015193241000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015193241000</guid>
+      <description>千葉県市川市のマンションで爆発があり、2人がけがをしました。爆発のあとにガスのにおいがしたという情報があるということで、警察が状況を調べています。</description>
+      <pubDate>Sat, 01 Aug 2026 11:54:01 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>【地震速報】青森県などで震度4(11:48)</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015193381000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015193381000</guid>
+      <description>１日午前１１時４８分ごろ地震がありました。現在、震度３以上が観測されている地域は以下のとおりです。▼震度４が、渡島東部、津軽北部、青森県三八上北、青森県下北、岩手県内陸北部。▼震度３が、石狩南部、胆振…</description>
+      <pubDate>Sat, 01 Aug 2026 11:56:36 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>熊本で震度7 活発な地震活動続く 猛暑予想 熱中症対策を</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015193161000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015193161000</guid>
+      <description>先月28日、最大震度7の非常に激しい揺れを観測した熊本県ではその後も地震活動が続いていて、気象庁は引き続き最大震度7程度の揺れに注意するよう呼びかけています。熊本県では日中、猛烈な暑さが続き、3日以降…</description>
+      <pubDate>Sat, 01 Aug 2026 11:58:09 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>広い範囲で危険な暑さ 熊本被災地でも猛暑日に 熱中症対策を</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015193191000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015193191000</guid>
+      <description>西日本と東日本では1日、広い範囲で38度以上の危険な暑さとなり、熊本県の地震の被災地でも31日より気温が高くなると予想されています。熱中症を防ぐためにできるかぎりの対策を行ってください。一方、前線や湿…</description>
+      <pubDate>Sat, 01 Aug 2026 09:58:48 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>【台風13号】非常に強い勢力で西へ 小笠原は3日ごろから影響か</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015193351000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015193351000</guid>
+      <description>気象庁によりますと、台風13号は1日午前9時に「非常に強い」勢力となり、南鳥島近海を1時間に20キロの速さで西北西へ進んでいます。中心気圧は925ヘクトパスカル、中心付近の最大風速は50メートル、最大…</description>
+      <pubDate>Sat, 01 Aug 2026 12:05:17 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>「今週末にもイランへの攻撃計画か」米の複数メディアが報道</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015193371000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015193371000</guid>
+      <description>アメリカのメディアはトランプ政権が、この週末にも、イスラエルとともにイランの複数のエネルギー関連施設に対する攻撃を計画していると報じました。これに対しイランの高官は、「大規模な反撃計画を用意している」…</description>
+      <pubDate>Sat, 01 Aug 2026 11:57:36 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
