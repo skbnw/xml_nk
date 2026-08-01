@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>熊本地震 関連調査中含め36人死亡 9500人余りが避難 県発表</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015193131000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015193131000</guid>
+      <description>熊本県は、7月31日午後7時時点で、今回の地震で県内では災害との関連を調査している2人を含めて36人が死亡し、9500人余りが避難していることなどを発表しました。</description>
+      <pubDate>Sat, 01 Aug 2026 05:52:48 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>広い範囲で危険な暑さ 熊本被災地でも猛暑日に 熱中症対策を</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015193191000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015193191000</guid>
+      <description>西日本と東日本では1日、広い範囲で38度以上の危険な暑さとなり、熊本県の地震の被災地でも31日より気温が高くなると予想されています。熱中症を防ぐためにできるかぎりの対策を行ってください。一方、前線や湿…</description>
+      <pubDate>Sat, 01 Aug 2026 09:41:53 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>千葉 市川 マンションで爆発 2人病院搬送</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015193241000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015193241000</guid>
+      <description>1日午前6時半ごろ、千葉県市川市のマンションで爆発があり、警察によりますと、これまでに2人が病院に搬送されたということです。警察が詳しい状況を調べています。</description>
+      <pubDate>Sat, 01 Aug 2026 09:35:11 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>世界の広い地域で10月まで高温予想 国連が強い危機感</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015193221000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015193221000</guid>
+      <description>国連のグテーレス事務総長は世界のほとんどの地域で、今後3か月の間（8～10月）平年より気温が高くなることが予想されるとして、暑さによる死者の増加や飢餓の深刻化などの社会的影響に強い危機感を示すとともに…</description>
+      <pubDate>Sat, 01 Aug 2026 09:27:21 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>LINEヤフーに総務省が行政指導 利用者に関する情報流出で</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015192861000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015192861000</guid>
+      <description>LINEヤフーが運営するスマートフォン向けゲームの利用者に関する情報が流出していた問題で、総務省は31日、会社に対して行政指導を行いました。</description>
+      <pubDate>Sat, 01 Aug 2026 09:44:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>熊本で震度7 同程度の地震注意 猛暑予想 熱中症対策を</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015193161000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015193161000</guid>
+      <description>先月28日、最大震度7の揺れを観測した熊本県ではその後も地震活動が続いていて、気象庁は1週間ほどは最大震度7程度の地震に注意するよう呼びかけています。熊本県では来週にかけて危険な暑さが予想されていて、…</description>
+      <pubDate>Sat, 01 Aug 2026 07:09:38 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>円相場 再び急激な円買い 米財務省が市場介入の可能性伝達</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015193171000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015193171000</guid>
+      <description>外国為替市場では日本時間の31日夕方からけさ早くにかけて短時間で急激に円が買われる場面が相次ぎ、一時、1ドル＝157円台前半とおよそ2か月半ぶりの円高水準をつけました。アメリカ財務省が複数の銀行に対し…</description>
+      <pubDate>Sat, 01 Aug 2026 06:35:27 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
