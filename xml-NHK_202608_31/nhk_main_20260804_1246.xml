@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>熊本地震1週間 38人死亡 断水は今月末までに応急復旧の見込み</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015195471000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015195471000</guid>
+      <description>熊本県で最大震度7を観測した地震から4日で1週間です。これまでに災害関連死の疑いがある人などを含めて38人が死亡し、避難所には7500人余りが避難しています。一方、4万4000戸以上で続いている断水に…</description>
+      <pubDate>Tue, 04 Aug 2026 21:35:04 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>イオンモール熊本で働く男性 爆発が起きた時の状況を話す</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015196321000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015196321000</guid>
+      <description>7人が死亡した熊本県嘉島町の「イオンモール熊本」で、爆発が起きた時に建物の1階にいたという男性が取材に応じ、当時の内部の状況が明らかになりました。</description>
+      <pubDate>Tue, 04 Aug 2026 20:47:20 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>熊本地震“冷房使えず指定避難所開設できず”少なくとも23か所</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015196381000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015196381000</guid>
+      <description>多くの人が暑さの中での避難生活を余儀なくされる中、熊本県内で震度7と震度6強の揺れを観測した8つの市と町では、指定していた避難所のうち少なくとも23か所で、停電でエアコンが使えなかったりもともと設置さ…</description>
+      <pubDate>Tue, 04 Aug 2026 21:27:13 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>台風13号 小笠原諸島が暴風域 沖縄・奄美は5日から厳重警戒を</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015195361000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015195361000</guid>
+      <description>大型で非常に強い台風13号は、小笠原諸島を暴風域に巻き込みながら西へ進んでいて、小笠原諸島では5日にかけて高波に厳重に警戒してください。その後、台風は西へ進み、沖縄・奄美では5日から9日の日曜日ごろに…</description>
+      <pubDate>Tue, 04 Aug 2026 20:54:53 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>安保3文書の有識者会議 経済的威圧に対処 法整備求める意見も</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015196301000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015196301000</guid>
+      <description>安全保障関連の3文書の改定に向けた政府の有識者会議が開かれ、中国による重要鉱物の輸出規制を念頭に、出席者から、経済的な威圧を受けた場合に対処するための法整備を求める意見などが出されました。</description>
+      <pubDate>Tue, 04 Aug 2026 20:59:59 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>トヨタ 今年度の業績見通しを上方修正 営業利益は3兆4000億円</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015195831000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015195831000</guid>
+      <description>トヨタ自動車は今年度1年間の業績見通しについて、営業収益をこれまでの51兆円から54兆円に、営業利益を3兆円から3兆4000億円にそれぞれ上方修正しました。想定する為替レートを円安方向に変更したことや…</description>
+      <pubDate>Tue, 04 Aug 2026 19:48:31 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>ロッテ 益田直也投手が250セーブ プロ野球史上5人目</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015196401000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015196401000</guid>
+      <description>プロ野球、ロッテの益田直也投手が4日、千葉市のZOZOマリンスタジアムで行われた西武戦で、プロ野球史上5人目となる通算250セーブを達成しました。</description>
+      <pubDate>Tue, 04 Aug 2026 21:24:14 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
