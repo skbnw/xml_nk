@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>大型の台風15号が発生 今後の情報に注意を</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015197301000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015197301000</guid>
+      <description>5日午後、日本のはるか南東の海上で大型の台風15号が発生しました。気象庁は、今後の情報に注意するよう呼びかけています。</description>
+      <pubDate>Wed, 05 Aug 2026 17:44:28 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>台風13号沖縄接近へ 影響長引くおそれ 熱中症対策も徹底を</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015196631000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015196631000</guid>
+      <description>大型で非常に強い台風13号は、6日以降、強い勢力で沖縄・奄美に近づく見込みで、沖縄を中心に風や雨などの影響が長引くおそれがあり、早めに対策を終えるようにしてください。一方、6日も西日本を中心に気温が上…</description>
+      <pubDate>Wed, 05 Aug 2026 21:59:38 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>イオンモール熊本 “LPガス爆発の可能性高い”経産省など調査</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015197391000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015197391000</guid>
+      <description>熊本県嘉島町の「イオンモール熊本」で起きた大規模な爆発をめぐって、経済産業省は警察や消防などとともに現場で調査を行った結果、施設に供給されていたLPガスの爆発である可能性が高いという認識で一致したと明…</description>
+      <pubDate>Wed, 05 Aug 2026 21:49:45 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>高校野球 第1試合 仙台育英が札幌日大に勝利 2回戦へ</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015197431000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015197431000</guid>
+      <description>夏の全国高校野球が甲子園球場で開幕し、開会式直後の第1試合は宮城の仙台育英高校が南北海道の札幌日大高校に3対1で勝って2回戦に進みました。</description>
+      <pubDate>Wed, 05 Aug 2026 22:53:01 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>AI 実在の人標的にメッセージ“自律的に人だますリスク”</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015197651000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015197651000</guid>
+      <description>イギリスの研究機関はアメリカ企業のAIモデルの性能テストを実施していたところ、偽のアカウントを作ったり、実在する人を標的にメッセージを送ったりして不正アクセスを行おうとしたと明らかにし「自律的に人をだ…</description>
+      <pubDate>Wed, 05 Aug 2026 23:33:07 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>食料品消費税減税 政府が基本方針決定 来年4月から2年間1％に</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015197191000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015197191000</guid>
+      <description>食料品の消費税減税について、政府は、5日の臨時閣議で、来年4月から2年間、税率を1％に引き下げるなどとした基本方針を決定しました。決定された基本方針では、中低所得の人などの税や社会保険料の負担軽減を図…</description>
+      <pubDate>Wed, 05 Aug 2026 22:02:02 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>米 ベッセント財務長官 “協調介入は象徴的な意味合い”</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015196511000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015196511000</guid>
+      <description>アメリカのベッセント財務長官がNHKの単独インタビューに応じました。日米の通貨当局が歴史的な円安を阻止するために先週、実施した円買いの協調介入について、日米連携の象徴的な意味合いだったと述べたうえで、…</description>
+      <pubDate>Wed, 05 Aug 2026 22:05:21 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
