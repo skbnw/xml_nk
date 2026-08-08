@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>台風13号 影響は長時間続く 警戒を 台風15号の動きは?</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015199841000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015199841000</guid>
+      <description>大型で非常に強い台風13号は、沖縄本島の西の海上を進んでいます。沖縄・奄美では風や雨の影響が長時間続いていて、土砂災害などに厳重な警戒を続けてください。</description>
+      <pubDate>Sat, 08 Aug 2026 20:11:52 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>大気不安定 新潟 岩手 青森 富山に記録的短時間大雨 厳重警戒</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015200211000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015200211000</guid>
+      <description>北日本から西日本にかけての広い範囲で、大気の状態が非常に不安定になり局地的に雨雲が発達しています。新潟県や岩手県、青森県では猛烈な雨が降ったとみられ、「記録的短時間大雨」の気象防災速報が相次いで発表さ…</description>
+      <pubDate>Sat, 08 Aug 2026 19:05:42 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>「韓国サッカー協会が外国人審判員に性的接待」韓国メディア</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015200271000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015200271000</guid>
+      <description>韓国のサッカー協会が、代表チームの国際試合を担当した日本を含む外国の審判員などに「性的な接待を行っていた」と複数のメディアが伝え、協会は8日、組織運営に批判が高まっていることなどを含め、一連の騒動を謝…</description>
+      <pubDate>Sat, 08 Aug 2026 18:38:23 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>お盆休みで下りの混雑ピーク 高速道路や新幹線は</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015199951000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015199951000</guid>
+      <description>お盆休みをふるさとや行楽地で過ごす人たちの混雑は、8日がピークです。新幹線の下りでは多くの列車が満席となったほか、高速道路も各地で渋滞が発生しています。</description>
+      <pubDate>Sat, 08 Aug 2026 19:49:38 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015200151000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015200151000</guid>
+      <description>生成AIの「ChatGPT」の開発を手がけるアメリカのオープンAIは、AIモデル「アストラ」の開発の一時中断を7日、発表しました。理由について、AIの能力が大幅に向上し、みずからの判断で重大なサイバー…</description>
+      <pubDate>Sat, 08 Aug 2026 15:10:11 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>熊本地震 死者1人増 災害関連死の疑い1人含め 死者39人に</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015199981000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015199981000</guid>
+      <description>熊本県は8日午後2時の時点で、今回の地震による死者はあわせて39人と発表しました。この中には災害関連死の疑いがある1人と死亡した経緯などを詳しく調査している2人が含まれています。また、避難所には635…</description>
+      <pubDate>Sat, 08 Aug 2026 19:08:46 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>高校野球 夏の甲子園 第4試合 英明と関東第一 5回終え同点</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015200321000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015200321000</guid>
+      <description>夏の全国高校野球、大会4日目の第4試合、香川の英明高校と東東京の関東第一高校の試合は5回を終えて1対1の同点です。</description>
+      <pubDate>Sat, 08 Aug 2026 20:17:51 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
