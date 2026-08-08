@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース|国際</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>米議会上院 新司法長官にトランプ大統領指名のブランチ氏承認</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260809de42888</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260809de42888</guid>
+      <description>アメリカの議会上院は、新たな司法長官としてトランプ大統領が指名したブランチ氏を承認し、就任が正式に決まりました。ブランチ氏は、かつてトランプ大統領の弁護人を務めていて、アメリカメディアは司法の独立性が…</description>
+      <pubDate>Sun, 09 Aug 2026 05:17:27 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>「韓国サッカー協会が外国人審判員に性的接待」韓国メディア</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260808de42863</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260808de42863</guid>
+      <description>韓国のサッカー協会が代表チームの国際試合を担当した日本を含む外国の審判員などに「性的な接待を行っていた」と複数のメディアが伝え、協会は8日、組織運営に批判が高まっていることなどを含め一連の騒動を謝罪し…</description>
+      <pubDate>Sun, 09 Aug 2026 01:55:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
