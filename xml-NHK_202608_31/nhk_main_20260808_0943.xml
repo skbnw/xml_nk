@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>台風13号 暴風など長時間続く 厳重警戒を【中継映像も】</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015199841000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015199841000</guid>
+      <description>大型で非常に強い台風13号は、沖縄本島の西の海上を進んでいて久米島などが暴風域に入っています。沖縄・奄美では風や雨の影響が長時間続いていて暴風などに厳重な警戒を続けてください。</description>
+      <pubDate>Sat, 08 Aug 2026 18:11:19 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>大気不安定 新潟 岩手 青森に記録的短時間大雨 厳重警戒を</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015200211000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015200211000</guid>
+      <description>北日本から西日本にかけての広い範囲で、大気の状態が非常に不安定になり局地的に雨雲が発達しています。新潟県や岩手県、青森県では猛烈な雨が降ったとみられ、「記録的短時間大雨」の気象防災速報が相次いで発表さ…</description>
+      <pubDate>Sat, 08 Aug 2026 18:19:23 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015200151000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015200151000</guid>
+      <description>生成AIの「ChatGPT」の開発を手がけるアメリカのオープンAIは、AIモデル「アストラ」の開発の一時中断を7日、発表しました。理由について、AIの能力が大幅に向上し、みずからの判断で重大なサイバー…</description>
+      <pubDate>Sat, 08 Aug 2026 15:10:11 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>熊本地震 死者1人増 災害関連死の疑い1人含め 死者39人に</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015199981000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015199981000</guid>
+      <description>熊本県は、8日午前7時半の時点で、県内では今回の地震による「直接死」かどうか調査している人が1人増えて2人になり、災害関連死の疑いがある1人を含めて39人が亡くなったと発表しました。</description>
+      <pubDate>Sat, 08 Aug 2026 18:22:56 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>【ライブ映像】お盆休みで下りの混雑ピーク 高速道路や新幹線</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015199951000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015199951000</guid>
+      <description>お盆休みをふるさとや行楽地で過ごす人たちの混雑は、8日がピークです。新幹線の下りでは満席が多くなっていて、高速道路の下りも20キロを超える渋滞となっています。</description>
+      <pubDate>Sat, 08 Aug 2026 11:55:53 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>「ロシアがNATO限定侵攻の可能性も」 米情報機関が分析か</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015199861000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015199861000</guid>
+      <description>アメリカの有力紙は、ロシアが数年以内にNATO＝北大西洋条約機構の加盟国に限定的な地上侵攻を仕掛ける可能性があると、アメリカの情報機関が分析していると伝えました。</description>
+      <pubDate>Sat, 08 Aug 2026 10:19:45 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>高校野球 夏の甲子園 日本文理と大分商 5回を終え同点</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015200251000</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/na-k10015200251000</guid>
+      <description>夏の全国高校野球大会4日目の第3試合、新潟の日本文理高校と大分商業の試合は、5回を終えて2対2の同点です。</description>
+      <pubDate>Sat, 08 Aug 2026 17:41:51 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
