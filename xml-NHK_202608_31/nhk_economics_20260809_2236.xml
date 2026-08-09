@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース|経済</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>タングステン 中国の輸出規制影響 製品価格高騰や調達難に</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260809de43011</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260809de43011</guid>
+      <description>レアメタルの一種、「タングステン」について中国が輸出規制を強化していることから、日本国内の製造業ではタングステンを使った製品が値上がりしたり調達しづらくなったりする影響が出ています。</description>
+      <pubDate>Mon, 10 Aug 2026 07:19:21 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
