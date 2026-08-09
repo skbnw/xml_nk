@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース|政治</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>熊本地震 赤間防災相“資源投じて 被災者ニーズに応えていく”</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260809de42951</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260809de42951</guid>
+      <description>熊本地震の対応をめぐり赤間防災担当大臣は、NHKの日曜討論で、災害関連死を防ぐにはこれからが正念場だとした上で、あらゆる資源を投じて被災者のニーズに応えていく考えを示しました。</description>
+      <pubDate>Sun, 09 Aug 2026 12:45:13 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
