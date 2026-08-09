@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース|科学・文化</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>大飯原発3号機 発電設備トラブルで自動停止 外部への影響なし</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260809de42912</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260809de42912</guid>
+      <description>福井県にある関西電力の大飯原子力発電所3号機で、8日夜、発電設備のトラブルの影響で原子炉の運転が自動的に停止しました。
+関西電力によりますと、外部への影響はないということで、詳しい状況を調べています。</description>
+      <pubDate>Sun, 09 Aug 2026 11:41:09 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
