@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>台風15号 東北・関東接近へ 土砂災害や暴風など警戒を</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260810de43043</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260810de43043</guid>
+      <description>台風15号は11日には東北や関東甲信にかなり近づき、雨や風が強まり荒れた天気になる見込みです。気象庁は土砂災害や低い土地の浸水、川の増水、それに暴風などに警戒するよう呼びかけています。最新の情報を確認…</description>
+      <pubDate>Mon, 10 Aug 2026 12:34:53 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>長野 安曇野 土石流で橋が流される 仮設の橋使い移動呼びかけ </title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260810de43038</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260810de43038</guid>
+      <description>8日、土石流で県道の橋が流され、宿泊施設に一時、およそ390人が取り残された長野県安曇野市では、現在も施設にとどまっている人がいて、県は台風の接近などを見込んで、10日中に仮設の橋を使って移動するよう…</description>
+      <pubDate>Mon, 10 Aug 2026 12:28:11 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>熊本地震 被災地は午前中から厳しい暑さ 熱中症対策を</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260810de43032</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260810de43032</guid>
+      <description>最大震度7の地震で大きな被害のあった熊本県では、10日も午前中から厳しい暑さとなっています。
+午後は猛暑日が予想されていて、復旧作業の際は引き続き熱中症に注意するようにしてください。</description>
+      <pubDate>Mon, 10 Aug 2026 11:50:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>トランプ大統領 核開発合意なしでも幕引き模索か 米メディア</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260810de43045</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260810de43045</guid>
+      <description>イラン情勢をめぐりアメリカメディアはトランプ大統領が、ホルムズ海峡での船舶の通航をイランが完全に再開した場合には勝利宣言をして核開発に関する合意なしでも幕引きを図る考えを側近たちにほのめかしたと伝えま…</description>
+      <pubDate>Mon, 10 Aug 2026 12:21:48 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>東日本から西日本で猛暑続く 一層の熱中症対策を</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260810de43033</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260810de43033</guid>
+      <description>10日も東日本と西日本では気温が上がり猛烈な暑さが予想されていて、熱中症対策を一層、心がけてください。</description>
+      <pubDate>Mon, 10 Aug 2026 12:47:02 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>日銀 7月の金融政策決定会合“利上げペース加速”意見相次ぐ</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260810de43068</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260810de43068</guid>
+      <description>日銀は政策金利を据え置いた先月の金融政策決定会合の主な意見を公表し、この中では、今後の金融政策について、物価の上振れに警戒が必要だとして利上げのペースの加速を検討すべきだという意見が相次いでいました。</description>
+      <pubDate>Mon, 10 Aug 2026 11:57:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>株価 値上がり 半導体関連の銘柄中心に買い注文</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260810de43076</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260810de43076</guid>
+      <description>10日の東京株式市場、半導体関連の銘柄を中心に多くの銘柄に買い注文が出て株価は値上がりしています。</description>
+      <pubDate>Mon, 10 Aug 2026 12:09:49 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
