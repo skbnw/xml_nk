@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title> 台風15号 今夜にも関東上陸のおそれ 土砂災害や暴風など警戒</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260811de43217</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260811de43217</guid>
+      <description>台風15号は関東に近づいていて、11日夜には上陸するおそれがあります。
+
+東日本と東北では風が強まっていて、湿った空気が流れ込み、12日にかけて総雨量が多くなる見込みです。
+
+気象庁は大雨による土砂災…</description>
+      <pubDate>Tue, 11 Aug 2026 18:02:14 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>台風15号 交通機関への影響は（鉄道 高速道路 空の便）11日</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260810de43204</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260810de43204</guid>
+      <description>台風15号による交通機関への影響です。最新の情報を随時、このページでお伝えします。</description>
+      <pubDate>Tue, 11 Aug 2026 17:58:20 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>【気象予報士解説】台風15号 今後の見通しは</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260811de43243</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260811de43243</guid>
+      <description>台風15号の今後の見通しについて、久保井朝美気象予報士の解説です。
+
+（※データ放送では動画をご覧になれません）</description>
+      <pubDate>Tue, 11 Aug 2026 13:07:14 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>イオンモール熊本 爆発事故 避難後一時入館認めたと会社が発表</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260811de43246</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260811de43246</guid>
+      <description>熊本県嘉島町の「イオンモール熊本」で7人が死亡した大規模な爆発について、イオンは、従業員への聞き取りの結果、いったん避難が終わったあと、現場の判断で一時入館を認めた事実を確認したと発表しました。</description>
+      <pubDate>Tue, 11 Aug 2026 17:08:47 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>熊本地震 “たかおっちゃん”のスニーカー　めいが思い語る</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260811de43276</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260811de43276</guid>
+      <description>今回の地震で震度6強の揺れを観測した熊本県八代市で叔父を亡くした女性がNHKの取材に応じ、地震後、叔父宛てに届いたスニーカーを手に思いを語りました。</description>
+      <pubDate>Tue, 11 Aug 2026 17:51:33 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>熊本地震から2週間 仮設住宅の建設始まる【被災地の動き】</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260811de43234</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260811de43234</guid>
+      <description>熊本県で最大震度7の揺れを観測する地震が発生してから11日で2週間です。
+被災地の動きを取材しました。</description>
+      <pubDate>Tue, 11 Aug 2026 17:13:34 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>熊本地震 物資配送の“目詰まり”解消へ 運送会社など取り組み</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260811de43265</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260811de43265</guid>
+      <description>今回の熊本地震では、各地からの支援物資が被災地の集積拠点でとどまって避難所まで届かない「目詰まり」の発生が課題となっています。こうした中、八代市や氷川町では運送会社が中心となって効率的に物資を配送しよ…</description>
+      <pubDate>Tue, 11 Aug 2026 16:16:06 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
