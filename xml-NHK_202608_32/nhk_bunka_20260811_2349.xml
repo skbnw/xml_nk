@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース|暮らし</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>熊本地震で被害受けた老舗和菓子店が営業再開 熊本 八代</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260811de43324</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260811de43324</guid>
+      <description>今回の地震で震度6強の揺れを観測し、被害を受けた熊本県八代市の老舗和菓子店が11日、営業を再開し、名物のどら焼きを買い求める人でにぎわいました。</description>
+      <pubDate>Wed, 12 Aug 2026 06:41:13 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>高知「よさこい祭り」10日から本番始まる 夏の風物詩</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260810de43198</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260810de43198</guid>
+      <description>高知の夏の風物詩「よさこい祭り」は10日から本番が始まり、高知市内の各会場では色鮮やかな衣装に身を包んだ踊り子たちが躍動感あふれる踊りを披露しました。</description>
+      <pubDate>Tue, 11 Aug 2026 00:41:26 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>高市内閣 支持率低下 NW9広内キャスターが解説</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260810de43167</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260810de43167</guid>
+      <description>いま注目の高市内閣の支持率、NHKの世論調査で7月より5ポイント下がって53％になりました。食料品の消費税減税など国民の理解は得られるのでしょうか。
+ニュースウオッチ9の広内キャスターが解説します。</description>
+      <pubDate>Mon, 10 Aug 2026 22:15:38 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>台風15号 交通機関への影響は（鉄道 高速道路 空の便）</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260810de43124</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260810de43124</guid>
+      <description>台風15号による交通機関への影響です。最新の情報を随時、このページでお伝えします。</description>
+      <pubDate>Mon, 10 Aug 2026 18:38:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
