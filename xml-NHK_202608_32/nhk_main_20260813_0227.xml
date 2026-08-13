@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>ニシキヘビ 体長2mの2匹 マンションから逃げ出す 川崎 多摩区</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260813de43553</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260813de43553</guid>
+      <description>川崎市多摩区のマンションで、ペットとして飼育されていた体長およそ2メートルのニシキヘビ2匹が逃げ出し、警察などが行方を捜しています。</description>
+      <pubDate>Thu, 13 Aug 2026 11:12:05 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>台風17号 北寄りに進む見込み 進路予報に幅 今後の情報に注意</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260812de43523</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260812de43523</guid>
+      <description>大型の台風17号は、日本の南の海上を北寄りに進んでいて、進路の予報には幅があるため、気象庁は、今後の情報に注意するよう呼びかけています。</description>
+      <pubDate>Thu, 13 Aug 2026 10:50:07 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>米ホワイトハウス レビット報道官が退任へ“ほろ苦い決断”</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260813de43565</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260813de43565</guid>
+      <description>アメリカ、ホワイトハウスの記者会見でトランプ大統領の主張を代弁し、メディアを厳しく批判してきたレビット報道官が、8月末で退任することになりました。</description>
+      <pubDate>Thu, 13 Aug 2026 10:40:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>7月企業物価 7.2％上昇　高い水準続く</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260813de43559</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260813de43559</guid>
+      <description>企業の間で取り引きされるモノの価格を示す先月の企業物価指数は、去年の同じ月と比べて7.2％上昇しました。
+
+ことし6月と比べると上昇幅はやや縮小しましたが、中東情勢の影響による石油関連製品の値上がりを…</description>
+      <pubDate>Thu, 13 Aug 2026 10:21:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>熊本 地震活動が依然活発 きょうも厳しい暑さに 熱中症対策を</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260812de43525</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260812de43525</guid>
+      <description>先月、最大震度7の地震で大きな被害があった熊本県は、13日も厳しい暑さになる見込みで、復旧作業などを行う際は熱中症対策を心がけてください。また、13日の明け方にも震度3の揺れを観測する地震が起きるなど…</description>
+      <pubDate>Thu, 13 Aug 2026 07:08:48 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>欧州で27年ぶり スペインなど皆既日食 フランスなどは部分日食</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260812de43530</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260812de43530</guid>
+      <description>ヨーロッパでは27年ぶりとなる「皆既日食」が、12日、スペインなどで観測され、太陽が月と重なって隠れる神秘的な天体ショーを大勢の人たちが楽しみました。</description>
+      <pubDate>Thu, 13 Aug 2026 09:51:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>米国務省“出産ツーリズム”防止専門チーム立ち上げ対策強化へ</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260813de43554</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260813de43554</guid>
+      <description>アメリカ国務省は、子どもにアメリカ国籍を取得させるために一時的な滞在資格でアメリカに入国して出産する「出産ツーリズム」を防ぐための専門チームを立ち上げ、対策を強化すると発表しました。</description>
+      <pubDate>Thu, 13 Aug 2026 09:56:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
