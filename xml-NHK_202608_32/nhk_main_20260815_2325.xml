@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>【千葉豪雨】死者9人 行方不明1人 浸水被害1000棟超 雨に注意</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260815de44322</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260815de44322</guid>
+      <description>線状降水帯が相次いで発生し、記録的な豪雨となった千葉県では、これまでに9人の死亡が確認されました。住宅も大きな被害が出ていて、浸水の被害は床上と床下を含めると1000棟を超えます。
+
+気象庁によります…</description>
+      <pubDate>Sun, 16 Aug 2026 07:31:41 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>熊本地震 活発な活動続く 最大震度5弱程度以上の地震に注意</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260815de44323</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260815de44323</guid>
+      <description>先月、最大震度7の地震で大きな被害があった熊本県では活発な地震活動が続いていて、気象庁は1か月ほどは最大震度5弱程度以上の地震に注意するよう呼びかけています。熊本県では16日、湿った空気の影響で大気の…</description>
+      <pubDate>Sun, 16 Aug 2026 05:38:09 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>岐阜 長良川で水難事故相次ぐ 23歳の男性 計2人が溺れて死亡</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260815de44296</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260815de44296</guid>
+      <description>15日午後、岐阜県を流れる長良川で水難事故が相次ぎ、いずれも23歳の男性合わせて2人が溺れて死亡しました。警察などが当時の状況を詳しく調べています。</description>
+      <pubDate>Sat, 15 Aug 2026 23:48:12 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>山形 鶴岡 花火大会で3人軽傷 花火が地上で破裂したか</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260816de44344</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260816de44344</guid>
+      <description>15日夜、山形県鶴岡市で行われた花火大会で、観覧席にいた客3人が飛んできたものに当たって軽いけがをしました。当時、地上で破裂した花火があったという情報があり、警察が詳しい状況を調べています。</description>
+      <pubDate>Sun, 16 Aug 2026 07:05:16 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>自民 岸田元首相 萩生田幹事長代行ら 山梨県鳴沢村で会合 </title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260815de44321</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260815de44321</guid>
+      <description>自民党の岸田元総理大臣や萩生田幹事長代行、加藤前財務大臣らが15日夜、山梨県鳴沢村で会合を開き、高市政権を取り巻く政治情勢などをめぐって意見を交わしたということです。</description>
+      <pubDate>Sun, 16 Aug 2026 01:21:47 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>自民 小林政調会長が靖国神社に参拝</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260816de44348</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260816de44348</guid>
+      <description>自民党の小林政務調査会長は16日、東京・九段の靖国神社に参拝しました。</description>
+      <pubDate>Sun, 16 Aug 2026 07:41:45 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>地表断層出現の瞬間か 熊本 八代の防犯カメラに地表のずれ写る</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260815de44255</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260815de44255</guid>
+      <description>今回の熊本地震で震度6強の揺れが観測された熊本県八代市で、地表に断層が現れたとみられる瞬間の映像が防犯カメラに写っていました。専門家は断層がずれ動く様子が記録された貴重な映像だとした上で、構造物への影…</description>
+      <pubDate>Sat, 15 Aug 2026 18:06:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
