@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>お盆のUターンラッシュ 新幹線と空の便がピークに</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260816de44364</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260816de44364</guid>
+      <description>お盆休みをふるさとや行楽地で過ごした人たちのUターンラッシュは、新幹線と空の便では16日がピークで、高速道路でも渋滞が発生しています。</description>
+      <pubDate>Sun, 16 Aug 2026 18:41:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>死者10人に 浸水被害は約1500棟 千葉市で車両約2500台が路上に</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260815de44322</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260815de44322</guid>
+      <description>線状降水帯が相次いで発生し、記録的な豪雨となった千葉県では、これまでに10人の死亡が確認されました。住宅も大きな被害が出ていて、浸水の被害は床上と床下を含めるとおよそ1500棟になります。また千葉県内…</description>
+      <pubDate>Sun, 16 Aug 2026 22:44:18 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>熊本地震 17日も熱中症対策を 最大震度5弱程度以上の地震注意</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260815de44323</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260815de44323</guid>
+      <description>先月、最大震度7の地震で大きな被害があった熊本県では16日も各地で最高気温が35度以上の猛烈な暑さとなりました。
+17日も熱中症に厳重警戒が必要な暑さになることが予想され、対策を徹底するとともに、引き…</description>
+      <pubDate>Sun, 16 Aug 2026 19:28:38 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>熊本 天草 お盆の帰省にあわせ二十歳のつどい</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260816de44391</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260816de44391</guid>
+      <description>熊本県天草市でお盆の帰省にあわせて20歳の節目を祝う式典が開かれました。</description>
+      <pubDate>Sun, 16 Aug 2026 19:27:31 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>ハンガリーでポーランド人観光客乗せたバス 横転事故 12人死亡</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260816de44416</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260816de44416</guid>
+      <description>東ヨーロッパのハンガリーで16日、ポーランド人観光客を乗せたバスが高速道路で横転し、これまでに12人が死亡し、10人以上がけがをしました。</description>
+      <pubDate>Mon, 17 Aug 2026 00:13:35 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>ロシア ウクライナ 双方が首都を攻撃 応酬激しさ増す</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260816de44402</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260816de44402</guid>
+      <description>ウクライナは、ロシアの首都モスクワ近郊で物流倉庫などを無人機で攻撃する一方、ロシア軍はウクライナの首都キーウなどにミサイルなどによる攻撃を続けていて、応酬は激しさを増しています。</description>
+      <pubDate>Sun, 16 Aug 2026 20:31:47 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>インドネシア東部地震で53人死亡 食料・水の確保が課題に</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260816de44411</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260816de44411</guid>
+      <description>インドネシアで15日発生したマグニチュード7.7の地震では、これまでに53人の死亡が確認されたほか、200棟を超える住宅に被害が出ているということで、現地では食料や水などの確保が喫緊の課題となっていま…</description>
+      <pubDate>Sun, 16 Aug 2026 20:45:21 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
