@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース|暮らし</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>熊本地震で被害 八代市長が井戸修理支援を赤間防災相に要望</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260820de45389</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260820de45389</guid>
+      <description>熊本地震で大きな被害を受けた八代市の小野市長は20日夕方、赤間防災担当大臣と面会し、要望書を手渡しました。</description>
+      <pubDate>Thu, 20 Aug 2026 20:49:32 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>高校無償化で私立人気が高まる 公立高校の志願者全国で4％余減</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260820de45212</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260820de45212</guid>
+      <description>ことしの春の高校進学をめぐり、全国の公立高校の入試の主な日程の志願者が去年より4％余り減っていたことが全国の教育委員会への取材で分かりました。
+
+各地の教育委員会や専門家は、高校授業料の実質的な無償化…</description>
+      <pubDate>Thu, 20 Aug 2026 19:50:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>明治 「きのこの山」「たけのこの里」などのお菓子 値上げへ</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260818de44836</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260818de44836</guid>
+      <description>大手菓子メーカーの「明治」は、原材料価格の高止まりを理由に「きのこの山」などの主力商品を値上げすると発表しました。</description>
+      <pubDate>Tue, 18 Aug 2026 18:07:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>JR外房線 17日朝から代行バス運行 一部区間で運転見合わせ続く</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260816de44432</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260816de44432</guid>
+      <description>記録的な豪雨で被害が出たJR外房線は、一部区間で運転の見合わせが続いています。こうしたなかJR東日本は、17日朝から代行バスの運行を始めました。</description>
+      <pubDate>Mon, 17 Aug 2026 07:03:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
