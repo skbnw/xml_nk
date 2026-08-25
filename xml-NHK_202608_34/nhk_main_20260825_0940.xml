@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>【震度速報】 北海道で震度3</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260825de46272</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260825de46272</guid>
+      <description>25日午後6時7分ごろ地震がありました。
+現在、震度3以上が観測されている地域は以下のとおりです。
+▼震度3が、釧路地方中南部、根室地方北部、根室地方中部、根室地方南部。
+今後の情報に注意してください…</description>
+      <pubDate>Tue, 25 Aug 2026 18:12:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>台風18号 鹿児島 奄美地方や沖縄本島地方に接近 厳重警戒を</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260824de46074</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260824de46074</guid>
+      <description>強い台風18号は鹿児島県の奄美地方や沖縄本島に近づいていて、26日にかけて一部の住宅が倒壊するような猛烈な風が吹くおそれがあります。
+
+気象庁は暴風や高波に厳重に警戒し、大雨による土砂災害などにも警戒…</description>
+      <pubDate>Tue, 25 Aug 2026 18:30:25 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>西日本では39度超 危険な暑さに 北海道では大雨</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260824de46075</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260824de46075</guid>
+      <description>25日は東北から九州で危険な暑さとなり、西日本では39度を超えています。熱中症対策を徹底してください。また、前線などの影響で北海道では大雨になっていて、気象庁は低い土地の浸水などに警戒するよう呼びかけ…</description>
+      <pubDate>Tue, 25 Aug 2026 17:46:46 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>熊本地震 激甚災害対象追加見込み 災害公営住宅建設など支援へ</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260825de46206</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260825de46206</guid>
+      <description>熊本地震について、政府は、復旧にかかる費用を支援する「激甚災害」の対象事業に、災害公営住宅の建設や感染症予防も加える見通しになったことを明らかにしました。</description>
+      <pubDate>Tue, 25 Aug 2026 16:39:53 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>文科省 来年度予算案の概算要求で過去最大の8兆8000億円</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260825de46241</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260825de46241</guid>
+      <description>文部科学省は、過去最大となるおよそ8兆8000億円を計上した来年度予算案の概算要求をまとめ、自民党の部会で了承されました。</description>
+      <pubDate>Tue, 25 Aug 2026 18:36:18 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>【比較動画】クマ撃退スプレー 市販製品の「性能」に大きな差</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260825de46130</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260825de46130</guid>
+      <description>クマ撃退スプレーとして販売されている12製品について消費者庁、環境省、国民生活センターが共同で噴射テストを行った結果、製品によって噴射の距離や時間など、性能が大きく異なることが確認されました。
+
+この…</description>
+      <pubDate>Tue, 25 Aug 2026 17:16:56 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>神奈川 船舶衝突事故 「花火見に行く途中」 海保が詳しく捜査</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260825de46260</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260825de46260</guid>
+      <description>24日夜、羽田空港近くの沖合で横浜の花火大会を見に行く途中のプレジャーボートが護岸に衝突して9人がけがをした事故で、海上保安署は業務上過失傷害などの疑いで捜査を進めています。</description>
+      <pubDate>Tue, 25 Aug 2026 18:26:41 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
