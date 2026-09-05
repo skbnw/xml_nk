@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>インドネシア 大規模噴火 日本への津波の心配なし 気象庁 </title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260905de48261</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260905de48261</guid>
+      <description>5日未明、インドネシアのクラカタウ火山で発生した大規模な噴火について、気象庁は噴火による津波の有無を調べていましたが、先ほど日本への津波の心配はないと発表しました。</description>
+      <pubDate>Sat, 05 Sep 2026 12:41:49 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>台風24号と秋雨前線の影響で大気不安定 今後の進路 見通しは</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260905de48255</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260905de48255</guid>
+      <description>台風24号は午前9時には沖縄県の久米島の北、170キロの海上を1時間に15キロの速さで南南西へ進んでいます。</description>
+      <pubDate>Sat, 05 Sep 2026 12:24:43 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>鹿児島 屋久島町 レベル5土砂災害特別警報 危険警報に切り替え</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260905de48287</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260905de48287</guid>
+      <description>気象庁は5日午前11時半、鹿児島県屋久島町に出していた「レベル5土砂災害特別警報」を「レベル4土砂災害危険警報」に切り替えました。屋久島町では記録的な大雨で土砂災害の危険性が非常に高い状態が続いていて…</description>
+      <pubDate>Sat, 05 Sep 2026 12:26:25 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>星新一さん自筆のSFみつかる 初期の未発表作品か</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260905de48277</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260905de48277</guid>
+      <description>戦後の日本を代表するSF作家で、生涯で1000編を超えるショートショートを残した星新一さんの初期の未発表作品とみられる自筆の原稿が見つかりました。</description>
+      <pubDate>Sat, 05 Sep 2026 12:31:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>ベネチア国際映画祭 塚本晋也監督の映画が公式上映</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260905de48291</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260905de48291</guid>
+      <description>世界3大映画祭の1つ、イタリアのベネチア国際映画祭で、最優秀賞を競うコンペティション部門に出品された塚本晋也監督の作品が上映され、会場の観客から大きな拍手が送られました。</description>
+      <pubDate>Sat, 05 Sep 2026 12:45:55 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>ホワイトソックス村上 2試合連続無安打 チームは連敗ストップ</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260905de48294</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260905de48294</guid>
+      <description>大リーグ、ホワイトソックスの村上宗隆選手はツインズ戦で2試合続けてのノーヒットに終わりましたが、チームは連敗を「2」で止めました。</description>
+      <pubDate>Sat, 05 Sep 2026 12:52:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>ネパール土石流 発電所で2人救助 政府は優先的に捜索の考え</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260905de48262</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260905de48262</guid>
+      <description>ネパールと中国の国境付近で起きた大規模な土石流で、発生から9日がたった4日、ネパール側の水力発電所のトンネル内に取り残されていた作業員2人が救助されました。ネパール政府は、さらに生存者を救助できる可能…</description>
+      <pubDate>Sat, 05 Sep 2026 06:46:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
