@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>中部電力 報告書提出受け14日に会見 経営トップ進退判断へ</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260911de49824</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260911de49824</guid>
+      <description>中部電力は、浜岡原子力発電所3号機と4号機の審査で地震の想定に関するデータを改ざんしていた問題で外部の専門家らによる調査報告書が提出されたことを受けて、14日に記者会見を開きます。会社で原発をめぐる不…</description>
+      <pubDate>Sat, 12 Sep 2026 06:09:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>サウジアラビアの東西パイプライン 攻撃受け一時操業停止</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260912de49849</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260912de49849</guid>
+      <description>サウジアラビア政府は、ホルムズ海峡をう回する原油の輸送ルートとして重要性が増している東西パイプラインが攻撃を受け、予防的な措置として操業を一時停止したと明らかにしました。</description>
+      <pubDate>Sat, 12 Sep 2026 08:01:22 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>消費税減税で大綱来週決定へ 国会審議備え担当閣僚新設も検討</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260912de49833</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260912de49833</guid>
+      <description>食料品の消費税減税をめぐり、政府は、制度設計を盛り込んだ大綱を来週15日に閣議決定したうえで必要な法案を臨時国会に提出する方針です。国会審議に備え今回の内閣改造で新たに担当閣僚を設けることも検討するな…</description>
+      <pubDate>Sat, 12 Sep 2026 05:27:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>スイスで観光客を乗せたバスが横転 5人死亡</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260912de49847</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260912de49847</guid>
+      <description>スイス東部でオランダ人の観光客を乗せたバスが横転し、5人が死亡、40人がけがをしました。</description>
+      <pubDate>Sat, 12 Sep 2026 07:41:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>イオンモール熊本 すべてのテナントに一時的な契約解除を打診</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260912de49840</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260912de49840</guid>
+      <description>大規模な爆発が発生し7人が死亡した熊本県嘉島町の「イオンモール熊本」で休業が続いていることを受け、イオン側が、すべてのテナントに対して一時的な契約の解除を打診していることがわかりました。</description>
+      <pubDate>Sat, 12 Sep 2026 04:51:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>世界の海面水温の平均 日ごとの過去最高を100日連続で更新</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260912de49848</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260912de49848</guid>
+      <description>アメリカの研究機関、クライメート・セントラルは、世界の海面水温の平均が100日連続で日ごとの過去最高を記録したとする分析結果を発表しました。</description>
+      <pubDate>Sat, 12 Sep 2026 08:34:04 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>IEA ことしの石油供給見通し下方修正 中東から供給回復来年に</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260912de49845</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260912de49845</guid>
+      <description>IEA＝国際エネルギー機関は、アメリカとイランの対立が長期化しているなどとして、ことしの石油の供給量の見通しを1日当たり1億バレル余りと、先月の予測から下方修正するとともに、中東の産油国からの供給の回…</description>
+      <pubDate>Sat, 12 Sep 2026 08:20:13 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
