@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>【台風25号 被害】神奈川と千葉で2人死亡4人不明 捜索続く</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260922de51778</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260922de51778</guid>
+      <description>台風25号に伴う大雨の影響で21日、神奈川県や千葉県では土砂崩れが相次ぎ、50代と60代の2人が死亡したほか、4人の行方が分からなくなっています。警察と消防は22日も捜索を続けることにしています。</description>
+      <pubDate>Tue, 22 Sep 2026 03:34:06 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>台風25号 大島町の特別警報は危険警報に 関東は暴風域抜ける</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260921de51748</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260921de51748</guid>
+      <description>大型で強い台風25号の影響で、伊豆諸島や関東では記録的な大雨となりました。
+大島町に出されていた「レベル5土砂災害特別警報」は21日午後11時に「レベル4土砂災害危険警報」に切り替えられましたが、土砂…</description>
+      <pubDate>Tue, 22 Sep 2026 02:51:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>【台風25号】交通影響まとめ 関東の鉄道 22日の運転見合わせも</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260921de51512</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260921de51512</guid>
+      <description>台風25号による交通機関への影響です。
+最新の交通情報に注意してください。</description>
+      <pubDate>Mon, 21 Sep 2026 20:50:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>悠仁さま アジア大会で伝統競技の試合を観戦</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260921de51687</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260921de51687</guid>
+      <description>秋篠宮ご夫妻の長男の悠仁さまは愛知県で開催中のアジア大会の競技会場を訪れ、インドなどの国技となっているカバディなど、アジアの伝統競技の試合をご覧になりました。</description>
+      <pubDate>Mon, 21 Sep 2026 18:54:48 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>高市首相 国連総会出席で米に出発 国連演説で日本の決意表明</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260922de51763</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260922de51763</guid>
+      <description>高市総理大臣は、国連総会に出席するため21日夜、アメリカに向けて出発しました。これに先立ち、一般討論演説では、エネルギーをはじめとするサプライチェーンの強じん化などについて、日本がリーダーシップを発揮…</description>
+      <pubDate>Tue, 22 Sep 2026 00:08:58 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>「トランプ大統領 イエメン空爆で方針転換」米報道</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260921de51710</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260921de51710</guid>
+      <description>イランの支援を受けるイエメンの反政府勢力フーシ派が対立するサウジアラビアへの攻撃を強めるなか、トランプ大統領はサウジアラビアの要請でいったんはフーシ派への空爆を準備するよう指示したものの、直前になって…</description>
+      <pubDate>Mon, 21 Sep 2026 20:09:09 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>ロシア下院選挙で与党圧勝 8割近い議席獲得へ</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260921de51726</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260921de51726</guid>
+      <description>4年前にウクライナ侵攻が始まって以降、初めてとなるロシアの議会下院選挙の暫定結果が発表され、プーチン政権を支える与党が現有議席を上回って圧勝し、8割近い議席を獲得する見通しとなりました。</description>
+      <pubDate>Mon, 21 Sep 2026 22:48:58 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
