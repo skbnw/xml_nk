@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>台風26号 伊豆諸島に近づく見込み 今後の情報に注意を</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260929de52959</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260929de52959</guid>
+      <description>台風26号は日本の南の海上を北東へ進んでいて、10月1日には伊豆諸島に近づく見込みです。最新の気象情報を確認するようにしてください。</description>
+      <pubDate>Tue, 29 Sep 2026 16:59:49 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>ANA会員特典見直し 混雑時以外はラウンジ使用可能に</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260929de53087</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260929de53087</guid>
+      <description>ANAホールディングスは、一定水準を超える利用者を対象としたクレジットカードの特典制度について、混雑時を除いてすべての会員に自社の空港ラウンジの利用を認めると明らかにしました。</description>
+      <pubDate>Tue, 29 Sep 2026 15:32:22 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>青森 五所川原 突風で車20台超にも被害 気象台が現地調査</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260929de53085</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260929de53085</guid>
+      <description>28日突風が発生した青森県五所川原市では、建物に加え車20台あまりでも被害が確認されたということで、けさから気象台が現地で調査を行っています。</description>
+      <pubDate>Tue, 29 Sep 2026 15:05:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>iPS心筋細胞シート 承認後初の手術実施 大阪けいさつ病院</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260929de53038</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260929de53038</guid>
+      <description>iPS細胞から作った心臓病の治療用の細胞シートが国に承認されてから初めてとなる手術が、29日、大阪市内の病院で行われたことがわかりました。手術は先ほど終了し、患者の容体は安定しているということです。</description>
+      <pubDate>Tue, 29 Sep 2026 15:49:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>大谷翔平・村上宗隆など日本選手5人がオールMLB候補に</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260929de53023</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260929de53023</guid>
+      <description>大リーグで今シーズン活躍した選手をファン投票などで選ぶ「オールMLBチーム」の最終候補が発表され、ドジャースの大谷翔平選手やホワイトソックスの村上宗隆選手など5人の日本選手が候補に入りました。</description>
+      <pubDate>Tue, 29 Sep 2026 12:23:36 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>「シャオシャオ」と「レイレイ」中国返還後初の一般公開</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260929de53022</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260929de53022</guid>
+      <description>東京で生まれことし1月に中国に返還された双子のジャイアントパンダ、シャオシャオとレイレイが中国内陸部のパンダの飼育施設で、返還後初めて一般公開されました。</description>
+      <pubDate>Tue, 29 Sep 2026 15:12:14 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>“ふるさと住民登録制度”約7割の自治体が参加意向 藤井総務相</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20260929de53067</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20260929de53067</guid>
+      <description>地域の活性化に向けて都市部に住む人などが居住地以外に継続的に関わる地域を登録する制度について、藤井総務大臣は自治体へのアンケートではおよそ7割から参加の意向が示されたと説明し、多くの自治体や国民に利用…</description>
+      <pubDate>Tue, 29 Sep 2026 14:16:35 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
