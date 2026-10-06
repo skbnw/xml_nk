@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>簗農相「予算は選挙結果ではなく公平適切に対応」</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261006de55039</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261006de55039</guid>
+      <description>簗農林水産大臣は、地元・栃木県の自治体に対する国の道路予算を「大幅にカットした」とする発言を撤回したことに関連して、6日の閣議のあとの会見で改めて陳謝した上で、今後の予算の執行について「選挙の結果うん…</description>
+      <pubDate>Tue, 06 Oct 2026 19:50:50 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>企業への不正アクセス被害相次ぐ 個人情報の大規模流出も</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261006de55532</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261006de55532</guid>
+      <description>企業への不正アクセスによってサプライチェーンに影響が出たり，企業がもつ個人情報の大規模な流出につながったりするケースが相次いでいます。</description>
+      <pubDate>Tue, 06 Oct 2026 20:53:33 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>個人情報流出なぜ相次ぐ?“異様な状況”AI悪用可能性の指摘も</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261006de55037</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261006de55037</guid>
+      <description>不正アクセスで企業から大量の個人情報が漏えいする被害が相次いでいます。
+セキュリティー会社ではことし7月以降、被害が増加していることから、サイバー攻撃にAIが悪用されている可能性が高いとして、対策を強…</description>
+      <pubDate>Tue, 06 Oct 2026 20:08:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>ノーベル物理学賞に米大学教授 「IceCube」でニュートリノ観測</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261005de54668</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261005de54668</guid>
+      <description>ことしのノーベル物理学賞の受賞者に、南極にある観測施設「IceCube」で、宇宙のかなたから届く素粒子ニュートリノのうち極めて高いエネルギーを持つものの観測に成功したとして、アメリカの大学の研究者が選…</description>
+      <pubDate>Tue, 06 Oct 2026 22:16:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>台風27号 関東の海上はあす明け方にかけて高波に警戒</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261006de54955</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261006de54955</guid>
+      <description>6日は各地で気温が上がり、関東や東海では真夏日になったところもありました。
+一方、大型で強い台風27号の影響で太平洋側では波が高く、関東の海上では7日の明け方にかけて高波に警戒してください。</description>
+      <pubDate>Tue, 06 Oct 2026 20:26:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>米海兵隊員逮捕 葉梨沖縄北方相「断じて容認できない」</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261006de55019</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261006de55019</guid>
+      <description>沖縄に駐留するアメリカ海兵隊の上等兵が強盗殺人の疑いで逮捕された事件について葉梨沖縄・北方担当大臣は、6日の閣議後の会見で「住民に大きな不安を与えるもので断じて容認できない」と述べました。</description>
+      <pubDate>Tue, 06 Oct 2026 20:30:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>川崎重工 造船向けのフィジカルAI活用ロボット 試作機を公開</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261006de55161</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261006de55161</guid>
+      <description>川崎重工業は、造船所のベテラン技術者の減少などに対応するため、AIが自律的に判断して溶接を行う「フィジカルAI」を活用した造船ロボットの試作機を公開しました。</description>
+      <pubDate>Tue, 06 Oct 2026 19:49:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
