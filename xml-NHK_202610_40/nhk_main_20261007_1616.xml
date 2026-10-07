@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>ノーベル化学賞 受賞決定を受け東京理科大学で記者会見</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261005de54630</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261005de54630</guid>
+      <description>東京 新宿区にある東京理科大学に設けられた会見場で、7日午後10時から本人と学長などが出席して記者会見を行いました。</description>
+      <pubDate>Thu, 08 Oct 2026 00:20:05 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>ノーベル化学賞に東京理科大学名誉教授</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261006de55098</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261006de55098</guid>
+      <description>ことしのノーベル化学賞の受賞者に、自然界に存在するアミノ酸などの構造の起源の謎を明らかにし、人工的に再現できる方法を見いだした東京理科大学名誉教授のそ※合憲三さんらが選ばれました。日本からのノーベル賞…</description>
+      <pubDate>Wed, 07 Oct 2026 22:58:40 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>「伝説の教授」「昔の学者肌」「研究一筋」各地で喜びの声</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261007de56145</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261007de56145</guid>
+      <description>ことしのノーベル化学賞の受賞者に東京理科大学名誉教授のそ※合憲三さんらが選ばれ、各地で喜びの声が上がりました。</description>
+      <pubDate>Wed, 07 Oct 2026 22:39:47 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>大手ビールメーカー4社を強制調査 価格カルテル疑い 公取委　</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261007de55664</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261007de55664</guid>
+      <description>国内の大手ビールメーカー4社が出荷するビールの値上げ幅などを事前に示し合わせるカルテルを結んだ疑いがあるとして、公正取引委員会は独占禁止法違反の疑いで強制調査を始め、各社の本社を一斉に捜索しています。…</description>
+      <pubDate>Wed, 07 Oct 2026 19:27:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>デンマーク 人口上回る880万人分の個人情報に不正アクセス</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261007de56148</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261007de56148</guid>
+      <description>デンマーク政府は、国のデータベースに登録された人口を上回るおよそ880万人分の名前や、個人の識別番号などが不正アクセスを受けたと明らかにし、警察が捜査しています。</description>
+      <pubDate>Wed, 07 Oct 2026 21:19:08 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>ソフトバンク子会社に不正アクセス クラウドサービスに障害</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261007de56048</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261007de56048</guid>
+      <description>ソフトバンクの子会社のIDCフロンティアはシステムが、身代金要求型のコンピュータウイルス「ランサムウエア」による攻撃を受け、提供しているクラウドサービスの一部で障害が発生していると明らかにしました。サ…</description>
+      <pubDate>Wed, 07 Oct 2026 19:54:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>原子力人材確保へ 官民が共同で新団体を設立</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261007de56174</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261007de56174</guid>
+      <description>政府が掲げる原子力発電の活用に向けて人材の確保が課題となる中、官民が共同で原子力分野の人材育成に取り組む新たな団体を立ち上げました。団体では今後、人手不足の状況などを分析した上で、企業や大学など各現場…</description>
+      <pubDate>Wed, 07 Oct 2026 23:55:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
