@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>JR東日本とビューカード 最大600万件余の会員情報漏えいか</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261009de57177</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261009de57177</guid>
+      <description>ソフトバンクの子会社の「IDCフロンティア」のシステムがサイバー攻撃を受けた影響で、このシステムを利用するJR東日本や子会社のビューカードは、あわせて最大600万件あまりのメールアドレスなどの会員情報…</description>
+      <pubDate>Fri, 09 Oct 2026 16:12:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>【ライブ配信予定】ノーベル平和賞発表 このあと午後6時から</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261007de55783</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261007de55783</guid>
+      <description>9日はノーベル平和賞の発表日です。発表の様子をライブ配信でお伝えします。</description>
+      <pubDate>Fri, 09 Oct 2026 17:49:18 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>1400万件超の情報が流出か 大規模な情報漏えい相次ぐ</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261009de57123</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261009de57123</guid>
+      <description>企業への不正アクセスによる被害が相次ぐ中、旅行サイトのスカイチケットを運営するアドベンチャーは外部から不正アクセスを受け、利用客の情報、1400万件あまりが流出したか、流出したおそれがあると発表しまし…</description>
+      <pubDate>Fri, 09 Oct 2026 17:00:45 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>インフルエンザ 今シーズン初めて1医療機関あたり10人超える</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261009de56984</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261009de56984</guid>
+      <description>10月4日までの1週間に全国から報告されたインフルエンザの患者数は、1医療機関あたり11.35人と今シーズン初めて10人を超えました。厚生労働省はマスクの着用や手洗いなどの基本的な対策をとるよう呼びか…</description>
+      <pubDate>Fri, 09 Oct 2026 15:39:33 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>金融庁がプルデンシャル生命に一部業務停止命令</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261009de57195</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261009de57195</guid>
+      <description>社員が顧客から巨額の金銭をだまし取っていたプルデンシャル生命に対し、金融庁は9日、新規の保険募集の業務をおよそ3か月間停止するとともに経営責任を明確にするよう命じる処分を出しました。</description>
+      <pubDate>Fri, 09 Oct 2026 17:11:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>アメリカ 運転免許証などの情報 1億5000万件以上が漏えいか</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261009de57294</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261009de57294</guid>
+      <description>企業への不正アクセスによる被害が相次ぐ中、アメリカでも、不正アクセスによって、個人の運転免許証などの情報が漏えいする被害が明らかになっています。</description>
+      <pubDate>Fri, 09 Oct 2026 17:10:58 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>政府 食料品の消費税減税関連法案を閣議決定</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261009de56958</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261009de56958</guid>
+      <description>政府は、9日の閣議で、食料品の消費税率を来年4月から2年間、1％に引き下げるなどとした法案を決定しました。与党は、野党の協力も得て、今の国会で成立させたいとしています。</description>
+      <pubDate>Fri, 09 Oct 2026 15:16:40 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
