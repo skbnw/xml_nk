@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>武部氏 認証式を経て農相に就任 辞表提出の簗氏の後任に</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261015de59560</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261015de59560</guid>
+      <description>15日午後6時ごろ、武部氏は皇居で認証式に臨み、農林水産大臣に就任しました。</description>
+      <pubDate>Thu, 15 Oct 2026 21:18:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>相次ぐ不正アクセス “AIエージェント”使用の証拠見つかる</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261015de59790</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261015de59790</guid>
+      <description>企業への不正アクセスによる被害が止まりません。15日も、産婦人科などの医療機関で導入されている予約・受付システムが不正アクセスを受け患者の個人情報が漏えいしたおそれがあると発表されたほか、ハンバーガー…</description>
+      <pubDate>Thu, 15 Oct 2026 19:30:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>ソースネクスト 約2251万件の個人情報が流出か 不正アクセスで</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261015de60043</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261015de60043</guid>
+      <description>年賀状ソフトなどを手がけるソースネクストは、会員情報を管理するシステムが不正アクセスを受け、2251万件余りの顧客の個人情報が流出した可能性があると発表しました。
+流出した可能性があるのは顧客の氏名や…</description>
+      <pubDate>Thu, 15 Oct 2026 21:55:07 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>声優の野沢雅子さん “声の生成AI利用”について語る</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261015de59778</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261015de59778</guid>
+      <description>生成AIによって声が無断で利用されるケースが相次ぐ中、声優などが加入する団体が15日、記者会見を開いて、声のAI利用に関する初めてのガイドラインを作成したことを発表しました。
+
+こうした“声”を守る動…</description>
+      <pubDate>Thu, 15 Oct 2026 18:55:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>パナソニック ドラム式洗濯機64万台をリコール</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261015de59971</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261015de59971</guid>
+      <description>パナソニックは、ドラム式の洗濯機から煙が出たり発火したりするおそれがあるとして、国にリコールを届け出ました。会社は対象となるおよそ64万台について、無償で新しい部品を送付するなどの対応を行うとしていま…</description>
+      <pubDate>Thu, 15 Oct 2026 18:18:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>産婦人科向けシステムに不正アクセス 医療機関は対応追われる</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261015de59731</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261015de59731</guid>
+      <description>産婦人科などの医療機関で導入されている予約・受付システムが、外部から不正アクセスを受けたとサービスを提供している会社が発表しました。会社によりますと、最大787の医療機関に登録された患者の個人情報が漏…</description>
+      <pubDate>Thu, 15 Oct 2026 18:38:02 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>ドイツ 13歳未満の子ども SNS利用を原則禁止へ</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261015de60075</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261015de60075</guid>
+      <description>ドイツ政府は13歳未満の子どもによるSNSの利用を原則禁止するなどとした方針を決めました。
+EU＝ヨーロッパ連合が年齢に応じて子どものSNSの利用を制限することを加盟国に提案するなか、ドイツとしては独…</description>
+      <pubDate>Thu, 15 Oct 2026 20:43:55 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
