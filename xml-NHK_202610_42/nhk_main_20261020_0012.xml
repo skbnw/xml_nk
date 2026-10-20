@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>火星衛星探査機「MMX」 火星へ向かう軌道に 打ち上げ成功</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261019de61814</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261019de61814</guid>
+      <description>日本の火星衛星探査機「MMX」は、鹿児島県の種子島宇宙センターからH3ロケット10号機で20日午前5時前に打ち上げられ、火星へ向かう軌道に投入されて打ち上げは成功しました。</description>
+      <pubDate>Tue, 20 Oct 2026 08:25:39 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>トランプ大統領と距離置く共和党の候補相次ぐ いったいなぜ？</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261019de61784</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261019de61784</guid>
+      <description>候補者の公式ウェブサイトからトランプ大統領の名前や写真が消え、集会への参加も見送られる。
+
+アメリカの中間選挙まで2週間となる中、与党・共和党の候補の間でトランプ大統領と距離を置く動きが相次いでいます…</description>
+      <pubDate>Tue, 20 Oct 2026 07:24:17 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261020de61888</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261020de61888</guid>
+      <description>国内で相次いでいる不正アクセスの一部について、IT企業「GMOインターネットグループ」の情報セキュリティー専門の子会社は「調査したところ、中国系のAIが使われていたことを確認した」とする担当者の見解を…</description>
+      <pubDate>Tue, 20 Oct 2026 07:48:38 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>食料品の消費税減税関連法案 きょう衆議院で審議入り </title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261019de61870</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261019de61870</guid>
+      <description>今の国会で最大の焦点となる食料品の消費税減税関連法案は20日、衆議院で審議入りします。与党側ができるだけ多くの党の賛同を得て成立させたい考えなのに対し、野党側は物価高対策としての効果や具体的な財源など…</description>
+      <pubDate>Tue, 20 Oct 2026 05:10:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>東・西日本で大気不安定に 台風30号の最新情報 確認を</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261019de61878</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261019de61878</guid>
+      <description>前線が停滞する影響で、東日本と西日本を中心に大気の状態が非常に不安定になっていて、北陸で雨雲が発達しています。気象庁は低い土地の浸水や川の増水に警戒するとともに、落雷や竜巻などの激しい突風、ひょうに注…</description>
+      <pubDate>Tue, 20 Oct 2026 07:38:25 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>上皇后さま 92歳の誕生日</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261019de61822</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261019de61822</guid>
+      <description>上皇后さまは20日、92歳の誕生日を迎えられました。</description>
+      <pubDate>Tue, 20 Oct 2026 00:00:50 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>世界最大級ファンド「ブラックストーン」 日本に約6兆円投資へ</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261019de61876</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261019de61876</guid>
+      <description>世界最大規模の投資ファンド「ブラックストーン」のスティーブン・シュワルツマン会長兼CEOは、NHKのインタビューに応じ、今後3年間の日本への投資額を400億ドル、日本円で6兆円規模に引き上げる方針を明…</description>
+      <pubDate>Tue, 20 Oct 2026 05:03:42 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
