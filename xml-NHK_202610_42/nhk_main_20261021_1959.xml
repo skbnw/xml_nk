@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>“PHPでぜい弱性確認 速やかな対応を”情報処理推進機構</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261021de63209</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261021de63209</guid>
+      <description>ウェブサイトなどに広く使われている「PHP」と呼ばれるプログラミング言語に重大なぜい弱性が見つかったことを受けて、独立行政法人の情報処理推進機構は、利用している企業などに対して速やかに対応するよう呼び…</description>
+      <pubDate>Thu, 22 Oct 2026 02:11:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>猛烈な台風30号 先島諸島23日接近 西日本に影響の可能性も</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261021de62549</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261021de62549</guid>
+      <description>大型で猛烈な台風30号は中心気圧が900ヘクトパスカルまで発達しています。23日から24日土曜日ごろにかけて沖縄県の先島諸島に近づく見込みで、猛烈な風が吹くおそれがあり、早めの対策が必要です。
+
+その…</description>
+      <pubDate>Wed, 21 Oct 2026 20:19:31 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>秋田 子吉川で一時 氾濫特別警報 危険な場所に近づかないで</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261021de63227</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261021de63227</guid>
+      <description>低気圧と前線の影響で、記録的な大雨となった秋田県では子吉川で氾濫が確認され、「レベル5氾濫特別警報」が発表されていましたが、午前2時すぎ、「レベル2氾濫注意報」に切り替えられました。氾濫が発生した地域…</description>
+      <pubDate>Thu, 22 Oct 2026 04:32:10 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>【動画】道路まで水あふれる 子吉川沿い 秋田 由利本荘市</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261021de63212</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261021de63212</guid>
+      <description>21日、午後6時ごろ、秋田県由利本荘市の子吉川沿いの道路を南に向かって走る車の中から撮影した映像です。
+
+ドライバーの親族が助手席から撮影したということです。</description>
+      <pubDate>Wed, 21 Oct 2026 22:55:41 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>ネパールのヒマラヤで登山中だった日本人2人が行方不明</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261022de63265</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261022de63265</guid>
+      <description>ネパール中部にあるヒマラヤ山脈で登山をしていた日本人男性2人の行方が10月15日以降分からなくなり、現地で捜索活動が行われています。</description>
+      <pubDate>Thu, 22 Oct 2026 04:37:11 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>不正アクセス“金融機関が狙われる段階に変わってきた可能性”</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261021de62921</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261021de62921</guid>
+      <description>証券会社のシステムが不正アクセスを受けたことについて、サイバーセキュリティーに詳しい立命館大学の上原哲太郎教授は、金融機関が狙われる段階に変わってきた可能性があり、必要があればシステムの一時停止も含め…</description>
+      <pubDate>Wed, 21 Oct 2026 22:35:59 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>「ちぃたん☆」訴訟 2審で賠償命じられた須崎市が上告</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261021de63220</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261021de63220</guid>
+      <description>高知県須崎市のマスコットキャラクター「しんじょう君」に似たカワウソのキャラクター、「ちぃたん☆」を運営する芸能事務所の活動を妨害したとして、訴えを起こされた市側が、1880万円余りの賠償を命じられた2…</description>
+      <pubDate>Wed, 21 Oct 2026 23:50:31 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
