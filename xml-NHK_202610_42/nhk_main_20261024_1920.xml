@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:nhknews="http://news.web.nhk/rss/rss2.0/modules/nhknews/" version="2.0">
+  <channel>
+    <title>NHKONEニュース</title>
+    <description>日本放送協会 NHKONEニュース</description>
+    <link>https://news.web.nhk/newsweb/</link>
+    <item>
+      <title>【最新情報】台風30号西日本接近へ 西～東日本で大雨のおそれ</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261024de64650</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261024de64650</guid>
+      <description>大型の台風30号は、東シナ海を北上していて25日の午後には東寄りに進路を変え西日本に接近する見込みです。一方、前線の影響で西日本と東日本の広い範囲で、27日にかけて大雨となるおそれがあり、最新の情報を…</description>
+      <pubDate>Sat, 24 Oct 2026 22:48:50 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>日本シリーズ ソフトバンク延長制し先勝 庄子が決勝打【詳報】</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261024de64830</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261024de64830</guid>
+      <description>プロ野球の日本シリーズ第1戦は、2年連続の日本一を目指すソフトバンクが、DeNAに延長11回、3対1で勝ちました。
+
+試合は、7回にソフトバンクが先制し、DeNAが8回に牧秀悟選手のホームランで追いつ…</description>
+      <pubDate>Sun, 25 Oct 2026 02:37:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>神奈川 秦野の弘法山公園近くでクマ再出没 放獣個体と判明</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261024de64937</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261024de64937</guid>
+      <description>神奈川県秦野市で今月、捕獲されて山奥に放されたツキノワグマが再び、市内で確認されたことがわかりました。市は24日から公園に通じるルートを閉鎖し、注意を呼びかけています。</description>
+      <pubDate>Sat, 24 Oct 2026 21:53:19 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>GMO 不正アクセス問題で政府に「能動的サイバー防御」を要請</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261024de64764</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261024de64764</guid>
+      <description>GMOインターネットグループは投資家向けのクラウドサービスが不正アクセスを受けた問題で、政府に対し、被害の拡大を未然に防止するための「能動的サイバー防御」を緊急要請したことを明らかにしました。会社はイ…</description>
+      <pubDate>Sat, 24 Oct 2026 18:57:00 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>台風30号 台湾で1人死亡 600人以上けが 日本人学校で門倒れる</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261024de64639</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261024de64639</guid>
+      <description>台風30号が接近した台湾では、各地で強い風が吹き、建物や樹木が倒れる被害が相次ぎました。</description>
+      <pubDate>Sat, 24 Oct 2026 22:26:02 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>愛知・名古屋アジアパラ大会閉会式 7日間の熱戦に幕</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261024de64785</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261024de64785</guid>
+      <description>日本で初めて開かれたアジア最大のパラスポーツの総合大会、愛知・名古屋アジアパラ大会は24日に閉会式が行われ、7日間にわたる大会の幕を閉じました。</description>
+      <pubDate>Sun, 25 Oct 2026 00:04:49 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+    <item>
+      <title>サッカーJ1 第12節 広島が快勝 浅野拓磨が復帰後初ゴール</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261024de64945</link>
+      <guid isPermaLink="true">https://news.web.nhk/newsweb/na/nd-20261024de64945</guid>
+      <description>サッカーJ1は第12節の5試合が行われ、サンフレッチェ広島は元日本代表の浅野拓磨選手がチーム復帰後初ゴールを決めて清水エスパルスに快勝しました。</description>
+      <pubDate>Sun, 25 Oct 2026 00:13:10 +0900</pubDate>
+      <nhknews:new>false</nhknews:new>
+    </item>
+  </channel>
+</rss>
